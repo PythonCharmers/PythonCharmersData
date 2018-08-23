@@ -1,0 +1,395 @@
+Country;Network;APN;Username;Password;DNS;SMTP-Server;Notes
+Albania;Vodafone;Twa;guest;guest;-;?;-
+Angola;Unitel;internet.unitel.co.ao;guest;guest;-;?;-
+Argentina;CTI;internet.ctimovil.com.ar;ctigprs;-;170.51.255.100<br>170.51.242.18;?;-
+Argentina;Movistar;internet;internet;internet;200.49.193.140<br>200.49.206.140;?;-
+Argentina;Personal;gprs.personal.com;gprs;adgj;172.25.7.6 172.25.7.7;?;-
+Australia;Optus (2G);internet;guest;guest;202.139.83.3<br>192.65.91.129;mail.optusnet.com.au;-
+Australia;Optus (3G);connect;guest;guest;202.139.83.3<br>192.65.91.129;mail.optusnet.com.au;-
+Australia;Optus<br>(3G Prepay);preconnect;guest;guest;202.139.83.3<br>192.65.91.129;mail.optusnet.com.au;-
+Australia;Telstra<br>(2G);telstra.internet;guest;guest;203.50.2.71<br>139.130.4.4;mail.bigpond.com;-
+Australia;Telstra<br>(3G data bundles);telstra.datapack;-;Telstra;203.50.2.71<br>139.130.4.4;mail.bigpond.com;-
+Australia;Telstra<br>(3G pay by time);telstra.pcpack;-;Telstra;203.50.2.71<br>139.130.4.4;mail.bigpond.com;-
+Australia;Telstra<br>(3G prepay);telstra.wap;-;Telstra;203.50.2.71<br>139.130.4.4;mail.bigpond.com;-
+Australia;Three;3netaccess;guest;guest;202.124.68.130<br>202.124.76.66;smtp.three.com.au;-
+Australia;Three(prepaid);3services;guest;guest;202.124.68.130<br>202.124.76.66;smtp.three.com.au;-
+Australia;Virgin Mobile;VirginInternet? [12];guest;guest;61.88.88.88;?;Note the APN<br>capitalisation
+Australia;Vodafone;vfinternet.au;guest;guest;192.189.54.33<br>210.80.58.3;smtp.vodafone.net.au;-
+Austria;Drei;drei.at;guest;guest;213.94.78.16<br>213.94.78.17;smtp.drei.at;-
+Austria;Max Online;gprsinternet;GPRS;-;213.162.64.1<br>213.162.64.2;?;-
+Austria;Max Online<br>(Business);business.gprsinternet;GPRS;-;213.162.64.1<br>213.162.64.2;?;-
+Austria;Max Online<br>(Metro);gprsmetro;GPRS;-;213.162.64.1<br>213.162.64.2;?;-
+Austria;Mobilkom A1;a1.net;ppp@a1plus.at;ppp;194.48.139.254<br>194.48.124.202;?;-
+Austria;Orange;orange.web<br>oder<br>fullspeed;web;web;dynamic<br>(194.24.128.100)<br>(81.3.216.100);?;-
+Austria;tele.ring;web;web@telering.at;web;212.95.31.11<br>212.95.31.35;?;-
+Azerbaijan;Azercell;internet;guest;guest;-;?;-
+Azerbaijan;Bakcell;mms;guest;guest;-;?;Proxy 213.172.91.046<br>port 8080
+Bahamas;Batelco;internet.btcbahamas.com;guest;guest;-;?;-
+Bangladesh;AKTel;atmmms<br>atmwap;guest;guest;-;?;For MMS & Internet<br>For WAP
+Bangladesh;Banglalink;blweb;guest;guest;-;?;-
+Bangladesh;Grameen Phone;gpinternet;-;-;202.56.4.120<br>202.56.4.121;?;Proxy: 10.128.1.2:8080
+Bangladesh;Grameen Phone;gpwap;-;-;-;?;For WAP
+Belarus;MTS;internet.mts.by;mts;mts;-;?;-
+Belarus;Velcom<br>(Simple GPRS);web.velcom.by;web;web;212.98.162.154<br>193.232.248.2;?;-
+Belarus;Velcom<br>(Plus plan);plus.velcom.by;plus;plus;212.98.162.154<br>193.232.248.2;?;-
+Belarus;Velcom<br>(Privet plan);privet.velcom.by;privet;privet;212.98.162.154<br>193.232.248.2;?;-
+Belarus;Velcom<br>(WAP plan);wap.velcom.by;wap;wap;212.98.162.154<br>193.232.248.2;?;-
+Belgium;BASE<br>;gprs.base.be;base;base;-;mail.internetmail.be;-
+Belgium;Mobistar<br>(personal);internet.be;mobistar;mobistar;212.65.63.10<br>212.65.63.145;gprsmail.mobistar.be;-
+Belgium;Mobistar<br>(business);web.pro.be;mobistar;mobistar;212.65.63.10<br>212.65.63.145;gprsmail.mobistar.be;-
+Belgium;Orange<br>;orangeinternet;guest;guest;-;?;Use CID1
+Belgium;Proximus<br>(Internet);internet.proximus.be;guest;guest;195.238.2.21<br>195.238.2.22;relay.proximus.be;Use CID1
+Belgium;Proximus<br>(intranet);intraprox.be;guest;guest;195.238.2.21<br>195.238.2.22;relay.proximus.be;Use CID1
+Bosnia &<br>Hercegovina;BH GSM;mms.bhmobile.ba;guest;guest;-;?;Proxy: 195.222.056.041<br>Port: 8080 or 9201
+Botswana;Mascom Wireless;internet.mascom;guest;guest;-;?;-
+Brazil;Claro;claro.com.br;claro;claro;200.169.126.15<br>10.121.5.60;clarotorpedo.com.br;-
+Brazil;Oi;gprs.oi.com.br;guest;guest;-;?;-
+Brazil;Oi (WAP);wapgprs.oi.com.br;oiwap;oioioi;-;?;-
+Brazil;TIM;tim.br;tim;tim;10.223.246.102<br>10.223.246.103;?;-
+Brazil;Velox;wap.telcel.com;iesgprs;iesgprs2002;66.36.250.14;?;-
+Bulgaria;GloBul? [13];internet.globul.bg;globul;[none];192.168.88.11;smtp.globul.bg;Not tested
+Bulgaria;M-Tel;inet-gprs.mtel.bg;mtel;mtel;213.226.7.34<br>213.226.7.35;?;Not tested
+Cameroon;MTN Cameroon;INTERNET;guest;guest;-;?;Apr '06: network<br>in test phase
+Cameroon;Orange;orangecmgprs;orange;orange;-;?;-
+Canada;Microcell<br>(Fido);internet.fido.ca;fido;fido; 204.92.15.211<br>207.181.101.4<br>207.181.101.5 ;gprs.fido.ca;-
+Canada;Rogers AT&T;internet.com;wapuser1;wap;207.181.101.4<br>207.181.101.5;smtp.rogerswirelessdata.com;-
+Chile;Claro;wap.clarochile.cl;clarochile;clarochile;-;?;-
+Chile;Entel PCS;imovil.entelpcs.cl;entelpcs;entelpcs;164.77.252.197<br>164.77.252.198;smtp.entelpcs.com;Uses NAT
+Chile;Movistar;wap.tmovil.cl;wap;wap;-;?;-
+Chile;Telefonica<br>Movil;web.tmovil.cl;web;web;200.68.32.180<br>200.30.193.15;correomovil.tmovil.cl;Uses NAT
+China;China Mobile;cmnet;guest;guest;-;?;-
+China;China Unicom;[none];guest;guest;10.0.2.100;?;-
+China;China Telekom;3G;ctnet@mycdma.cn;vnet.mobi;-;?;Phone #777
+Congo;Vodacom;vodanet;vodalive;-;172.24.97.1;?;-]
+Costa Rica;IceCelular? [14];icecelular;guest;guest;-;?;-
+Cóte d'Ivoire;MTN;internet;guest;guest;172.16.100.5;web.mtn.ci;-
+Croatia;HT Mobile;web.htgpr;38591;38591;-;?;-
+Croatia;VIPNET START;gprs0.vipnet.hr;38591;38591;-;?;-
+Croatia;VIPNET PRO;gprs5.vipnet.hr;38591;38591;-;?;-
+Croatia;VIPNET 3G;3g.vip.hr;38591;38591;-;?;-
+Czech<br>Republic;Cesky Mobil<br>(contract);internet;guest;guest;212.67.64.2;?;-
+Czech<br>Republic;Cesky Mobil<br>(CM Prepay);cinternet;guest;guest;212.67.64.2;?;-
+Czech<br>Republic;T-Mobile;internet.t-mobile.cz;guest;guest;62.141.0.1<br>213.162.65.1;smtp.t-email.cz;-
+Czech<br>Republic;Telefonica<br>(contract);internet;guest;guest;160.218.10.200<br>160.218.43.200;smtp.iol.cz<br>smtp.etmail.cz;-
+Czech<br>Republic;Telefonica<br>(Go);gointernet;guest;guest;160.218.10.201<br>194.228.2.1;smtp.iol.cz<br>smtp.etmail.cz;-
+Czech<br>Republic;Vodafone<br>(contract);internet;guest;guest;217.77.161.130<br>217.77.161.131;smtp.mujoskar.cz;-
+Czech<br>Republic;Vodafone<br>(pre-pay);ointernet;guest;guest;217.77.161.130<br>217.77.161.131;?;-
+Denmark;3;[none];guest;guest;-;?;-
+Denmark;Orange;web.orange.dk;guest;guest;212.97.206.131<br>212.97.206.161;?;Use CID1
+Denmark;Sonofon;internet;guest;guest;212.88.64.199<br>212.88.64.14;mail.sonofon.dk;-
+Denmark;TDC;internet;guest;guest;194.239.134.83<br>193.162.153.164;?;-
+Denmark;Telia;www.internet.mtelia.dk;guest;guest;-;smtp.gprs-connect.dk;-
+Dominican<br>Republic;Orange;orangenet.com.do;guest;guest;-;mail.orangemail.com.do;-
+El Salvador;Movistar;movistar.sv;movistarsv;movistarsv;-;?;-
+Egypt;Click Vodafone;internet.vodafone.net;internet;internet;-;?;-
+Egypt;Etisalat;etisalat;guest;guest;-;?;-
+Egypt;MobiNil? [15];mobinilweb;guest;guest;80.75.166.250<br>163.121.163.201;?;-
+Estonia;EMT;internet.emt.ee;guest;guest;217.71.32.116<br>217.71.32.115;gprsmail.emt.ee;-
+Estonia;RLE;internet;guest;guest;-;?;-
+Fiji;Vodafone;vfinternet.fj;guest;guest;-;smtpg.vodafone.com.fj;-
+Finland;Dna;internet;guest;guest;217.78.192.78<br>217.78.192.22;?;-
+Finland;Elisa<br>(Kolumbus);internet;rlnet;internet;193.229.0.40<br>193.229.0.42;smtp.kolumbus.fi;-
+Finland;Saunalahti;internet.saunalahti;guest;guest;195.197.54.100<br>195.74.0.47;posti.saunalahti.fi;-
+Finland;Sonera;internet;-;-;192.89.123.230<br>192.89.123.231;?;-
+Finland;Song;internet.song.fi;song@internet;songnet;-;smtp.songnet.fi;-
+France;Bouygues;ebouygtel.com;guest;guest;62.201.129.99<br>62.201.159.99<br> 62.201.199.99;smtp.6sens.com;-
+France;Bouygues<br>(B2Bouygtel);b2bouygtel.com;guest;guest;62.201.129.99;?;-
+France;Orange<br>(contract);orange.fr;orange;orange;194.51.3.56<br>194.51.3.76;?;-
+France;Orange<br>(business);internet-entreprise;orange;orange;194.51.3.56<br>194.51.3.76;?;Full IP access<br>incl. SSH & IPSec
+France;Orange MIB;orange-mib;mportail;mib;-;?;Proxy:---172.16.2.8:8000 [16]∞
+France;Orange<br>Mobicarte;orange-acte;orange;orange;-;?;No Internet access
+France;SFR;websfr;guest;guest;172.20.2.10<br>172.20.2.39;mail.sfr.net;-
+France;TEN<br>(unlimited);ao.fr;orange;orange;-;smtp.go.ten-mobile.fr;-
+France;TEN<br>(pay by MByte);ofnew.fr;orange;orange;-;smtp.go.ten-mobile.fr;-
+French Polynesia;Vini;wap;i-vini;-;-;mail.mana.pf;-
+Georgia;Geocell;internet;guest;guest;212.72.130.20<br>212.72.152.1;mail.geocell.com.ge;-
+Germany;AldiTalk? [17]/<br>MedionMobile? [18];internet.eplus.de;eplus;gprs;212.23.97.2<br>212.23.97.3;?;-
+Germany;E-Plus;internet.eplus.de;eplus;gprs;212.23.97.2<br>212.23.97.3;?;-
+Germany;Fonic;pinternet.interkom.de;guest;guest;-;?;-
+Germany;O2 (time based plans);surfo2;guest;guest;62.134.11.4<br>195.182.110.132;mail.o2online.de;-
+Germany;O2 (volume based plans);internet;guest;guest;195.182.110.132<br>62.134.11.4;mail.o2online.de;-
+Germany;Quam;quam.de;quam;quam;193.189.244.192<br>193.189.244.205;?;-
+Germany;T-Mobile D1;internet.t-mobile<br>internet.t-d1.de;t-mobile;tm;193.254.160.1;?;-
+Germany;Tchibo;webmobil1;guest;guest;82.112.100.8;?;-
+Germany;Vodafone;web.vodafone.de;vodafone;vodafone;139.7.30.125<br>139.7.30.126;?;-
+Germany;N24-stick;event.vodafone.de;vodafone;vodafone;139.7.30.125<br>139.7.30.126;?;-
+Ghana;Areeba<br>;internet.areeba.com.gh;guest;guest;196.201.34.5<br>213.137.131.3;mail.spacefon.com;SMTP server also<br>supports Proxy
+Ghana;ONETouch;browse;guest;guest;-;?;-
+Ghana;Tigo (WWW);web.tigo.com.gh;web;-;-;?;-
+Ghana;Tigo (WAP);wap.tigo.com.gh;wap;wappost;-;?;Proxy server<br>10.4.1.7:8080
+Greece;Cosmote;internet<br>3g-internet;guest;guest;195.167.65.194;?;-
+Greece;Telestet;gnet.b-online.gr;MSISDN, e.g.<br>3093XXXXXXX;24680;212.152.79.19<br>212.152.79.20;?;-
+Greece;TIM;gint.b-online.gr;web;web;-;mail.b-online.greece;-
+Greece;Vodafone;internet.vodafone.gr;guest;guest;-;?;-
+Grenada;Cable & Wireless;wap;guest;guest;-;?;-
+Guatemala;Claro;internet.ideasclaro;guest;guest;-;?;-
+Guatemala;Tigo<br>(Internet);internet.tigo.gt<br>broadband.tigo.gt;guest;guest;200.49.160.31<br>200.49.160.35;?;-
+Guatemala;Tigo<br>(WAP);Wap.tigo.gt;Wap;Wap;-;?;-
+Guyana;GT&T Cellink Plus;mms.cellinkgy.com;gtt;gtt;-;?;-
+Honduras;Tigo;internet.tigo.hn;guest;guest;-;?;Some plans need<br>minimum balance<br>for GPRS use
+Hong Kong;CSL;hkcsl or <br>internet;guest;guest;202.84.255.1<br>203.116.254.150;?;-
+Hong Kong;New World;internet;guest;guest;-;?;-
+Hong Kong;Orange;web.orangehk.com;guest;guest;-;?;-
+Hong Kong;People;internet;guest;guest;-;?;-
+Hong Kong;SmarTone? [19];internet;guest;guest;202.140.96.51<br>202.140.96.52;?;-
+Hong Kong;Sunday;internet;guest;guest;-;?;-
+Hong Kong;Three;mobile.three.com.hk;guest;guest;-;?;-
+Hungary;Pannon<br>(normal);net;guest;guest;193.225.155.254<br>194.149.0.157;smtp.pannongsm.hu;-
+Hungary;Pannon<br>(flat);netx;guest;guest;193.225.153.17<br>195.56.172.113;smtp.pannongsm.hu;-
+Hungary;Pannon<br>(comp);snet;guest;guest;193.225.153.17<br>194.149.0.157;smtp.pannongsm.hu;Compressed<br>using<br>Macara
+Hungary;T-Mobile<br>(subscription);internet;[supplied];[supplied];194.176.224.3<br>194.176.224.1;?;-
+Hungary;T-Mobile<br>(non-sub.);internet;wap;Wap;194.176.224.3<br>194.176.224.1;?;-
+Hungary;T-Mobile<br>(MMS);mms-westel;mms;[supplied];212.51.115.1<br>194.176.224.3;?;-
+Hungary;Vodafone<br>(contract)<br>(compr.);internet.vodafone.net;guest;guest;80.244.97.30<br>80.244.96.1;?;Compressed<br>using<br>Macara
+Hungary;Vodafone<br>(contract)<br>(un-comp.);standardnet.vodafone.net;guest;guest;80.244.97.30<br>80.244.96.1;?;-
+Hungary;Vodafone<br>(pre-pay)<br>(comp.);vitamax.internet.vodafone.net;guest;guest;80.244.97.30<br>80.244.96.1;?;Compressed<br>using<br>Macara
+Hungary;Vodafone<br>(pre-pay)<br>(un-comp.);vitamax.snet.vodafone.net;guest;guest;80.244.97.30<br>80.244.96.1;?;-
+India;AirTel? [20];airtelgprs.com;guest;guest;202.56.240.5<br>202.56.230.5;?;-
+India;AirTel? [21] (WAP);airtelwap.com;guest;guest;202.56.240.5<br>202.56.230.5;?;WAP Proxy:---100.1.200.99---Port [22]∞ 8080
+India;BPL Mobile;bplgprs.com;bplmobile;-;202.169.145.34<br>202.169.129.40;?;-
+India;BSNL;celloneportal;guest;guest;192.168.051.163;?;-
+India;BSNL (prepay);www.e.pr;guest;guest;218.248.240.208<br>218.248.240.135;?;-
+India;Hutch<br>(normal);www;guest;guest;10.11.206.51<br>10.11.206.50;?;-
+India;Hutch<br>(Gujarat);web;guest;guest;10.11.206.51<br>10.11.206.50;-;-
+India;Idea Cellular;internet;guest;guest;10.4.42.15;?;-
+India;MTNL Delhi<br>(contract);gprsmtnldel;mtnl;mtnl123;-;?;-
+India;MTNL Delhi<br>(pre-pay);gprsppsdel;mtnl;mtnl123;-;?;-
+India;MTNL Mumbai<br>(contract);gprsmtnlmum;mtnl;mtnl123;-;smtp.mtnl.net.in;Proxy:---172.16.39.10:9401 [23]∞
+India;MTNL Mumbai<br>(pre-pay);gprsppsmum;mtnl;mtnl123;-;smtp.mtnl.net.in;Proxy:---172.16.39.10:9401 [24]∞
+India;Spice Telecom;simplyenjoy;[mobile number];spice;-;10.200.200.3;Proxy:100.1.200.3---port:8080 [25]∞ (Nokia)<br>port:9201 (others)
+India;Vodafone<br>(Connect);www;guest;guest;-;?;-
+India;Vodafone<br>(Live);portalnmms;guest;guest;-;?;-
+Indonesia;AXIS;axis;axis;123456;-;?;-
+Indonesia;Excelcomindo;www.xlgprs.net;xlgprs;proxl;202.152.254.245<br>202.152.254.246;?;Proxy:---202.152.240.50 [26]∞<br> port 8080/9201
+Indonesia;IM3;www.indosat-m3.net<br> wap.indosat-m3.net;gprs;im3;202.155.46.66<br>202.155.46.77;mail.indosat-m3.net;Proxy:---10.19.19.19---port [27]∞ 8080/9201
+Indonesia;Indosat<br>(Matrix);satelindogprs.com<br>indosatgprs;guest;guest;202.155.46.66<br>202.155.46.77;mail.matrix-centro.com;Proxy:---202.152.162.88 [28]∞<br> port 8080/9201
+Indonesia;Telkomsel;internet<br>telkomsel;wap;wap123;202.155.14.251<br>202.155.14.253;mail.telkomsel.com;Proxy:---10.1.89.130---port [29]∞ 8000/9201
+Iran;Irancell;mtnirancell;guest;guest;-;?;Proxy: 10.131.26.138<br>Port 8080
+Ireland;Meteor;isp.mymeteor.ie;my;meteor;-;?;HTTP proxy:<br>10.85.85.85<br>port 8799
+Ireland;O2<br>(contract);open.internet;gprs;gprs;62.40.32.33<br>62.40.32.34;?;Use CID1
+Ireland;O2<br>(pre-pay);pp.internet;gprs;gprs;62.40.32.33<br>62.40.32.34;?;Use CID1
+Ireland;Vodafone<br>(contract);isp.vodafone.ie;vodafone;vodafone;-;?;-
+Ireland;Vodafone<br>(pre-pay);live.vodafone.com;vodafone;vodafone;10.24.59.100;?;-
+Israel;CellCom? [30];etecsa;etecsa;-;192.168.91.10<br>192.168.91.4;?;-
+Israel;MTC-Vodafone;apn01;guest;guest;10.10.10.30;?;-
+Israel;Orange;orangeinternet;guest;guest;158.43.192.1<br>158.43.128.1;smtp.orange.net;-
+Italy;Blu;INTERNET;guest;guest;212.17.192.49<br>212.17.192.209;?;-
+Italy;H3G;tre.it;guest;guest;62.13.171.1<br>62.13.171.2;?;-
+Italy;H3G (Naviga3? [31]);naviga.tre.it;guest;guest;62.13.171.1<br>62.13.171.2;?;-
+Italy;H3G (prepay);pre.tre.it;guest;guest;62.13.171.1<br>62.13.171.2;?;-
+Italy;TIM;ibox.tim.it;guest;guest;213.230.155.94<br>213.230.130.222;mail.posta.tim.it;-
+Italy;Vodafone<br>(Omnitel);web.omnitel.it;guest;guest;83.224.66.134<br>83.224.65.134;smtp.net.vodafone.it<br>smtpmail.vodafone.it;-
+Italy;Wind;internet.wind<br>internet.wind.biz;Wind;Wind;212.245.255.2<br>212.141.84.12;mail.inwind.it;-]
+Jamaica;Cable & Wireless;wap;guest;guest;-;?;-
+Jamaica;Digicel;web.digiceljamaica.com;wapuser;wap03jam;208.131.176.126<br>200.10.152.232;?;-
+Japan;Softbank;vodafone;ai@vodafone;vodafone;61.195.195.153<br>61.195.194.26;?;-
+Kazakhstan;Beeline;internet.beeline.kz;@internet.beeline;-;212.19.149.53<br>194.226.128.1;?;-
+Kenya;Celtel;ke.celtel.com;guest;guest;-;mail.gprs.safaricom.com;-
+Kenya;Safaricom;web.safaricom.com;web;web;-;mail.gprs.safaricom.com;-
+Kosovo;iPKO;ipko;guest;guest;-;?;WAP Proxy:---213.229.249.040---Port [32]∞: 8080 or 9201
+Kosovo;Vala;vala900-int;guest;guest;-;?;-
+Laos;ETL;etlnet;guest;guest;192.168.4.130;smtp.etllao.com;Proxy: 192.168.4.130
+Laos;ETL;etlnet;guest;guest;192.168.4.130;smtp.etllao.com;Proxy: 192.168.4.130
+Laos;Tigo;tigolaowap;guest;guest;-;?;-
+Latvia;LMT;internet.lmt.lv;-;-;212.93.96.2<br>212.93.96.4;com.lmt.lv;-
+Latvia;Tele2? [33];internet.tele2.lv;gprs;internet;-;?;-
+Lebannon;Cellis FTML;internet.ftml.com.lb;plugged;plugged;-;?;-
+Lebannon;MTC Touch;gprs.mtctouch.com.lb;guest;guest;-;?;-
+Lithuania;Bite GSM;banga;bite;-;213.226.131.131<br>193.219.88.36;smtp.banga.lt;-
+Lithuania;Omnitel<br>(contract);gprs.omnitel.net;guest;guest;194.176.32.129<br>195.22.175.1;?;-
+Lithuania;Omnitel<br>(no contract);gprs.startas.lt;omni;omni;194.176.32.129<br>195.22.175.1;?;-
+Luxembourg;LUXGSM;webp.pt.lu;guest;guest;194.154.192.101<br>194.154.192.102;?;-
+Luxembourg;Tango;internet;tango;tango;-;?;-
+Luxembourg;VOXmobile;vox.lu;guest;guest;212.088.139.012<br>212.088.139.011;?;Proxy:---proxy.vox.lu:9201 [34]∞
+Macau;CTM;ctm-mobile;guest;guest;-;?;-
+Macau;Macau Hutchison<br>Telecom (Internet);web.hutchisonmacau.com;hutchison;1234;-;?;Proxy:---10.30.3.151:9201 [35]∞
+Macau;Macau Hutchison<br>Telecom (MMS);mms.hutchisonmacau.com;hutchison;1234;-;?;Proxy:---10.30.3.53:9201 [36]∞
+Malaysia;DIGI;diginet;guest;guest;203.92.128.131<br>203.92.128.132;?;-
+Malaysia;Celcom;celcom.net.my;guest;guest;-;?;-
+Malaysia;Maxis 2G<br>(contract);internet.gprs.maxis;guest;guest;202.75.129.101<br>10.216.4.21;smtp.maxis.net.my;-
+Malaysia;Maxis 3G<br>(contract);unet;maxis;wap;10.213.17.1<br>10.213.17.2;smtp.maxis.net.my;-
+Malaysia;Maxis<br>(pre-pay);net;maxis;net;-;smtp.maxis.net.my;HTTP Proxy:---202.75.133.49:9201 [37]∞
+Malaysia;Timecel;timenett.com.my<br>(timenet.com.my?);guest;guest;203.121.16.85<br>203.121.16.120;?;-
+Malaysia;TM Touch;internet;guest;guest;202.188.0.133;?;-
+Maldives;Dhiraagu;internet.dhimobile;guest;guest;-;?;Proxy: 202.1.201.237,<br>Port 8080
+Malta;Go Mobile<br>(contract);gosurfing;guest;guest;-;?;-
+Malta;Go Mobile<br>(pre-pay);rtgsurfing;guest;guest;-;?;-
+Malta;Vodafone;Internet;Internet;Internet;-;?;-
+Mauritius;Emtel;web;[mobile number];MMSC;-;?;-
+Mexico;Telcel;internet.itelcel.com;webgprs;webgprs2002;148.233.151.245;smtp.itelcel.com;Supports<br>compression
+Moldavia;Moldcell;internet;gprs;gprs;-;?;-
+Mongolia;MobiCom? [38];internet;guest;guest;-;?;-
+Montenegro;Promonte GSM;gprs.promonte.com;guest;guest;-;?;-
+Montenegro;T-Mobile<br>(contract);internet-postpaid;38167;38167;-;?;-
+Morocco;Maroc Telecom;iam;wac;1987;-;?;-
+Morocco;Medi Telecom;wap.meditel.ma;MEDIWAP;MEDIWAP;150.150.10.20;smtp.itelcel.com;-
+Mozambique;MCel;isp.mcel.mz<br>wap.mcel.mz;guest;guest;212.96.24.2<br>212.96.24.1;?;-
+Namibia;MTC;ppsinternet;ppsuser;ppsuser;-;?;Phone: *99**1*1#
+Nepal;Mero Mobile;mero;guest;guest;-;?;-
+Netherlands;Hi;portalmmm.nl;guest;guest;-;?;-
+Netherlands;KPN Mobile;internet;KPN;gprs;62.133.126.28<br>62.133.126.29;smtp.mobiel.net;-
+Netherlands;O2;internet;guest;guest;195.99.65.220<br>195.99.66.220;?;-
+Netherlands;T-Mobile<br>active;internet;tmobile;tmobile;193.78.240.12<br>193.79.242.39;?;-
+Netherlands;Telfort;internet;telfortnl;password;-;?;-
+Netherlands;Vodafone Live;live.vodafone.com;vodafone;vodafone;-;authsmtp.vodafone.nl;Private<br>accounts
+Netherlands;Vodafone<br>(business);office.vodafone.nl;vodafone;vodafone;-;?;Business<br>accounts
+New Zealand;Vodafone Live<br>;live.vodafone.com;guest;guest;202.20.93.10<br>203.97.191.189;smtp2.vodafone.net.nz;-
+New Zealand;Vodafone<br>(unrestricted);internet;guest;guest;202.20.93.10<br>203.97.191.189;smtp2.vodafone.net.nz;-
+New Zealand;Vodafone<br>(restricted);www.vodafone.net.nz;guest;guest;202.20.93.10<br>203.97.191.189;smtp2.vodafone.net.nz;-
+Nicaragua;Alo Pcs;internet.ideasalo.ni;internet;internet;-;?;-
+Nicaragua;Movistar;internet.movistar.ni<br>wap.movistar.ni;internet<br>wap;internet<br>wap;-;?;WAP gateway:<br>10.12.23.1<br>8080 or 9201
+Nigeria;Celtel (contract);internet.ng.celtel.com;internet;internet;-;172.18.254.5;-
+Nigeria;Celtel (pre-pay);wap.ng.celtel.com;wap;wap;-;172.18.254.5;-
+Nigeria;Globacom<br>(contract);glodirect;gprs;gprs;-;10.100.98.22;-
+Nigeria;Globacom<br>(Pre-pay);glogwap;wap;wap;-;?;-
+Nigeria;MTN Nigeria;web.gprs.mtnnigeria.net;wap;gprs;-;?;Internet/WAP:---10.199.212.2---MMS:---10.199.212.8 [39]∞
+Norway;Netcom;internet.netcom.no;netcom;netcom;212.45.188.43<br>212.45.188.44;?;-
+Norway;Telenor Mobil;internet.telenor.no;guest;guest;212.17.131.3<br>48.122.161.2;smtp.euromail.no;-
+Norway;Ventelo;internet.ventelo.no;-;1111;-;?;-
+Oman;Nawras;isp.nawras.com.om;guest;guest;-;?;-
+Pakistan;Mobilink GSM;connect.mobilinkworld.com;guest;guest;-;?;-
+Pakistan;Mobilink Jazz;jazzconnect.mobilinkworld.com;guest;guest;-;?;-
+Pakistan;Telenor;internet;telenor;telenor;-;?;-
+Pakistan;UFone;ufone.internet;ufone;ufone;212.45.188.43<br>212.45.188.44;?;-
+Pakistan;ZONG<br>(China Mobile);zongwap<br>zonginternet;guest;guest;-;?;-
+Panama;Cable & Wireless;apn01.cwpanama.com.pa;xxx;xxx;172.25.3.5;?;-
+Panama;Movistar;internet.movistar.pa;movistarpa;movistarpa;-;?;-
+Paraguy;CTI;internet.ctimovil.com.py;ctigprs;ctigprs999;-;?;-
+Peru;Claro (TIM);tim.pe;tim;tulibertad;-;?;-
+Philippines;Globe Telecoms<br>(Web);internet.globe.com.ph;globe;globe;203.127.225.10<br>203.127.225.11;mail.globenet.com.ph;-
+Philippines;Globe Telecoms<br>(WAP);www.globe.com.ph;globe;globe;203.127.225.10<br>203.127.225.11;?;WAP only
+Philippines;Smart;internet;witsductoor;banonoy;202.57.96.3<br>202.57.96.4;?;-
+Philippines;Sun Cellular;minternet;guest;guest;-;?;-
+Poland;ERA;erainternet;erainternet;erainternet;213.158.194.1<br>213.158.193.38;?;-
+Poland;Heyah;heyah.pl;heyah;heyah;213.158.194.1<br>213.158.193.38;?;-
+Poland;Idea;www.idea.pl;idea;idea;194.9.223.79<br>217.17.34.10;?;-
+Poland;iPlus;www.plusgsm.pl;guest;guest;212.2.96.51<br>212.2.96.52;?;-
+Poland;Orange;internet;internet;internet;194.204.159.1<br>194.9.223.79;mail.orange.pl;-
+Poland;Polkomtel;www.plusgsm.pl;guest;guest;212.2.96.51;?;-
+Portugal;Optimus<br>(GPRS);internet;guest;guest;194.79.69.129;?;-
+Portugal;Optimus<br>(3G/HSDPA);umts;guest;guest;194.79.69.129;?;-
+Portugal;TMN;internet;guest;guest;194.65.3.20<br>194.65.3.21;?;-
+Portugal;Vodafone<br>(Telecel);internet.vodafone.pt;guest;guest;212.18.160.133<br>212.18.160.134;?;-
+Qatar;Qtel;[none];guest;guest;-;?;-
+Romania;Orange;internet;guest;guest;172.22.7.21<br>172.22.7.20;?;-
+Romania;Vodafone;internet.vodafone.ro;internet.vodafone.ro;vodafone;193.230.161.3<br>193.230.161.4;?;-
+Russia;BaikalWestCom? [41];inet.bwc.ru;bwc;bwc;81.18.113.2<br>81.18.112.50;relay.bwc.ru;-
+Russia;BeeLine? [42];internet.beeline.ru;beeline;beeline;217.118.66.243<br>217.118.66.244;?;-
+Russia;Enisey TeleCom? [43];internet.etk.ru;etk;[supplied];10.10.30.3<br>10.10.30.4;?;-
+Russia;Megafon<br>(Dalniy Vostok);internet;guest;guest;83.149.52.77<br>194.186.112.18;?;-
+Russia;Megafon<br>(kvk);internet;guest;guest;83.149.24.244<br>62.183.50.230;?;-
+Russia;Megafon<br>(ltmsk);internet;guest;guest;10.22.10.20<br>10.22.10.21;?;-
+Russia;Megafon<br>(Moscow);internet;gdata;gdata;-;?;-
+Russia;Megafon<br>(mc);internet;guest;guest;81.18.129.252<br>217.150.34.1;?;-
+Russia;Megafon<br>(NWGSM);internet;guest;guest;-;?;-
+Russia;Megafon<br>(Siberia);internet;guest;guest;81.18.129.252;?;-
+Russia;Megafon<br>(UGSM);internet;guest;guest;83.149.32.2<br>83.149.33.2;?;-
+Russia;Megafon<br>(usi);internet;guest;guest;212.120.160.130<br>212.120.160.130;?;-
+Russia;Megafon<br>(Volga);internet;guest;guest;83.149.16.7<br>195.128.128.1;?;-
+Russia;Motiv;inet.ycc.ru;motiv;[supplied];217.148.52.34<br>217.148.52.3;?;Uses Beeline
+Russia;MTS;internet.mts.ru<br>internet.kuban;mts;mts;213.87.0.1<br>213.87.1.1;mail.mtsnet.ru;-
+Russia;NCC;internet;ncc;[supplied];10.0.3.5<br>10.0.3.2;?;-
+Russia;NTC;internet.ntc;guest;guest;80.243.64.67<br>80.243.68.34;?;-
+Russia;PrimTel? [44];internet.primtel.ru;guest;guest;-;?;-
+Russia;Tatincom;internet.tatincom.ru;tatincom;tatincom;89.207.96.2<br>89.207.97.18;?;-
+Russia;Tele2? [45];wap.tele2.ru;gprs;-;89.207.96.2<br>89.207.97.18;?;-
+Saint Lucia;Cable & Wireless;internet;guest;guest;-;?;-
+Saint Vincent &<br>the Grenadines;Digicel;wap.digiceloecs.com;wapoecs;wap03oecs;-;?;-
+Saudi Arabia;Mobily;web2;guest;guest;-;?;-
+Saudi Arabia;STC;jawalnet.com.sa;guest;guest;212.118.133.101<br>212.118.133.102;?;-
+Senegal;Tigo;wap.sentelgsm.com;guest;guest;-;?;-
+Montenegro;Mobtel Srbija;internet;mobtel;gprs;217.65.192.1<br>217.65.192.52;?;Proxy:---217.65.192.33 [46]∞
+Montenegro;Telekom Srbija;gprsinternet;mts;064;195.178.38.3;?;-
+Montenegro;Telekom Srbija<br>(MMS service);mms;mts;064;195.178.38.3;?;-
+Montenegro;Telekom Srbija<br>(WAP service);gprswap;mts;064;195.178.38.3;?;-
+Singapore;M1;sunsurf;65;user123;202.79.64.21<br>202.79.64.26;?;-
+Singapore;SingTel? [47];internet;guest;guest;165.21.100.88<br>165.21.83.88;mail.singnet.com.sg;-
+Singapore;Starhub;shwap;star;hub;203.116.1.78;?;-
+Slovakia;Eurotel;internet;guest;guest;194.154.230.64<br>194.154.230.74;?;-
+Slovakia;Globtel;internet;guest;guest;213.151.200.3<br>195.12.140.130;?;-
+Slovakia;Orange;internet;jusernejm;pasvord;-;?;-
+Slovenia;Mobitel<br>(Internet);internet;mobitel;internet;213.229.248.161<br>193.189.160.11;?;-
+Slovenia;Mobitel<br>(Internet Pro);internetpro;mobitel;internet;213.229.248.161<br>193.189.160.11;?;-
+Slovenia;Simobil;[none];guest;guest;121.30.86.130<br>193.189.160.11;?;-
+South Africa;Cell-C;internet;guest;guest;196.7.0.138<br>196.7.142.132;?;-
+South Africa;MTN;internet;guest;guest;196.11.240.241;mail.mtn.co.za;-
+South Africa;Virgin Mobile;vdata;guest;guest;196.7.0.138<br>196.7.142.132;mail.cmobile.co.za;-
+South Africa;Vodacom;internet;guest;guest;196.207.40.165<br>196.43.46.190;smtp.vodamail.co.za;-
+South Africa;Vodacom<br>(VPN);internetvpn;guest;guest;196.207.40.165<br>196.43.46.190;smtp.vodamail.co.za;-
+Spain;Jazztel;jazzinternet;guest;guest;-;?;-
+Spain;Orange;internet;orange;orange;213.143.33.8<br>213.143.32.20;?;-
+Spain;Simyo;gprs-service.com;guest;guest;-;?;-
+Spain;Telefonica<br>(Movistar);movistar.es;movistar;movistar;194.179.1.100<br>194.179.1.101;movistar.es;-
+Spain;Vodafone<br>(Airtel);airtelnet.es;vodafone;vodafone;196.207.32.69<br>196.43.45.190;?;-
+Spain;Yoigo;internet;guest;guest;-;?;Pre-pay service
+Sri Lanka;Cellterl [FTD];wap;guest;guest;-;?;-
+Sri Lanka;Dialog GSM<br>(contract);www.dialogsl.com;guest;guest;-;?;-
+Sri Lanka;Dialog GSM<br>(pre-pay);ppinternet;guest;guest;-;?;-
+Sri Lanka;Mobitel;isp;guest;guest;-;?;-
+Suriname;Digicel Suriname;wap.digicelsr.com;wap;wap;-;?;-
+Sweden;Tele2? [48] (Comviq);internet.tele2.se;gprs;internet;130.244.127.161<br>130.244.127.169;?;-
+Sweden;Tele2? [49] (3G);internet.tele2.se;wap;wap;-;?;-
+Sweden;Telenor<br>(GPRS);internet.vodafone.net;guest;guest;-;mysmtp.vodafone.se<br>smtp.euromail.se;-
+Sweden;Telenor<br>(3G);services.vodafone.net;guest;guest;-;mysmtp.vodafone.se<br>smtp.euromail.se;-
+Sweden;Telia;online.telia.se;guest;guest;10.0.0.1<br>10.0.0.2;smtprelay1.telia.com;-
+Sweden;Tre (3G);internet.djuice.se;guest;guest;217.174.65.61<br>217.174.65.62;?;-
+Switzerland;Orange;internet;guest;guest;213.55.128.1<br>213.55.128.2;smtp.orangemail.ch;-
+Switzerland;Sunrise;internet;internet;internet;212.35.35.35<br>212.35.35.5;?;-
+Switzerland;Swisscom;gprs.swisscom.ch;guest;guest;164.128.36.34<br>164.128.76.39;mail.bluewin.ch;Use CID1
+Taiwan;Chunghwa<br>Telecom;emome;guest;guest;168.95.1.1<br>168.95.192.1;?;-
+Taiwan;Far EasTone? [50];fetnet01;guest;guest;210.241.199.199;?;-
+Taiwan;Hinet;internet;guest;guest;-;?;-
+Taiwan;KG Telecom;internet;guest;guest;-;?;-
+Taiwan;Taiwan Cellular;internet;guest;guest;-;?;-
+Taiwan;TransAsia? [51];internet;guest;guest;-;?;-
+Tanzania;Celtel Tz;internet.tz.celtel.com;guest;guest;-;?;-
+Thailand;AIS;[none];ais;ais;202.183.255.20<br>202.183.255.21;?;-
+Thailand;DTAC;www.dtac.co.th;guest;guest;202.44.202.2<br>203.44.144.33;?;-
+Thailand;True;internet;true;true;-;?;-
+Trinidad &<br>Tobago;Digicel;wap.digiceltt.com;wap;wap;-;?;-
+Trinidad &<br>Tobago;TSTT;internet;wap;wap;-;?;-
+Turkey;Aria;internet;guest;guest;212.156.4.1<br>212.156.4.4;?;-
+Turkey;Aycell;aycell;guest;guest;212.156.4.1<br>212.156.4.4;?;-
+Turkey;Telsim<br>(Contract);telsim;telsim;telsim;212.65.128.20<br>212.156.4.7;?;-
+Turkey;Telsim<br>(Prepay);prepaidgprs;guest;guest;212.65.128.20<br>212.156.4.7;?;-
+Turkey;Türkcell;internet;gprs;gprs;86.108.136.27<br>86.108.136.26;?;-
+UAE;Etisalat;etisalat.ae;etisalat.ae;etisalat.ae;-;mail.emirates.net.ae;-
+Uganda;MTN;yellopix.mtn.co.ug;guest;guest;212.88.97.20<br>212.88.97.67;?;-
+UK;3;three.co.uk;guest;guest;-;?;-
+UK;AirTel? [52] Vodafone;airtel-ci-gprs.com;guest;guest;-;?;-
+UK;Jersey<br>Telecom;pepper;abc;abc;212.9.0.135<br>212.9.0.136;mail.jtfreesurf.co.uk;-
+UK;3 (broadband);3internet;guest;guest;171.31.140.69<br>171.30.140.69;smtp-mbb.three.co.uk;-
+UK;O2 (contract)<br>(optimised);mobile.o2.co.uk;faster;web;193.113.200.200<br>193.113.200.201;smtp.o2.co.uk;-
+UK;O2 (contract)<br>(non-optimised);mobile.o2.co.uk;bypass;web;193.113.200.200<br>193.113.200.201;smtp.o2.co.uk;-
+UK;O2 (pre-pay);payandgo.o2.co.uk;payandgo;payandgo;193.113.200.200<br>193.113.200.201;?;Must use proxy:<br>193.113.200.195<br>port 808
+UK;Orange<br>(Pay Monthly);orangeinternet;orange;multimedia;158.43.192.1<br>158.43.128.1;smtp.orange.net;-
+UK;Orange<br>(JustTalk? [53]);orangeinternet;wap;wap;193.35.133.10<br>193.35.134.10;smtp.orange.net;-
+UK;T-Mobile;general.t-mobile.uk;user;pass;149.254.201.126<br>149.254.192.126;smtp.t-email.co.uk;-
+UK;Tesco Mobile;prepay.tesco-mobile.com;tescowap;password;193.113.200.195;?;Supports WAP only
+UK;Virgin Mobile;goto.virginmobile.uk;user;[space];-;?;-
+UK;Vodafone<br>(contract);internet;web;web;10.206.65.68<br>10.203.65.68;send.vodafone.net;-
+UK;Vodafone<br>(pre-pay);pp.vodafone.co.uk;wap;wap;10.206.65.68<br>10.203.65.68;send.vodafone.net;-
+Ukraine;Ace&Base;www.ab.kyivstar.net;igprs;internet;-;relay.kyivstar.net;Ace&Base uses<br>Kyivstar network
+Ukraine;Beeline;internet.beeline.ua;guest;guest;-;?;-
+Ukraine;Djuice;www.djuice.com.ua;igprs;igprs;212.58.160.33<br>212.58.160.34;relay.kyivstar.net;Djuice uses<br>Kyivstar network
+Ukraine;Jeans;www.jeans.ua;guest;guest;80.255.64.23<br>80.255.64.24;smtp.jeans.com.ua;-
+Ukraine;Jeans<br>(Hyper);hyper.net;guest;guest;212.58.160.33<br>212.58.160.34;?;-
+Ukraine;Kyivstar;www.kyivstar.net;igprs;internet;-;relay.kyivstar.net;-
+Ukraine;Life<br>(standard);internet;guest;guest;212.58.160.33<br>212.58.160.34;?;-
+Ukraine;Life<br>(faster);speed;guest;guest;212.58.160.33<br>212.58.160.34;?;Extra charge to<br>access this APN
+Ukraine;Mobi-GSM;internet.urs;guest;guest;213.186.192.254<br>193.239.128.5;?;-
+Ukraine;UMC<br>(Internet);internet;internet;[supplied];212.58.160.33<br>212.58.160.34;?;-
+Ukraine;UMC;www.umc.ua;guest;guest;80.255.64.23<br>80.255.64.24;?;-
+Ukraine;Wellcome;internet.urs;guest;guest;213.186.192.254<br>193.239.128.5;?;-
+Uruguay;ANCEL;gprs.ancel;guest;guest;200.40.30.245<br>200.40.220.245;?;-
+Uruguay;CTI;internet.ctimovil.com.uy;ctiweb;ctiweb999;-;?;-
+Uruguay;Movistar;webapn.movistar.com.uy;movistar;movistar;-;?;-
+USA;AT&T<br>(With acceleration);ISP.CINGULAR;ISPDA@<br>CINGULARGPRS<br>.COM;CINGULAR1;66.209.10.201<br>66.209.10.202;cwmx.com;-
+USA;AT&T<br>(NO acceleration);ISP.CINGULAR;ISP@<br>CINGULARGPRS<br>.COM;CINGULAR1;66.102.163.231<br>66.102.163.232;cwmx.com;-
+USA;AT&T<br>(non-contract);WAP.CINGULAR;WAP@<br>CINGULARGPRS<br>.COM;CINGULAR1;66.209.10.201<br>66.209.10.202;cwmx.com;-
+USA;Edge Wireless;ISP;guest;guest;-;?;-
+USA;T-Mobile (Internet);internet2.voicestream.com;guest;guest;66.94.9.120<br>66.94.25.120;myemail.t-mobile.com;Web Proxy:---216.155.175.188---port [54]∞ 8080
+USA;T-Mobile (VPN);internet3.voicestream.com;guest;guest;66.94.25.120<br>66.94.9.120;myemail.t-mobile.com;Web Proxy:---216.155.175.188---port [55]∞ 8080
+USA;T-Mobile (non-contract);wap.voicestream.com;guest;guest;66.94.9.120<br>66.94.25.120;myemail.t-mobile.com;Web Proxy:---216.155.165.50---port [56]∞ 8080
+Uzbekistan;Uzdunrobita;net.urd.uz;user;pass;-;?;-
+Venezuela;Digitel TIM;gprsweb.digitel.ve;guest;guest;57.67.127.195;?;-

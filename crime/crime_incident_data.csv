@@ -1,0 +1,41 @@
+Case Incident Type,National,Adelaide,Brisbane,Cairns,Darwin,Hobart,Melbourne,Perth,Sydney
+Drugs − Imported,8,9,48,4,10,0,121,43,191
+Drugs − Exported,0,0,0,1,0,0,0,0,0
+Drugs − Trafficked,1,0,1,0,0,0,1,0,2
+People Smuggling,30,1,0,1,2,0,1,10,1
+Transnational − Sexual Servitude,0,0,2,0,0,0,2,1,0
+Transnational Organised Crime,0,0,1,0,0,0,0,0,0
+Weapons − Trafficked,6,0,1,0,0,0,2,0,0
+Slavery/Human Trafficking,1,1,1,0,1,0,3,4,6
+Corruption,12,2,2,1,1,1,5,3,5
+Information And Communications Technology,14,0,5,0,3,1,8,2,5
+Corporate Or Bankruptcy,0,2,1,0,0,0,1,1,1
+Counterfeit Currency,2,0,2,0,1,0,0,20,1
+Environmental Crime,2,0,0,2,0,0,2,1,0
+Fraud,42,20,48,6,5,10,60,27,63
+War Crimes,0,1,0,0,0,0,1,0,2
+Electoral Crime,0,0,0,0,0,0,2,0,0
+Intellectual Property,1,1,1,0,0,0,12,1,7
+Identity Crime,1,2,4,0,0,0,5,7,13
+Migration Crime,1,1,4,1,0,0,5,8,10
+Illegal Fishing,0,0,0,2,0,0,0,0,0
+Emerging Crime,28,2,4,1,0,0,7,0,6
+Offences Commonwealth Property/Premises,0,0,0,1,0,0,3,1,0
+Offences On Commonwealth Employee,1,1,4,1,0,0,1,2,4
+Money Laundering,7,70,41,8,0,1,63,63,83
+Terrorism Domestic,11,0,2,0,1,0,3,2,6
+Terrorism International,11,0,0,0,1,0,0,2,1
+Terrorism Financing,1,2,1,0,0,0,2,0,2
+Corruption − Av,0,0,0,1,0,0,1,1,0
+Drugs Trafficked − Av,0,0,0,0,0,0,0,1,0
+Identity Crime − Av,0,0,1,0,0,0,0,1,0
+Organised Crime − Av,0,0,0,0,0,0,1,1,0
+Theft − Baggage,0,0,1,0,0,0,0,0,0
+Theft − General,0,2,1,0,0,0,2,0,1
+Threats,0,0,0,0,0,0,1,1,2
+Threats − Hoax,0,0,1,0,0,0,0,0,0
+Weapons/Prohibited Items In The Aviation Environ.,0,0,0,0,0,0,0,0,1
+Emerging Crime − Av,0,1,1,1,0,0,3,0,0
+Child Sex Offences − Not Child Sex Tourism,7,0,0,0,1,0,0,0,4
+Child Sex Offences − Online Child Sex Exploitation,81,20,41,0,0,8,48,20,54
+Transnational − Child Sex Tourism,314,1,1,0,1,0,1,2,1

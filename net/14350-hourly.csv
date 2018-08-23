@@ -1,0 +1,25 @@
+<!--****************************************************-->,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+<!--         Copyright (c) 2005-2007 Cisco Systems, Inc.     -->,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+<!--         All rights reserved.                       -->,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+<!--****************************************************-->,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Hourly UDP Jitter Report,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Generated on Jun 22 2009 12:02:43 Eastern Standard Time (New South Wales)(GMT +10:00:00),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Summary,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Total number of collectors,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Collectors with Report Data,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Collectors without Report Data,None,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Collector: sa-nato-ef,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"<table><tr><td><b>sa-nato-ef</b></td><td align='right'><b>&nbsp;&nbsp;&nbsp;&nbsp;<a href=""/ipm/CriReportArchive.do?collector=sa-nato-ef&reportType=hj&report=Jitter&reportId=f8434670fd6c1d54f7ee7f7b349764c&startTime=2009-06-22 01:00:00.0&endTime=2009-06-22 12:00:00.0&granularity=Hourly&action=launchImmediateGraph"" target=""_blank""><b>Graph</b></a></td></tr></table>",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Start Time,Round Trip Latency - Min(ms),Round Trip Latency - Avg(ms),Round Trip Latency - Max(ms),Round Trip Latency - Std Dev,Positive Source -> Dest Jitter - Min(ms),Positive Source -> Dest Jitter - Avg(ms),Positive Source -> Dest Jitter - Max(ms),Positive Source -> Dest Jitter - Std Dev,Negative Source->Dest Jitter - Min(ms),Negative Source->Dest Jitter - Avg(ms),Negative Source->Dest Jitter - Max(ms),Negative Source->Dest Jitter - Std Dev,Positive Dest -> Source Jitter - Min(ms),Positive Dest -> Source Jitter - Avg(ms),Positive Dest -> Source Jitter - Max(ms),Positive Dest -> Source Jitter - Std Dev,Negative Dest->Source Jitter - Min(ms),Negative Dest->Source Jitter - Avg(ms),Negative Dest->Source Jitter - Max(ms),Negative Dest->Source Jitter - Std Dev,MOS - MinMOS,MOS - MaxMOS,ICPIF - MinICPIF,ICPIF - MaxICPIF,Completion Summary - Tries,Completion Summary - Over Threshold %,Completion Summary - Error %,Completion Summary - Completions %,End-To-End Errors - Internal Errors,End-To-End Errors - Busies,Packet Loss/Errors  - Loss SD,Packet Loss/Errors  - Loss DS,Packet Loss/Errors  - Seq,Packet Loss/Errors  - MIA,Packet Loss/Errors  - Late,Packet Loss/Errors  - Packet Error %
+09/06/22_01:00,28,29.23,72,31.56,1,1.02,4,0.2,-1,-1.01,-2,0.08,1,1.29,43,3.02,-1,-1.18,-20,1.54,N/A,N/A,N/A,N/A,360,0,0,100,0,0,0,0,0,0,0,0
+09/06/22_02:00,28,29.28,211,31.69,1,1.07,12,0.69,-1,-1.06,-12,0.64,1,1.76,182,9.06,-1,-1.3,-17,1.6,N/A,N/A,N/A,N/A,360,0,0,100,0,0,0,0,0,0,0,0
+09/06/22_03:00,28,29.24,60,31.55,1,1.09,14,0.92,-1,-1.08,-14,0.86,1,1.23,31,1.61,-1,-1.22,-16,1.23,N/A,N/A,N/A,N/A,360,0,0,100,0,0,0,0,0,0,0,0
+09/06/22_04:00,28,29.19,52,31.54,1,1.05,13,0.69,-1,-1.04,-12,0.6,1,1.1,23,1.16,-1,-1.08,-23,1.07,N/A,N/A,N/A,N/A,360,0,0,100,0,0,0,0,0,0,0,0
+09/06/22_05:00,28,29.21,68,31.55,1,1.07,17,0.92,-1,-1.06,-20,1.06,1,1.14,39,1.99,-1,-1.14,-24,1.5,N/A,N/A,N/A,N/A,360,0,0,100,0,0,0,0,0,0,0,0
+09/06/22_06:00,28,29.26,203,31.68,1,1.09,14,0.75,-1,-1.03,-3,0.21,1,1.48,174,7.82,-1,-1.14,-28,1.52,N/A,N/A,N/A,N/A,360,0,0,100,0,0,0,0,0,0,0,0
+09/06/22_07:00,28,29.19,69,31.55,1,1.06,4,0.35,-1,-1.1,-13,0.75,1,1.15,40,1.99,-1,-1.07,-17,0.84,N/A,N/A,N/A,N/A,360,0,0,100,0,0,0,0,0,0,0,0
+09/06/22_08:00,28,29.6,213,31.89,1,1.15,20,1.21,-1,-1.11,-20,1.01,1,1.99,184,8.52,-1,-1.96,-163,7.44,N/A,N/A,N/A,N/A,360,0,0,100,0,0,0,0,0,0,0,0
+09/06/22_09:00,28,30.67,99,31.87,1,1.29,6,0.73,-1,-1.29,-7,0.73,1,2.43,68,4.76,-1,-2.31,-44,3.75,N/A,N/A,N/A,N/A,360,0,0,100,0,0,0,0,0,0,0,0
+09/06/22_10:00,28,31.6,85,32.04,1,1.39,16,1.1,-1,-1.35,-17,1.03,1,2.99,55,4.9,-1,-2.66,-55,3.99,N/A,N/A,N/A,N/A,360,0,0,100,0,0,0,0,0,0,0,0
+09/06/22_11:00,29,31.79,343,33.75,1,1.39,21,1.18,-1,-1.56,-24,2.23,1,2.75,52,5.33,-1,-2.67,-39,4.11,N/A,N/A,N/A,N/A,360,0,0,100,0,0,0,0,0,0,0,0

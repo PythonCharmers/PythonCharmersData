@@ -1,0 +1,61 @@
+# Netflix prime-time speed index from https://ispspeedindex.netflix.com/ (2018-02-21)
+Country,Highest Speed Mbps,Lowest Speed Mbps,Average Speed Mbps
+Argentina,3.59,2.35,2.96
+Australia,3.64,3.46,3.56
+Austria,4.17,2.98,3.68
+Belgium,3.99,3.43,3.84
+Bolivia,2.79,1.66,2.16
+Brazil,3.07,2.09,2.61
+Canada,3.6,1.79,3.32
+Chile,4.01,2.43,3.32
+Colombia,2.86,1.93,2.69
+Costa Rica,2.66,0.95,2.31
+Denmark,3.96,3.47,3.75
+Dominican Republic,2.74,0.84,2.37
+Ecuador,3.44,1.94,2.67
+El Salvador,2.32,2.11,2.19
+Finland,3.64,3.4,3.5
+France,3.5,1.39,2.83
+Germany,3.86,3.25,3.57
+Greece,3.46,2.62,3.19
+Guatemala,2.39,2.24,2.29
+Honduras,2.26,1.06,1.96
+Hong Kong,4.26,2.83,3.89
+Hungary,3.66,3.12,3.6
+Iceland,3.96,3.61,3.92
+India,3.12,1.52,2.7
+Indonesia,3.81,1.51,3.27
+Ireland,3.7,2.78,3.31
+Israel,3.68,2.79,3.53
+Italy,3.38,2.64,3.25
+Jamaica,3.34,0.96,2.64
+Japan,4.06,2.44,3.05
+Kuwait,3.3,2.15,3.05
+Luxembourg,4.44,3.76,3.79
+Malaysia,4.03,2.62,2.98
+Mexico,3.78,1.97,3.05
+Netherlands,4.04,3.42,3.98
+New Zealand,3.85,3.53,3.69
+Norway,3.9,3.44,3.76
+Panama,3.21,2.7,3.08
+Paraguay,2.41,1.05,2.22
+Peru,3.2,1.05,2.9
+Philippines,3.15,1.19,2.46
+Poland,3.89,2.46,3.46
+Portugal,3.37,3.24,3.25
+Romania,4.14,2.96,4.05
+Saudi Arabia,2.59,2.17,2.25
+Singapore,4.15,3.74,3.97
+South Africa,3.88,1.73,2.61
+South Korea,3.07,2.27,2.77
+Spain,4.0,2.46,3.28
+Sweden,3.96,3.12,3.81
+Switzerland,4.21,3.79,4.1
+Taiwan,3.56,2.46,3.23
+Thailand,4.45,2.44,3.55
+Trinidad and Tobago,3.52,1.69,3.25
+Turkey,3.51,2.72,3.14
+United Kingdom,3.98,3.43,3.71
+United States,4.0,2.77,3.73
+Uruguay,2.78,2.78,2.78
+Venezuela,1.32,1.17,1.19
