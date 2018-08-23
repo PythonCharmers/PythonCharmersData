@@ -1,0 +1,205 @@
+Country,Gold,Silver,Bronze
+Afghanistan,0,0,1
+Albania,0,0,0
+Algeria,1,0,0
+American Virgin Islands,0,0,0
+Andorra,0,0,0
+Angola,0,0,0
+Antigua and Barbuda,0,0,0
+Argentina,1,1,2
+Armenia,0,1,2
+Aruba,0,0,0
+Australia,7,16,12
+Austria,0,0,0
+Azerbaijan,2,2,6
+Bahamas,1,0,0
+Bahrain,0,0,1
+Bangladesh,0,0,0
+Barbados,0,0,0
+Belarus,2,5,5
+Belgium,0,1,2
+Belize,0,0,0
+Benin,0,0,0
+Bermuda,0,0,0
+Bhutan,0,0,0
+Bolivia,0,0,0
+Bosnia and Herzegovina,0,0,0
+Botswana,0,1,0
+Brazil,3,5,9
+British Virgin Islands,0,0,0
+Brunei Darussalam,0,0,0
+Bulgaria,0,1,1
+Burkina Faso,0,0,0
+Burma (Myanmar),0,0,0
+Burundi,0,0,0
+Cambodia,0,0,0
+Cameroon,0,0,0
+Canada,1,5,12
+Cape Verde,0,0,0
+Cayman Islands,0,0,0
+Central African Republic,0,0,0
+Chad,0,0,0
+Chile,0,0,0
+"China, People's Republic of",38,27,23
+Colombia,1,3,4
+Comoros,0,0,0
+Congo,0,0,0
+"Congo, the Democratic Republic of the",0,0,0
+Cook Islands,0,0,0
+Costa Rica,0,0,0
+Cote d'Ivoire,0,0,0
+Croatia,3,1,2
+Cuba,5,3,6
+Cyprus,0,1,0
+Czech Republic,4,3,3
+DPR Korea,4,0,2
+Denmark,2,4,3
+Djibouti,0,0,0
+Dominica,0,0,0
+Dominican Republic,1,1,0
+Ecuador,0,0,0
+Egypt,0,2,0
+El Salvador,0,0,0
+Equatorial Guinea,0,0,0
+Eritrea,0,0,0
+Estonia,0,1,1
+Ethiopia,3,1,3
+Fiji,0,0,0
+Finland,0,1,2
+Former Yugoslav Republic of Macedonia,0,0,0
+France,11,11,12
+Gabon,0,1,0
+Gambia,0,0,0
+Gaza Strip/Palestine/West Bank,0,0,0
+Georgia,1,3,3
+Germany,11,19,14
+Ghana,0,0,0
+Great Britain,29,17,19
+Greece,0,0,2
+Grenada,1,0,0
+Guam,0,0,0
+Guatemala,0,1,0
+Guinea,0,0,0
+Guinea-Bissau,0,0,0
+Guyana,0,0,0
+Haiti,0,0,0
+Honduras,0,0,0
+Hong Kong,0,0,1
+Hungary,8,4,5
+Iceland,0,0,0
+India,0,2,4
+Indonesia,0,1,1
+Iran,4,5,3
+Iraq,0,0,0
+Ireland,1,1,3
+Israel,0,0,0
+Italy,8,9,11
+Jamaica,4,4,4
+Japan,7,4,17
+Jordan,0,0,0
+Kazakhstan,7,1,5
+Kenya,2,4,5
+Kiribati,0,0,0
+"Korea, Republic of",13,8,7
+Kuwait,0,0,1
+Kyrgyzstan,0,0,0
+Laos,0,0,0
+Latvia,1,0,1
+Lebanon,0,0,0
+Lesotho,0,0,0
+Liberia,0,0,0
+Libya,0,0,0
+Liechtenstein,0,0,0
+Lithuania,2,1,2
+Luxembourg,0,0,0
+Madagascar,0,0,0
+Malawi,0,0,0
+Malaysia,0,1,1
+Maldives,0,0,0
+Mali,0,0,0
+Malta,0,0,0
+Marshall Islands,0,0,0
+Mauritania,0,0,0
+Mauritius,0,0,0
+Mexico,1,3,3
+Micronesia,0,0,0
+Moldova,0,0,2
+Monaco,0,0,0
+Mongolia,0,2,3
+Montenegro,0,1,0
+Morocco,0,0,1
+Mozambique,0,0,0
+Namibia,0,0,0
+Nauru,0,0,0
+Nepal,0,0,0
+Netherlands,6,6,8
+New Zealand,6,2,5
+Nicaragua,0,0,0
+Niger,0,0,0
+Nigeria,0,0,0
+Norway,2,1,1
+Oman,0,0,0
+Pakistan,0,0,0
+Palau,0,0,0
+Panama,0,0,0
+Papua New Guinea,0,0,0
+Paraguay,0,0,0
+Peru,0,0,0
+Philippines,0,0,0
+Poland,2,2,6
+Portugal,0,1,0
+Puerto Rico,0,1,1
+Qatar,0,0,2
+Romania,2,5,2
+Russia,24,26,32
+Rwanda,0,0,0
+Samoa,0,0,0
+"Samoa, American",0,0,0
+San Marino,0,0,0
+Sao Tome and Principe,0,0,0
+Saudi Arabia,0,0,1
+Senegal,0,0,0
+Serbia,1,1,2
+Seychelles,0,0,0
+Sierra Leone,0,0,0
+Singapore,0,0,2
+Slovakia,0,1,3
+Slovenia,1,1,2
+Solomon Islands,0,0,0
+Somalia,0,0,0
+South Africa,3,2,1
+Spain,3,10,4
+Sri Lanka,0,0,0
+St Kitts and Nevis,0,0,0
+St Lucia,0,0,0
+St Vincent and the Grenadines,0,0,0
+Sudan,0,0,0
+Suriname,0,0,0
+Swaziland,0,0,0
+Sweden,1,4,3
+Switzerland,2,2,0
+Syria,0,0,0
+Taiwan(2),0,1,1
+Tajikistan,0,0,1
+Tanzania,0,0,0
+Thailand,0,2,1
+Timor-Leste,0,0,0
+Togo,0,0,0
+Tonga,0,0,0
+Trinidad and Tobago,1,0,3
+Tunisia,1,1,1
+Turkey,2,2,1
+Turkmenistan,0,0,0
+Tuvalu,0,0,0
+Uganda,1,0,0
+Ukraine,6,5,9
+United Arab Emirates,0,0,0
+United States of America,46,29,29
+Uruguay,0,0,0
+Uzbekistan,1,0,3
+Vanuatu,0,0,0
+Venezuela,1,0,0
+Viet Nam,0,0,0
+Yemen,0,0,0
+Zambia,0,0,0
+Zimbabwe,0,0,0
