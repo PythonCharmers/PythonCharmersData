@@ -1,0 +1,14 @@
+{ "type": "FeatureCollection",
+  "features": [
+    { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [686662.849918, 6085603.16322]},
+      "properties": {"name": "Stromlo High School"}
+      }
+     ],
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "EPSG:28355"
+      }
+    }
+   }

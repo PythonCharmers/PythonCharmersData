@@ -1,0 +1,10 @@
+!table
+!version 300
+!charset Neutral
+
+Definition Table
+  Type NATIVE Charset "Neutral"
+  Fields 3
+    name Char (254) ;
+    osm_id Integer ;
+    type Char (254) ;

@@ -1,0 +1,13 @@
+Canberra,Melbourne,{'weight': 666}
+Canberra,Sydney,{'weight': 290}
+Canberra,Adelaide,{'weight': 1200}
+Brisbane,Three Ways,{'weight': 2459}
+Brisbane,Sydney,{'weight': 929}
+Alice Springs,Three Ways,{'weight': 533}
+Alice Springs,Adelaide,{'weight': 1535}
+Melbourne,Hobart,{'weight': 709}
+Melbourne,Adelaide,{'weight': 728}
+Perth,Port Hedland,{'weight': 1650}
+Perth,Adelaide,{'weight': 2695}
+Darwin,Port Hedland,{'weight': 2416}
+Darwin,Three Ways,{'weight': 966}
