@@ -1,0 +1,14 @@
+Year,App.,Taxon,Class,Order,Family,Genus,Importer,Exporter,Origin,Importer reported quantity,Exporter reported quantity,Term,Unit,Purpose,Source
+2018,II,Acipenser gueldenstaedtii,Actinopteri,Acipenseriformes,Acipenseridae,Acipenser,US,BG,,,30,caviar,kg,T,C
+2018,II,Alligator mississippiensis,Reptilia,Crocodylia,Alligatoridae,Alligator,BG,CH,US,3,,leather products (small),,T,W
+2018,II,Kobus leche,Mammalia,Artiodactyla,Bovidae,Kobus,BG,ZA,,2,,trophies,,H,F
+2018,II,Chlorocebus pygerythrus,Mammalia,Primates,Cercopithecidae,Chlorocebus,BG,ZA,,1,,trophies,,H,W
+2018,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,BG,ZA,,4,,trophies,,H,C
+2018,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,BG,ZA,,2,,trophies,,H,F
+2018,II,Dalbergia latifolia,,Fabales,Leguminosae,Dalbergia,JP,BG,IN,,290,wood product,,T,O
+2018,II,Dalbergia latifolia,,Fabales,Leguminosae,Dalbergia,JP,BG,IN,,3,wood product,,T,W
+2018,II,Agapornis fischeri,Aves,Psittaciformes,Psittacidae,Agapornis,TR,BG,CZ,,100,live,,T,C
+2018,II,Amazona aestiva,Aves,Psittaciformes,Psittacidae,Amazona,PK,CZ,,,6,live,,T,C
+2018,II,Amazona aestiva,Aves,Psittaciformes,Psittacidae,Amazona,TR,BG,CZ,,6,live,,T,C
+2018,II,Myiopsitta monachus,Aves,Psittaciformes,Psittacidae,Myiopsitta,TR,BG,CZ,,150,live,,T,C
+2018,II,Psittacula eupatria,Aves,Psittaciformes,Psittacidae,Psittacula,TR,BG,XV,,15,live,,T,C
