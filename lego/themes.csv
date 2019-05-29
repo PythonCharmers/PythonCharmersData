@@ -547,7 +547,7 @@ id,name,parent_id
 552,Series 14 Minifigures,535
 553,The Simpsons Series 2,535
 554,Series 15 Minifigures,535
-555,Disney Series 1,535
+555,Disney,535
 556,Series 16 Minifigures,535
 557,DFB Minifigures,535
 558,Monster Fighters,
@@ -647,7 +647,7 @@ id,name,parent_id
 653,DC Comics,504
 654,The Powerpuff Girls,
 655,Powered Up,438
-656,Harry Potter and Fantastic Beasts,535
+656,Harry Potter and Fan﻿tastic Beasts,535
 657,Action Wheelers,504
 658,Dino,504
 659,Dolls,504
@@ -667,5 +667,3 @@ id,name,parent_id
 673,Creator Expert,22
 674,Early Creator,22
 675,The LEGO Movie Series II,535
-676,Hidden Side,
-677,Disney Series 2,535
