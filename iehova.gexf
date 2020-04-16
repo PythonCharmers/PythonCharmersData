@@ -1,0 +1,476 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2020-04-09">
+    <creator>NetworkX 2.4</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="ο" label="ο" />
+      <node id="Y" label="Y" />
+      <node id="U" label="U" />
+      <node id="W" label="W" />
+      <node id="μ" label="μ" />
+      <node id="v" label="v" />
+      <node id="j" label="j" />
+      <node id="π" label="π" />
+      <node id="α" label="α" />
+      <node id="Η" label="Η" />
+      <node id="I" label="I" />
+      <node id="y" label="y" />
+      <node id="h" label="h" />
+      <node id="Σ" label="Σ" />
+      <node id="O" label="O" />
+      <node id="Q" label="Q" />
+      <node id="η" label="η" />
+      <node id="Κ" label="Κ" />
+      <node id="ω" label="ω" />
+      <node id="Ψ" label="Ψ" />
+      <node id="J" label="J" />
+      <node id="G" label="G" />
+      <node id="C" label="C" />
+      <node id="L" label="L" />
+      <node id="φ" label="φ" />
+      <node id="A" label="A" />
+      <node id="p" label="p" />
+      <node id="λ" label="λ" />
+      <node id="Π" label="Π" />
+      <node id="Ω" label="Ω" />
+      <node id="κ" label="κ" />
+      <node id="a" label="a" />
+      <node id="γ" label="γ" />
+      <node id="θ" label="θ" />
+      <node id="g" label="g" />
+      <node id="e" label="e" />
+      <node id="Α" label="Α" />
+      <node id="Υ" label="Υ" />
+      <node id="Β" label="Β" />
+      <node id="B" label="B" />
+      <node id="t" label="t" />
+      <node id="D" label="D" />
+      <node id="x" label="x" />
+      <node id="Ξ" label="Ξ" />
+      <node id="F" label="F" />
+      <node id="r" label="r" />
+      <node id="k" label="k" />
+      <node id="δ" label="δ" />
+      <node id="Φ" label="Φ" />
+      <node id="ρ" label="ρ" />
+      <node id="σ" label="σ" />
+      <node id="E" label="E" />
+      <node id="Ζ" label="Ζ" />
+      <node id="χ" label="χ" />
+      <node id="υ" label="υ" />
+      <node id="s" label="s" />
+      <node id="ν" label="ν" />
+      <node id="u" label="u" />
+      <node id="l" label="l" />
+      <node id="M" label="M" />
+      <node id="Ο" label="Ο" />
+      <node id="τ" label="τ" />
+      <node id="X" label="X" />
+      <node id="Θ" label="Θ" />
+      <node id="q" label="q" />
+      <node id="N" label="N" />
+      <node id="o" label="o" />
+      <node id="f" label="f" />
+      <node id="ι" label="ι" />
+      <node id="Μ" label="Μ" />
+      <node id="S" label="S" />
+      <node id="P" label="P" />
+      <node id="R" label="R" />
+      <node id="Ι" label="Ι" />
+      <node id="ψ" label="ψ" />
+      <node id="n" label="n" />
+      <node id="H" label="H" />
+      <node id="m" label="m" />
+      <node id="V" label="V" />
+      <node id="ζ" label="ζ" />
+      <node id="Γ" label="Γ" />
+      <node id="d" label="d" />
+      <node id="w" label="w" />
+      <node id="T" label="T" />
+      <node id="i" label="i" />
+      <node id="ε" label="ε" />
+      <node id="b" label="b" />
+      <node id="Ε" label="Ε" />
+      <node id="K" label="K" />
+      <node id="z" label="z" />
+      <node id="Ρ" label="Ρ" />
+      <node id="Ν" label="Ν" />
+      <node id="Χ" label="Χ" />
+      <node id="c" label="c" />
+      <node id="Τ" label="Τ" />
+      <node id="ξ" label="ξ" />
+      <node id="β" label="β" />
+      <node id="Δ" label="Δ" />
+      <node id="Z" label="Z" />
+      <node id="Λ" label="Λ" />
+      <node id="start" label="start" />
+      <node id="finish" label="finish" />
+    </nodes>
+    <edges>
+      <edge id="0" source="ο" target="Y" weight="2" />
+      <edge id="1" source="ο" target="W" weight="2" />
+      <edge id="2" source="ο" target="start" weight="1" />
+      <edge id="3" source="ο" target="U" weight="2" />
+      <edge id="4" source="Y" target="U" weight="2" />
+      <edge id="5" source="Y" target="W" weight="2" />
+      <edge id="6" source="Y" target="J" weight="2" />
+      <edge id="7" source="Y" target="G" weight="2" />
+      <edge id="8" source="U" target="W" weight="2" />
+      <edge id="9" source="U" target="v" weight="2" />
+      <edge id="10" source="U" target="start" weight="1" />
+      <edge id="11" source="U" target="μ" weight="2" />
+      <edge id="12" source="W" target="μ" weight="2" />
+      <edge id="13" source="W" target="v" weight="2" />
+      <edge id="14" source="W" target="J" weight="2" />
+      <edge id="15" source="W" target="G" weight="2" />
+      <edge id="16" source="W" target="C" weight="2" />
+      <edge id="17" source="μ" target="v" weight="2" />
+      <edge id="18" source="μ" target="π" weight="2" />
+      <edge id="19" source="μ" target="start" weight="1" />
+      <edge id="20" source="μ" target="j" weight="2" />
+      <edge id="21" source="v" target="j" weight="2" />
+      <edge id="22" source="v" target="π" weight="2" />
+      <edge id="23" source="v" target="G" weight="2" />
+      <edge id="24" source="v" target="C" weight="2" />
+      <edge id="25" source="v" target="L" weight="2" />
+      <edge id="26" source="j" target="π" weight="2" />
+      <edge id="27" source="j" target="Η" weight="2" />
+      <edge id="28" source="j" target="start" weight="1" />
+      <edge id="29" source="j" target="α" weight="2" />
+      <edge id="30" source="π" target="α" weight="2" />
+      <edge id="31" source="π" target="Η" weight="2" />
+      <edge id="32" source="π" target="C" weight="2" />
+      <edge id="33" source="π" target="L" weight="2" />
+      <edge id="34" source="π" target="φ" weight="2" />
+      <edge id="35" source="α" target="Η" weight="2" />
+      <edge id="36" source="α" target="y" weight="2" />
+      <edge id="37" source="α" target="start" weight="1" />
+      <edge id="38" source="α" target="I" weight="2" />
+      <edge id="39" source="Η" target="I" weight="2" />
+      <edge id="40" source="Η" target="y" weight="2" />
+      <edge id="41" source="Η" target="L" weight="2" />
+      <edge id="42" source="Η" target="φ" weight="2" />
+      <edge id="43" source="Η" target="A" weight="2" />
+      <edge id="44" source="I" target="y" weight="2" />
+      <edge id="45" source="I" target="Σ" weight="2" />
+      <edge id="46" source="I" target="start" weight="1" />
+      <edge id="47" source="I" target="h" weight="2" />
+      <edge id="48" source="y" target="h" weight="1" />
+      <edge id="49" source="y" target="Σ" weight="2" />
+      <edge id="50" source="y" target="φ" weight="2" />
+      <edge id="51" source="y" target="A" weight="2" />
+      <edge id="52" source="y" target="p" weight="1" />
+      <edge id="53" source="h" target="Σ" weight="2" />
+      <edge id="54" source="h" target="Q" weight="2" />
+      <edge id="55" source="h" target="start" weight="1" />
+      <edge id="56" source="h" target="O" weight="2" />
+      <edge id="57" source="Σ" target="O" weight="2" />
+      <edge id="58" source="Σ" target="Q" weight="2" />
+      <edge id="59" source="Σ" target="A" weight="2" />
+      <edge id="60" source="Σ" target="p" weight="2" />
+      <edge id="61" source="Σ" target="λ" weight="2" />
+      <edge id="62" source="O" target="Q" weight="2" />
+      <edge id="63" source="O" target="Κ" weight="2" />
+      <edge id="64" source="O" target="start" weight="1" />
+      <edge id="65" source="O" target="η" weight="2" />
+      <edge id="66" source="Q" target="η" weight="2" />
+      <edge id="67" source="Q" target="Κ" weight="2" />
+      <edge id="68" source="Q" target="p" weight="2" />
+      <edge id="69" source="Q" target="λ" weight="2" />
+      <edge id="70" source="Q" target="Π" weight="2" />
+      <edge id="71" source="η" target="Κ" weight="2" />
+      <edge id="72" source="η" target="Ψ" weight="2" />
+      <edge id="73" source="η" target="start" weight="1" />
+      <edge id="74" source="η" target="ω" weight="2" />
+      <edge id="75" source="Κ" target="ω" weight="2" />
+      <edge id="76" source="Κ" target="Ψ" weight="2" />
+      <edge id="77" source="Κ" target="λ" weight="2" />
+      <edge id="78" source="Κ" target="Π" weight="2" />
+      <edge id="79" source="Κ" target="Ω" weight="2" />
+      <edge id="80" source="ω" target="Ψ" weight="2" />
+      <edge id="81" source="ω" target="start" weight="1" />
+      <edge id="82" source="Ψ" target="Π" weight="2" />
+      <edge id="83" source="Ψ" target="Ω" weight="2" />
+      <edge id="84" source="J" target="G" weight="2" />
+      <edge id="85" source="J" target="κ" weight="2" />
+      <edge id="86" source="J" target="a" weight="2" />
+      <edge id="87" source="G" target="C" weight="2" />
+      <edge id="88" source="G" target="κ" weight="2" />
+      <edge id="89" source="G" target="a" weight="2" />
+      <edge id="90" source="G" target="γ" weight="2" />
+      <edge id="91" source="C" target="L" weight="2" />
+      <edge id="92" source="C" target="a" weight="2" />
+      <edge id="93" source="C" target="γ" weight="2" />
+      <edge id="94" source="C" target="θ" weight="2" />
+      <edge id="95" source="L" target="φ" weight="2" />
+      <edge id="96" source="L" target="γ" weight="2" />
+      <edge id="97" source="L" target="θ" weight="2" />
+      <edge id="98" source="L" target="g" weight="2" />
+      <edge id="99" source="φ" target="A" weight="2" />
+      <edge id="100" source="φ" target="θ" weight="2" />
+      <edge id="101" source="φ" target="g" weight="2" />
+      <edge id="102" source="φ" target="e" weight="2" />
+      <edge id="103" source="A" target="p" weight="2" />
+      <edge id="104" source="A" target="g" weight="2" />
+      <edge id="105" source="A" target="e" weight="2" />
+      <edge id="106" source="A" target="Α" weight="2" />
+      <edge id="107" source="p" target="λ" weight="2" />
+      <edge id="108" source="p" target="e" weight="1" />
+      <edge id="109" source="p" target="Α" weight="2" />
+      <edge id="110" source="p" target="Υ" weight="2" />
+      <edge id="111" source="λ" target="Π" weight="2" />
+      <edge id="112" source="λ" target="Α" weight="2" />
+      <edge id="113" source="λ" target="Υ" weight="2" />
+      <edge id="114" source="λ" target="Β" weight="2" />
+      <edge id="115" source="Π" target="Ω" weight="2" />
+      <edge id="116" source="Π" target="Υ" weight="2" />
+      <edge id="117" source="Π" target="Β" weight="2" />
+      <edge id="118" source="Π" target="B" weight="2" />
+      <edge id="119" source="Ω" target="Β" weight="2" />
+      <edge id="120" source="Ω" target="B" weight="2" />
+      <edge id="121" source="κ" target="a" weight="2" />
+      <edge id="122" source="κ" target="t" weight="2" />
+      <edge id="123" source="κ" target="D" weight="2" />
+      <edge id="124" source="a" target="γ" weight="2" />
+      <edge id="125" source="a" target="t" weight="2" />
+      <edge id="126" source="a" target="D" weight="2" />
+      <edge id="127" source="a" target="x" weight="2" />
+      <edge id="128" source="γ" target="θ" weight="2" />
+      <edge id="129" source="γ" target="D" weight="2" />
+      <edge id="130" source="γ" target="x" weight="2" />
+      <edge id="131" source="γ" target="Ξ" weight="2" />
+      <edge id="132" source="θ" target="g" weight="2" />
+      <edge id="133" source="θ" target="x" weight="2" />
+      <edge id="134" source="θ" target="Ξ" weight="2" />
+      <edge id="135" source="θ" target="F" weight="2" />
+      <edge id="136" source="g" target="e" weight="2" />
+      <edge id="137" source="g" target="Ξ" weight="2" />
+      <edge id="138" source="g" target="F" weight="2" />
+      <edge id="139" source="g" target="r" weight="2" />
+      <edge id="140" source="e" target="Α" weight="2" />
+      <edge id="141" source="e" target="F" weight="2" />
+      <edge id="142" source="e" target="r" weight="1" />
+      <edge id="143" source="e" target="k" weight="2" />
+      <edge id="144" source="Α" target="Υ" weight="2" />
+      <edge id="145" source="Α" target="r" weight="2" />
+      <edge id="146" source="Α" target="k" weight="2" />
+      <edge id="147" source="Α" target="δ" weight="2" />
+      <edge id="148" source="Υ" target="Β" weight="2" />
+      <edge id="149" source="Υ" target="k" weight="2" />
+      <edge id="150" source="Υ" target="δ" weight="2" />
+      <edge id="151" source="Υ" target="Φ" weight="2" />
+      <edge id="152" source="Β" target="B" weight="2" />
+      <edge id="153" source="Β" target="δ" weight="2" />
+      <edge id="154" source="Β" target="Φ" weight="2" />
+      <edge id="155" source="Β" target="ρ" weight="2" />
+      <edge id="156" source="B" target="Φ" weight="2" />
+      <edge id="157" source="B" target="ρ" weight="2" />
+      <edge id="158" source="t" target="D" weight="2" />
+      <edge id="159" source="t" target="σ" weight="2" />
+      <edge id="160" source="t" target="E" weight="2" />
+      <edge id="161" source="D" target="x" weight="2" />
+      <edge id="162" source="D" target="σ" weight="2" />
+      <edge id="163" source="D" target="E" weight="2" />
+      <edge id="164" source="D" target="Ζ" weight="2" />
+      <edge id="165" source="x" target="Ξ" weight="2" />
+      <edge id="166" source="x" target="E" weight="2" />
+      <edge id="167" source="x" target="Ζ" weight="2" />
+      <edge id="168" source="x" target="χ" weight="2" />
+      <edge id="169" source="Ξ" target="F" weight="2" />
+      <edge id="170" source="Ξ" target="Ζ" weight="2" />
+      <edge id="171" source="Ξ" target="χ" weight="2" />
+      <edge id="172" source="Ξ" target="υ" weight="2" />
+      <edge id="173" source="F" target="r" weight="2" />
+      <edge id="174" source="F" target="χ" weight="2" />
+      <edge id="175" source="F" target="υ" weight="2" />
+      <edge id="176" source="F" target="s" weight="2" />
+      <edge id="177" source="r" target="k" weight="2" />
+      <edge id="178" source="r" target="υ" weight="2" />
+      <edge id="179" source="r" target="s" weight="1" />
+      <edge id="180" source="r" target="ν" weight="2" />
+      <edge id="181" source="k" target="δ" weight="2" />
+      <edge id="182" source="k" target="s" weight="2" />
+      <edge id="183" source="k" target="ν" weight="2" />
+      <edge id="184" source="k" target="u" weight="2" />
+      <edge id="185" source="δ" target="Φ" weight="2" />
+      <edge id="186" source="δ" target="ν" weight="2" />
+      <edge id="187" source="δ" target="u" weight="2" />
+      <edge id="188" source="δ" target="l" weight="2" />
+      <edge id="189" source="Φ" target="ρ" weight="2" />
+      <edge id="190" source="Φ" target="u" weight="2" />
+      <edge id="191" source="Φ" target="l" weight="2" />
+      <edge id="192" source="Φ" target="M" weight="2" />
+      <edge id="193" source="ρ" target="l" weight="2" />
+      <edge id="194" source="ρ" target="M" weight="2" />
+      <edge id="195" source="σ" target="E" weight="2" />
+      <edge id="196" source="σ" target="Ο" weight="2" />
+      <edge id="197" source="σ" target="τ" weight="2" />
+      <edge id="198" source="E" target="Ζ" weight="2" />
+      <edge id="199" source="E" target="Ο" weight="2" />
+      <edge id="200" source="E" target="τ" weight="2" />
+      <edge id="201" source="E" target="X" weight="2" />
+      <edge id="202" source="Ζ" target="χ" weight="2" />
+      <edge id="203" source="Ζ" target="τ" weight="2" />
+      <edge id="204" source="Ζ" target="X" weight="2" />
+      <edge id="205" source="Ζ" target="Θ" weight="2" />
+      <edge id="206" source="χ" target="υ" weight="2" />
+      <edge id="207" source="χ" target="X" weight="2" />
+      <edge id="208" source="χ" target="Θ" weight="2" />
+      <edge id="209" source="χ" target="q" weight="2" />
+      <edge id="210" source="υ" target="s" weight="2" />
+      <edge id="211" source="υ" target="Θ" weight="2" />
+      <edge id="212" source="υ" target="q" weight="2" />
+      <edge id="213" source="υ" target="N" weight="2" />
+      <edge id="214" source="s" target="ν" weight="2" />
+      <edge id="215" source="s" target="q" weight="2" />
+      <edge id="216" source="s" target="N" weight="2" />
+      <edge id="217" source="s" target="o" weight="1" />
+      <edge id="218" source="ν" target="u" weight="2" />
+      <edge id="219" source="ν" target="N" weight="2" />
+      <edge id="220" source="ν" target="o" weight="2" />
+      <edge id="221" source="ν" target="f" weight="2" />
+      <edge id="222" source="u" target="l" weight="2" />
+      <edge id="223" source="u" target="o" weight="2" />
+      <edge id="224" source="u" target="f" weight="2" />
+      <edge id="225" source="u" target="ι" weight="2" />
+      <edge id="226" source="l" target="M" weight="2" />
+      <edge id="227" source="l" target="f" weight="2" />
+      <edge id="228" source="l" target="ι" weight="2" />
+      <edge id="229" source="l" target="Μ" weight="2" />
+      <edge id="230" source="M" target="ι" weight="2" />
+      <edge id="231" source="M" target="Μ" weight="2" />
+      <edge id="232" source="Ο" target="τ" weight="2" />
+      <edge id="233" source="Ο" target="S" weight="2" />
+      <edge id="234" source="Ο" target="P" weight="2" />
+      <edge id="235" source="τ" target="X" weight="2" />
+      <edge id="236" source="τ" target="S" weight="2" />
+      <edge id="237" source="τ" target="P" weight="2" />
+      <edge id="238" source="τ" target="R" weight="2" />
+      <edge id="239" source="X" target="Θ" weight="2" />
+      <edge id="240" source="X" target="P" weight="2" />
+      <edge id="241" source="X" target="R" weight="2" />
+      <edge id="242" source="X" target="Ι" weight="2" />
+      <edge id="243" source="Θ" target="q" weight="2" />
+      <edge id="244" source="Θ" target="R" weight="2" />
+      <edge id="245" source="Θ" target="Ι" weight="2" />
+      <edge id="246" source="Θ" target="ψ" weight="2" />
+      <edge id="247" source="q" target="N" weight="2" />
+      <edge id="248" source="q" target="Ι" weight="2" />
+      <edge id="249" source="q" target="ψ" weight="2" />
+      <edge id="250" source="q" target="n" weight="2" />
+      <edge id="251" source="N" target="o" weight="2" />
+      <edge id="252" source="N" target="ψ" weight="2" />
+      <edge id="253" source="N" target="n" weight="2" />
+      <edge id="254" source="N" target="H" weight="2" />
+      <edge id="255" source="o" target="f" weight="2" />
+      <edge id="256" source="o" target="n" weight="1" />
+      <edge id="257" source="o" target="H" weight="2" />
+      <edge id="258" source="o" target="m" weight="2" />
+      <edge id="259" source="f" target="ι" weight="2" />
+      <edge id="260" source="f" target="H" weight="2" />
+      <edge id="261" source="f" target="m" weight="2" />
+      <edge id="262" source="f" target="V" weight="2" />
+      <edge id="263" source="ι" target="Μ" weight="2" />
+      <edge id="264" source="ι" target="m" weight="2" />
+      <edge id="265" source="ι" target="V" weight="2" />
+      <edge id="266" source="ι" target="ζ" weight="2" />
+      <edge id="267" source="Μ" target="V" weight="2" />
+      <edge id="268" source="Μ" target="ζ" weight="2" />
+      <edge id="269" source="S" target="P" weight="2" />
+      <edge id="270" source="S" target="Γ" weight="2" />
+      <edge id="271" source="S" target="d" weight="2" />
+      <edge id="272" source="P" target="R" weight="2" />
+      <edge id="273" source="P" target="Γ" weight="2" />
+      <edge id="274" source="P" target="d" weight="2" />
+      <edge id="275" source="P" target="w" weight="2" />
+      <edge id="276" source="R" target="Ι" weight="2" />
+      <edge id="277" source="R" target="d" weight="2" />
+      <edge id="278" source="R" target="w" weight="2" />
+      <edge id="279" source="R" target="T" weight="2" />
+      <edge id="280" source="Ι" target="ψ" weight="2" />
+      <edge id="281" source="Ι" target="w" weight="2" />
+      <edge id="282" source="Ι" target="T" weight="2" />
+      <edge id="283" source="Ι" target="i" weight="2" />
+      <edge id="284" source="ψ" target="n" weight="2" />
+      <edge id="285" source="ψ" target="T" weight="2" />
+      <edge id="286" source="ψ" target="i" weight="2" />
+      <edge id="287" source="ψ" target="ε" weight="2" />
+      <edge id="288" source="n" target="H" weight="2" />
+      <edge id="289" source="n" target="i" weight="1" />
+      <edge id="290" source="n" target="ε" weight="2" />
+      <edge id="291" source="n" target="b" weight="2" />
+      <edge id="292" source="H" target="m" weight="2" />
+      <edge id="293" source="H" target="ε" weight="2" />
+      <edge id="294" source="H" target="b" weight="2" />
+      <edge id="295" source="H" target="Ε" weight="2" />
+      <edge id="296" source="m" target="V" weight="2" />
+      <edge id="297" source="m" target="b" weight="2" />
+      <edge id="298" source="m" target="Ε" weight="2" />
+      <edge id="299" source="m" target="K" weight="2" />
+      <edge id="300" source="V" target="ζ" weight="2" />
+      <edge id="301" source="V" target="Ε" weight="2" />
+      <edge id="302" source="V" target="K" weight="2" />
+      <edge id="303" source="V" target="z" weight="2" />
+      <edge id="304" source="ζ" target="K" weight="2" />
+      <edge id="305" source="ζ" target="z" weight="2" />
+      <edge id="306" source="Γ" target="d" weight="2" />
+      <edge id="307" source="Γ" target="Ρ" weight="2" />
+      <edge id="308" source="Γ" target="Ν" weight="2" />
+      <edge id="309" source="d" target="w" weight="2" />
+      <edge id="310" source="d" target="Ρ" weight="2" />
+      <edge id="311" source="d" target="Ν" weight="2" />
+      <edge id="312" source="d" target="Χ" weight="2" />
+      <edge id="313" source="w" target="T" weight="2" />
+      <edge id="314" source="w" target="Ν" weight="2" />
+      <edge id="315" source="w" target="Χ" weight="2" />
+      <edge id="316" source="w" target="c" weight="2" />
+      <edge id="317" source="T" target="i" weight="2" />
+      <edge id="318" source="T" target="Χ" weight="2" />
+      <edge id="319" source="T" target="c" weight="2" />
+      <edge id="320" source="T" target="Τ" weight="2" />
+      <edge id="321" source="i" target="ε" weight="2" />
+      <edge id="322" source="i" target="c" weight="1" />
+      <edge id="323" source="i" target="Τ" weight="2" />
+      <edge id="324" source="i" target="ξ" weight="2" />
+      <edge id="325" source="ε" target="b" weight="2" />
+      <edge id="326" source="ε" target="Τ" weight="2" />
+      <edge id="327" source="ε" target="ξ" weight="2" />
+      <edge id="328" source="ε" target="β" weight="2" />
+      <edge id="329" source="b" target="Ε" weight="2" />
+      <edge id="330" source="b" target="ξ" weight="2" />
+      <edge id="331" source="b" target="β" weight="2" />
+      <edge id="332" source="b" target="Δ" weight="2" />
+      <edge id="333" source="Ε" target="K" weight="2" />
+      <edge id="334" source="Ε" target="β" weight="2" />
+      <edge id="335" source="Ε" target="Δ" weight="2" />
+      <edge id="336" source="Ε" target="Z" weight="2" />
+      <edge id="337" source="K" target="z" weight="2" />
+      <edge id="338" source="K" target="Δ" weight="2" />
+      <edge id="339" source="K" target="Z" weight="2" />
+      <edge id="340" source="K" target="Λ" weight="2" />
+      <edge id="341" source="z" target="Z" weight="2" />
+      <edge id="342" source="z" target="Λ" weight="2" />
+      <edge id="343" source="Ρ" target="Ν" weight="2" />
+      <edge id="344" source="Ρ" target="finish" weight="1" />
+      <edge id="345" source="Ν" target="Χ" weight="2" />
+      <edge id="346" source="Ν" target="finish" weight="1" />
+      <edge id="347" source="Χ" target="c" weight="2" />
+      <edge id="348" source="Χ" target="finish" weight="1" />
+      <edge id="349" source="c" target="Τ" weight="2" />
+      <edge id="350" source="c" target="finish" weight="1" />
+      <edge id="351" source="Τ" target="ξ" weight="2" />
+      <edge id="352" source="Τ" target="finish" weight="1" />
+      <edge id="353" source="ξ" target="β" weight="2" />
+      <edge id="354" source="ξ" target="finish" weight="1" />
+      <edge id="355" source="β" target="Δ" weight="2" />
+      <edge id="356" source="β" target="finish" weight="1" />
+      <edge id="357" source="Δ" target="Z" weight="2" />
+      <edge id="358" source="Δ" target="finish" weight="1" />
+      <edge id="359" source="Z" target="Λ" weight="2" />
+      <edge id="360" source="Z" target="finish" weight="1" />
+      <edge id="361" source="Λ" target="finish" weight="1" />
+    </edges>
+  </graph>
+</gexf>
