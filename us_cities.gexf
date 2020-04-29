@@ -1,0 +1,2500 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2020-04-16">
+    <creator>NetworkX 2.4</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes class="edge" mode="static">
+      <attribute id="2" title="great_circle" type="float" />
+      <attribute id="3" title="road" type="double" />
+      <attribute id="4" title="time" type="double" />
+    </attributes>
+    <attributes class="node" mode="static">
+      <attribute id="0" title="longitude" type="double" />
+      <attribute id="1" title="latitude" type="double" />
+    </attributes>
+    <nodes>
+      <node id="San Bernardino" label="San Bernardino">
+        <attvalues>
+          <attvalue for="0" value="-117.301980080874" />
+          <attvalue for="1" value="34.1223295856538" />
+        </attvalues>
+      </node>
+      <node id="Las Vegas" label="Las Vegas">
+        <attvalues>
+          <attvalue for="0" value="-115.221952004694" />
+          <attvalue for="1" value="36.211943640024295" />
+        </attvalues>
+      </node>
+      <node id="San Diego" label="San Diego">
+        <attvalues>
+          <attvalue for="0" value="-117.18193572866001" />
+          <attvalue for="1" value="32.821969681677295" />
+        </attvalues>
+      </node>
+      <node id="Fresno" label="Fresno">
+        <attvalues>
+          <attvalue for="0" value="-119.772984051373" />
+          <attvalue for="1" value="36.7477168976245" />
+        </attvalues>
+      </node>
+      <node id="Los Angeles" label="Los Angeles">
+        <attvalues>
+          <attvalue for="0" value="-118.18192636994" />
+          <attvalue for="1" value="33.991924108765396" />
+        </attvalues>
+      </node>
+      <node id="Bridgeport" label="Bridgeport">
+        <attvalues>
+          <attvalue for="0" value="-73.20190704196109" />
+          <attvalue for="1" value="41.18192451569529" />
+        </attvalues>
+      </node>
+      <node id="Norfolk" label="Norfolk">
+        <attvalues>
+          <attvalue for="0" value="-76.2800057390245" />
+          <attvalue for="1" value="36.849958718913896" />
+        </attvalues>
+      </node>
+      <node id="Boston" label="Boston">
+        <attvalues>
+          <attvalue for="0" value="-71.0719595321868" />
+          <attvalue for="1" value="42.3319060017023" />
+        </attvalues>
+      </node>
+      <node id="New York City" label="New York City">
+        <attvalues>
+          <attvalue for="0" value="-73.9819627874068" />
+          <attvalue for="1" value="40.7519249225946" />
+        </attvalues>
+      </node>
+      <node id="Burlington" label="Burlington">
+        <attvalues>
+          <attvalue for="0" value="-73.2124668799627" />
+          <attvalue for="1" value="44.4757981557934" />
+        </attvalues>
+      </node>
+      <node id="Syracuse" label="Syracuse">
+        <attvalues>
+          <attvalue for="0" value="-76.1500136735942" />
+          <attvalue for="1" value="43.0499937124283" />
+        </attvalues>
+      </node>
+      <node id="Rochester" label="Rochester">
+        <attvalues>
+          <attvalue for="0" value="-77.62189564874959" />
+          <attvalue for="1" value="43.172371496497405" />
+        </attvalues>
+      </node>
+      <node id="Buffalo" label="Buffalo">
+        <attvalues>
+          <attvalue for="0" value="-78.8819479355383" />
+          <attvalue for="1" value="42.881924108800796" />
+        </attvalues>
+      </node>
+      <node id="Sault Ste. Marie" label="Sault Ste. Marie">
+        <attvalues>
+          <attvalue for="0" value="-84.3452757178979" />
+          <attvalue for="1" value="46.4952614533274" />
+        </attvalues>
+      </node>
+      <node id="Baltimore" label="Baltimore">
+        <attvalues>
+          <attvalue for="0" value="-76.6219308456855" />
+          <attvalue for="1" value="39.301935908916704" />
+        </attvalues>
+      </node>
+      <node id="International Falls" label="International Falls">
+        <attvalues>
+          <attvalue for="0" value="-93.410846396645" />
+          <attvalue for="1" value="48.60112774565349" />
+        </attvalues>
+      </node>
+      <node id="Minot" label="Minot">
+        <attvalues>
+          <attvalue for="0" value="-101.295817303252" />
+          <attvalue for="1" value="48.2324939158995" />
+        </attvalues>
+      </node>
+      <node id="Augusta" label="Augusta">
+        <attvalues>
+          <attvalue for="0" value="-69.7799890560557" />
+          <attvalue for="1" value="44.31056276354" />
+        </attvalues>
+      </node>
+      <node id="Fargo" label="Fargo">
+        <attvalues>
+          <attvalue for="0" value="-96.7894257016716" />
+          <attvalue for="1" value="46.87722780261289" />
+        </attvalues>
+      </node>
+      <node id="Milwaukee" label="Milwaukee">
+        <attvalues>
+          <attvalue for="0" value="-87.921912942085" />
+          <attvalue for="1" value="43.0546009073042" />
+        </attvalues>
+      </node>
+      <node id="Saint Paul" label="Saint Paul">
+        <attvalues>
+          <attvalue for="0" value="-93.0849748146126" />
+          <attvalue for="1" value="44.9439866323577" />
+        </attvalues>
+      </node>
+      <node id="Minneapolis" label="Minneapolis">
+        <attvalues>
+          <attvalue for="0" value="-93.25373219666349" />
+          <attvalue for="1" value="44.981925126061896" />
+        </attvalues>
+      </node>
+      <node id="Des Moines" label="Des Moines">
+        <attvalues>
+          <attvalue for="0" value="-93.61998091813021" />
+          <attvalue for="1" value="41.579980081237395" />
+        </attvalues>
+      </node>
+      <node id="Billings" label="Billings">
+        <attvalues>
+          <attvalue for="0" value="-108.54000044944" />
+          <attvalue for="1" value="45.7883020213584" />
+        </attvalues>
+      </node>
+      <node id="Casper" label="Casper">
+        <attvalues>
+          <attvalue for="0" value="-106.312487835499" />
+          <attvalue for="1" value="42.866619892440504" />
+        </attvalues>
+      </node>
+      <node id="Salt Lake City" label="Salt Lake City">
+        <attvalues>
+          <attvalue for="0" value="-111.931997781048" />
+          <attvalue for="1" value="40.776962154040106" />
+        </attvalues>
+      </node>
+      <node id="Great Falls" label="Great Falls">
+        <attvalues>
+          <attvalue for="0" value="-111.299987021717" />
+          <attvalue for="1" value="47.500290546756" />
+        </attvalues>
+      </node>
+      <node id="Helena" label="Helena">
+        <attvalues>
+          <attvalue for="0" value="-112.035290976798" />
+          <attvalue for="1" value="46.592749042846" />
+        </attvalues>
+      </node>
+      <node id="Spokane" label="Spokane">
+        <attvalues>
+          <attvalue for="0" value="-117.41994938339501" />
+          <attvalue for="1" value="47.6699959504024" />
+        </attvalues>
+      </node>
+      <node id="Missoula" label="Missoula">
+        <attvalues>
+          <attvalue for="0" value="-113.993052614175" />
+          <attvalue for="1" value="46.8722410268966" />
+        </attvalues>
+      </node>
+      <node id="Boise" label="Boise">
+        <attvalues>
+          <attvalue for="0" value="-116.227489870044" />
+          <attvalue for="1" value="43.60859010728729" />
+        </attvalues>
+      </node>
+      <node id="Bismarck" label="Bismarck">
+        <attvalues>
+          <attvalue for="0" value="-100.783316285998" />
+          <attvalue for="1" value="46.808317280151606" />
+        </attvalues>
+      </node>
+      <node id="Pierre" label="Pierre">
+        <attvalues>
+          <attvalue for="0" value="-100.350552003769" />
+          <attvalue for="1" value="44.368337014842304" />
+        </attvalues>
+      </node>
+      <node id="Sioux Falls" label="Sioux Falls">
+        <attvalues>
+          <attvalue for="0" value="-96.729997804536" />
+          <attvalue for="1" value="43.54998903306829" />
+        </attvalues>
+      </node>
+      <node id="Eureka" label="Eureka">
+        <attvalues>
+          <attvalue for="0" value="-124.147497397745" />
+          <attvalue for="1" value="40.8022239370285" />
+        </attvalues>
+      </node>
+      <node id="Santa Barbara" label="Santa Barbara">
+        <attvalues>
+          <attvalue for="0" value="-119.719989870058" />
+          <attvalue for="1" value="34.4349898468338" />
+        </attvalues>
+      </node>
+      <node id="Laredo" label="Laredo">
+        <attvalues>
+          <attvalue for="0" value="-99.5072184669818" />
+          <attvalue for="1" value="27.506136290491" />
+        </attvalues>
+      </node>
+      <node id="San Francisco" label="San Francisco">
+        <attvalues>
+          <attvalue for="0" value="-122.41716877355199" />
+          <attvalue for="1" value="37.7691956296874" />
+        </attvalues>
+      </node>
+      <node id="Olympia" label="Olympia">
+        <attvalues>
+          <attvalue for="0" value="-122.899434043247" />
+          <attvalue for="1" value="47.0380448599051" />
+        </attvalues>
+      </node>
+      <node id="Salem" label="Salem">
+        <attvalues>
+          <attvalue for="0" value="-123.023896730422" />
+          <attvalue for="1" value="44.928070291211704" />
+        </attvalues>
+      </node>
+      <node id="Seattle" label="Seattle">
+        <attvalues>
+          <attvalue for="0" value="-122.34193084586799" />
+          <attvalue for="1" value="47.571947912530696" />
+        </attvalues>
+      </node>
+      <node id="Vancouver" label="Vancouver">
+        <attvalues>
+          <attvalue for="0" value="-122.63999251492599" />
+          <attvalue for="1" value="45.6303013296261" />
+        </attvalues>
+      </node>
+      <node id="Portland" label="Portland">
+        <attvalues>
+          <attvalue for="0" value="-122.681935932133" />
+          <attvalue for="1" value="45.521969681728" />
+        </attvalues>
+      </node>
+      <node id="Flagstaff" label="Flagstaff">
+        <attvalues>
+          <attvalue for="0" value="-111.650508261952" />
+          <attvalue for="1" value="35.1980957224879" />
+        </attvalues>
+      </node>
+      <node id="Phoenix" label="Phoenix">
+        <attvalues>
+          <attvalue for="0" value="-112.071937559695" />
+          <attvalue for="1" value="33.5419257363676" />
+        </attvalues>
+      </node>
+      <node id="Albuquerque" label="Albuquerque">
+        <attvalues>
+          <attvalue for="0" value="-106.641330812388" />
+          <attvalue for="1" value="35.104974791498" />
+        </attvalues>
+      </node>
+      <node id="Tucson" label="Tucson">
+        <attvalues>
+          <attvalue for="0" value="-110.891932066526" />
+          <attvalue for="1" value="32.2069426227557" />
+        </attvalues>
+      </node>
+      <node id="El Paso" label="El Paso">
+        <attvalues>
+          <attvalue for="0" value="-106.51194101833099" />
+          <attvalue for="1" value="31.7819298053712" />
+        </attvalues>
+      </node>
+      <node id="San Jose" label="San Jose">
+        <attvalues>
+          <attvalue for="0" value="-121.85193491487699" />
+          <attvalue for="1" value="37.3019287881405" />
+        </attvalues>
+      </node>
+      <node id="Reno" label="Reno">
+        <attvalues>
+          <attvalue for="0" value="-119.820009604758" />
+          <attvalue for="1" value="39.529976012218796" />
+        </attvalues>
+      </node>
+      <node id="Sacramento" label="Sacramento">
+        <attvalues>
+          <attvalue for="0" value="-121.47198394645099" />
+          <attvalue for="1" value="38.5769672402942" />
+        </attvalues>
+      </node>
+      <node id="Colorado Springs" label="Colorado Springs">
+        <attvalues>
+          <attvalue for="0" value="-104.79198632995899" />
+          <attvalue for="1" value="38.8629624624115" />
+        </attvalues>
+      </node>
+      <node id="Omaha" label="Omaha">
+        <attvalues>
+          <attvalue for="0" value="-96.00999007341329" />
+          <attvalue for="1" value="41.2400008331892" />
+        </attvalues>
+      </node>
+      <node id="Cheyenne" label="Cheyenne">
+        <attvalues>
+          <attvalue for="0" value="-104.819710735883" />
+          <attvalue for="1" value="41.1400069367045" />
+        </attvalues>
+      </node>
+      <node id="Denver" label="Denver">
+        <attvalues>
+          <attvalue for="0" value="-104.98596181096799" />
+          <attvalue for="1" value="39.7411339069655" />
+        </attvalues>
+      </node>
+      <node id="Amarillo" label="Amarillo">
+        <attvalues>
+          <attvalue for="0" value="-101.829996583853" />
+          <attvalue for="1" value="35.229980081212" />
+        </attvalues>
+      </node>
+      <node id="Santa Fe" label="Santa Fe">
+        <attvalues>
+          <attvalue for="0" value="-105.937239422411" />
+          <attvalue for="1" value="35.6869289337531" />
+        </attvalues>
+      </node>
+      <node id="Elko" label="Elko">
+        <attvalues>
+          <attvalue for="0" value="-115.761988567958" />
+          <attvalue for="1" value="40.8325063263516" />
+        </attvalues>
+      </node>
+      <node id="Topeka" label="Topeka">
+        <attvalues>
+          <attvalue for="0" value="-95.66998498714891" />
+          <attvalue for="1" value="39.050005309091894" />
+        </attvalues>
+      </node>
+      <node id="Oklahoma City" label="Oklahoma City">
+        <attvalues>
+          <attvalue for="0" value="-97.5206293727874" />
+          <attvalue for="1" value="35.4719888060368" />
+        </attvalues>
+      </node>
+      <node id="Tulsa" label="Tulsa">
+        <attvalues>
+          <attvalue for="0" value="-95.93002079444159" />
+          <attvalue for="1" value="36.120003274575" />
+        </attvalues>
+      </node>
+      <node id="Kansas City" label="Kansas City">
+        <attvalues>
+          <attvalue for="0" value="-94.6060400775458" />
+          <attvalue for="1" value="39.109034368397495" />
+        </attvalues>
+      </node>
+      <node id="St. Louis" label="St. Louis">
+        <attvalues>
+          <attvalue for="0" value="-90.24192636982859" />
+          <attvalue for="1" value="38.6369635781851" />
+        </attvalues>
+      </node>
+      <node id="Memphis" label="Memphis">
+        <attvalues>
+          <attvalue for="0" value="-90.0019410182651" />
+          <attvalue for="1" value="35.1219326536918" />
+        </attvalues>
+      </node>
+      <node id="Shreveport" label="Shreveport">
+        <attvalues>
+          <attvalue for="0" value="-93.7700234392897" />
+          <attvalue for="1" value="32.500017516097" />
+        </attvalues>
+      </node>
+      <node id="Dallas" label="Dallas">
+        <attvalues>
+          <attvalue for="0" value="-96.8419627874982" />
+          <attvalue for="1" value="32.821969681677295" />
+        </attvalues>
+      </node>
+      <node id="Houston" label="Houston">
+        <attvalues>
+          <attvalue for="0" value="-95.34192514914601" />
+          <attvalue for="1" value="29.821920243188895" />
+        </attvalues>
+      </node>
+      <node id="Baton Rouge" label="Baton Rouge">
+        <attvalues>
+          <attvalue for="0" value="-91.140158123524" />
+          <attvalue for="1" value="30.4579457794351" />
+        </attvalues>
+      </node>
+      <node id="Jackson" label="Jackson">
+        <attvalues>
+          <attvalue for="0" value="-90.1849967872571" />
+          <attvalue for="1" value="32.2988153269685" />
+        </attvalues>
+      </node>
+      <node id="New Orleans" label="New Orleans">
+        <attvalues>
+          <attvalue for="0" value="-90.0419127386428" />
+          <attvalue for="1" value="29.9969483193615" />
+        </attvalues>
+      </node>
+      <node id="Fort Worth" label="Fort Worth">
+        <attvalues>
+          <attvalue for="0" value="-97.34003808774142" />
+          <attvalue for="1" value="32.7399770294442" />
+        </attvalues>
+      </node>
+      <node id="San Antonio" label="San Antonio">
+        <attvalues>
+          <attvalue for="0" value="-98.5092511989633" />
+          <attvalue for="1" value="29.489279048525898" />
+        </attvalues>
+      </node>
+      <node id="Austin" label="Austin">
+        <attvalues>
+          <attvalue for="0" value="-97.74472422142121" />
+          <attvalue for="1" value="30.2688955442974" />
+        </attvalues>
+      </node>
+      <node id="Corpus Christi" label="Corpus Christi">
+        <attvalues>
+          <attvalue for="0" value="-97.40189477719481" />
+          <attvalue for="1" value="27.742814350387803" />
+        </attvalues>
+      </node>
+      <node id="Miami" label="Miami">
+        <attvalues>
+          <attvalue for="0" value="-80.22605193945" />
+          <attvalue for="1" value="25.789556555021502" />
+        </attvalues>
+      </node>
+      <node id="Montgomery" label="Montgomery">
+        <attvalues>
+          <attvalue for="0" value="-86.27918868177271" />
+          <attvalue for="1" value="32.3616021922031" />
+        </attvalues>
+      </node>
+      <node id="Tallahassee" label="Tallahassee">
+        <attvalues>
+          <attvalue for="0" value="-84.2800342221294" />
+          <attvalue for="1" value="30.4499876088621" />
+        </attvalues>
+      </node>
+      <node id="Nashville" label="Nashville">
+        <attvalues>
+          <attvalue for="0" value="-86.7819308457263" />
+          <attvalue for="1" value="36.1719202432141" />
+        </attvalues>
+      </node>
+      <node id="Atlanta" label="Atlanta">
+        <attvalues>
+          <attvalue for="0" value="-84.4018952418756" />
+          <attvalue for="1" value="33.8319597126059" />
+        </attvalues>
+      </node>
+      <node id="Tampa" label="Tampa">
+        <attvalues>
+          <attvalue for="0" value="-82.4605667099668" />
+          <attvalue for="1" value="27.948933792985898" />
+        </attvalues>
+      </node>
+      <node id="Jacksonville" label="Jacksonville">
+        <attvalues>
+          <attvalue for="0" value="-81.6719326767605" />
+          <attvalue for="1" value="30.3319666299097" />
+        </attvalues>
+      </node>
+      <node id="Savannah" label="Savannah">
+        <attvalues>
+          <attvalue for="0" value="-81.10999515961659" />
+          <attvalue for="1" value="32.0211061798321" />
+        </attvalues>
+      </node>
+      <node id="Orlando" label="Orlando">
+        <attvalues>
+          <attvalue for="0" value="-81.3819762151708" />
+          <attvalue for="1" value="28.511922684589898" />
+        </attvalues>
+      </node>
+      <node id="Wilmington" label="Wilmington">
+        <attvalues>
+          <attvalue for="0" value="-77.9450203874686" />
+          <attvalue for="1" value="34.2255194285389" />
+        </attvalues>
+      </node>
+      <node id="Columbia" label="Columbia">
+        <attvalues>
+          <attvalue for="0" value="-80.8999821387824" />
+          <attvalue for="1" value="34.0399751983948" />
+        </attvalues>
+      </node>
+      <node id="Knoxville" label="Knoxville">
+        <attvalues>
+          <attvalue for="0" value="-83.92003035656809" />
+          <attvalue for="1" value="35.9700124298478" />
+        </attvalues>
+      </node>
+      <node id="Charleston" label="Charleston">
+        <attvalues>
+          <attvalue for="0" value="-81.63272811046521" />
+          <attvalue for="1" value="38.349737975104794" />
+        </attvalues>
+      </node>
+      <node id="Raleigh" label="Raleigh">
+        <attvalues>
+          <attvalue for="0" value="-78.64469344248451" />
+          <attvalue for="1" value="35.8187813507457" />
+        </attvalues>
+      </node>
+      <node id="Indianapolis" label="Indianapolis">
+        <attvalues>
+          <attvalue for="0" value="-86.1719939153852" />
+          <attvalue for="1" value="39.751934281314504" />
+        </attvalues>
+      </node>
+      <node id="Cincinnati" label="Cincinnati">
+        <attvalues>
+          <attvalue for="0" value="-84.4588685084773" />
+          <attvalue for="1" value="39.1638306436168" />
+        </attvalues>
+      </node>
+      <node id="Detroit" label="Detroit">
+        <attvalues>
+          <attvalue for="0" value="-83.0820016464927" />
+          <attvalue for="1" value="42.3319060017023" />
+        </attvalues>
+      </node>
+      <node id="Chicago" label="Chicago">
+        <attvalues>
+          <attvalue for="0" value="-87.7520008327093" />
+          <attvalue for="1" value="41.8319365192784" />
+        </attvalues>
+      </node>
+      <node id="Richmond" label="Richmond">
+        <attvalues>
+          <attvalue for="0" value="-77.45193186294159" />
+          <attvalue for="1" value="37.551965205784796" />
+        </attvalues>
+      </node>
+      <node id="Pittsburgh" label="Pittsburgh">
+        <attvalues>
+          <attvalue for="0" value="-80.0019312526002" />
+          <attvalue for="1" value="40.4319444538431" />
+        </attvalues>
+      </node>
+      <node id="Washington" label="Washington">
+        <attvalues>
+          <attvalue for="0" value="-77.0113644394372" />
+          <attvalue for="1" value="38.901495235087104" />
+        </attvalues>
+      </node>
+      <node id="Cleveland" label="Cleveland">
+        <attvalues>
+          <attvalue for="0" value="-81.6969440699896" />
+          <attvalue for="1" value="41.471932653717296" />
+        </attvalues>
+      </node>
+      <node id="Philadelphia" label="Philadelphia">
+        <attvalues>
+          <attvalue for="0" value="-75.1719418320079" />
+          <attvalue for="1" value="40.0019190225265" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="San Bernardino" target="Las Vegas">
+        <attvalues>
+          <attvalue for="2" value="299.5432902591912" />
+          <attvalue for="3" value="369.24210800000003" />
+          <attvalue for="4" value="13158.559" />
+        </attvalues>
+      </edge>
+      <edge id="1" source="San Bernardino" target="San Diego">
+        <attvalues>
+          <attvalue for="2" value="145.02166655041978" />
+          <attvalue for="3" value="166.967286" />
+          <attvalue for="4" value="6299.649" />
+        </attvalues>
+      </edge>
+      <edge id="2" source="San Bernardino" target="Fresno">
+        <attvalues>
+          <attvalue for="2" value="367.8536444296415" />
+          <attvalue for="3" value="435.044978" />
+          <attvalue for="4" value="15628.961" />
+        </attvalues>
+      </edge>
+      <edge id="3" source="San Bernardino" target="Los Angeles">
+        <attvalues>
+          <attvalue for="2" value="82.34957884340776" />
+          <attvalue for="3" value="95.74920900000001" />
+          <attvalue for="4" value="3784.455" />
+        </attvalues>
+      </edge>
+      <edge id="4" source="Las Vegas" target="Flagstaff">
+        <attvalues>
+          <attvalue for="2" value="341.59055299778635" />
+          <attvalue for="3" value="420.28189199999997" />
+          <attvalue for="4" value="14887.539" />
+        </attvalues>
+      </edge>
+      <edge id="5" source="Las Vegas" target="Fresno">
+        <attvalues>
+          <attvalue for="2" value="411.19649934144684" />
+          <attvalue for="3" value="643.2646430000001" />
+          <attvalue for="4" value="23307.434" />
+        </attvalues>
+      </edge>
+      <edge id="6" source="Las Vegas" target="Reno">
+        <attvalues>
+          <attvalue for="2" value="546.6787709443719" />
+          <attvalue for="3" value="694.523872" />
+          <attvalue for="4" value="25438.487" />
+        </attvalues>
+      </edge>
+      <edge id="7" source="Las Vegas" target="Elko">
+        <attvalues>
+          <attvalue for="2" value="515.9239801299889" />
+          <attvalue for="3" value="769.631125" />
+          <attvalue for="4" value="26477.636" />
+        </attvalues>
+      </edge>
+      <edge id="8" source="Las Vegas" target="Phoenix">
+        <attvalues>
+          <attvalue for="2" value="413.1259552476046" />
+          <attvalue for="3" value="486.37645799999996" />
+          <attvalue for="4" value="18860.65" />
+        </attvalues>
+      </edge>
+      <edge id="9" source="Las Vegas" target="San Diego">
+        <attvalues>
+          <attvalue for="2" value="417.5082868411929" />
+          <attvalue for="3" value="532.094513" />
+          <attvalue for="4" value="19411.899" />
+        </attvalues>
+      </edge>
+      <edge id="10" source="Las Vegas" target="Salt Lake City">
+        <attvalues>
+          <attvalue for="2" value="582.6755483054811" />
+          <attvalue for="3" value="682.892168" />
+          <attvalue for="4" value="22715.193" />
+        </attvalues>
+      </edge>
+      <edge id="11" source="San Diego" target="Tucson">
+        <attvalues>
+          <attvalue for="2" value="593.6482512395077" />
+          <attvalue for="3" value="665.633651" />
+          <attvalue for="4" value="22867.761" />
+        </attvalues>
+      </edge>
+      <edge id="12" source="San Diego" target="Santa Barbara">
+        <attvalues>
+          <attvalue for="2" value="295.59835996242856" />
+          <attvalue for="3" value="339.511532" />
+          <attvalue for="4" value="12882.074" />
+        </attvalues>
+      </edge>
+      <edge id="13" source="San Diego" target="Laredo">
+        <attvalues>
+          <attvalue for="2" value="1796.3098537430737" />
+          <attvalue for="3" value="2139.756739" />
+          <attvalue for="4" value="73164.835" />
+        </attvalues>
+      </edge>
+      <edge id="14" source="San Diego" target="Phoenix">
+        <attvalues>
+          <attvalue for="2" value="482.19073222270873" />
+          <attvalue for="3" value="580.27823" />
+          <attvalue for="4" value="20698.027" />
+        </attvalues>
+      </edge>
+      <edge id="15" source="San Diego" target="Los Angeles">
+        <attvalues>
+          <attvalue for="2" value="159.8109209338296" />
+          <attvalue for="3" value="176.180149" />
+          <attvalue for="4" value="6802.485" />
+        </attvalues>
+      </edge>
+      <edge id="16" source="Fresno" target="Santa Barbara">
+        <attvalues>
+          <attvalue for="2" value="257.208503517637" />
+          <attvalue for="3" value="360.02052199999997" />
+          <attvalue for="4" value="15006.484" />
+        </attvalues>
+      </edge>
+      <edge id="17" source="Fresno" target="Los Angeles">
+        <attvalues>
+          <attvalue for="2" value="338.67603718182386" />
+          <attvalue for="3" value="364.569655" />
+          <attvalue for="4" value="13163.274" />
+        </attvalues>
+      </edge>
+      <edge id="18" source="Fresno" target="San Jose">
+        <attvalues>
+          <attvalue for="2" value="194.571019484399" />
+          <attvalue for="3" value="237.108768" />
+          <attvalue for="4" value="9288.275" />
+        </attvalues>
+      </edge>
+      <edge id="19" source="Fresno" target="Reno">
+        <attvalues>
+          <attvalue for="2" value="309.40085508568944" />
+          <attvalue for="3" value="482.584394" />
+          <attvalue for="4" value="17919.735" />
+        </attvalues>
+      </edge>
+      <edge id="20" source="Fresno" target="Sacramento">
+        <attvalues>
+          <attvalue for="2" value="252.45512971176424" />
+          <attvalue for="3" value="273.951542" />
+          <attvalue for="4" value="10242.011" />
+        </attvalues>
+      </edge>
+      <edge id="21" source="Los Angeles" target="Santa Barbara">
+        <attvalues>
+          <attvalue for="2" value="149.762287302167" />
+          <attvalue for="3" value="168.26199" />
+          <attvalue for="4" value="6597.93" />
+        </attvalues>
+      </edge>
+      <edge id="22" source="Bridgeport" target="Norfolk">
+        <attvalues>
+          <attvalue for="2" value="550.129236451833" />
+          <attvalue for="3" value="669.750169" />
+          <attvalue for="4" value="27208.918" />
+        </attvalues>
+      </edge>
+      <edge id="23" source="Bridgeport" target="Boston">
+        <attvalues>
+          <attvalue for="2" value="218.08467002416683" />
+          <attvalue for="3" value="246.320585" />
+          <attvalue for="4" value="9646.224" />
+        </attvalues>
+      </edge>
+      <edge id="24" source="Bridgeport" target="New York City">
+        <attvalues>
+          <attvalue for="2" value="81.09056098765339" />
+          <attvalue for="3" value="93.82833500000001" />
+          <attvalue for="4" value="4174.912" />
+        </attvalues>
+      </edge>
+      <edge id="25" source="Bridgeport" target="Burlington">
+        <attvalues>
+          <attvalue for="2" value="366.26356653734695" />
+          <attvalue for="3" value="465.966673" />
+          <attvalue for="4" value="17810.156" />
+        </attvalues>
+      </edge>
+      <edge id="26" source="Bridgeport" target="Syracuse">
+        <attvalues>
+          <attvalue for="2" value="319.7735553025382" />
+          <attvalue for="3" value="436.328667" />
+          <attvalue for="4" value="17476.876" />
+        </attvalues>
+      </edge>
+      <edge id="27" source="Norfolk" target="Wilmington">
+        <attvalues>
+          <attvalue for="2" value="328.4025447732167" />
+          <attvalue for="3" value="380.577697" />
+          <attvalue for="4" value="15214.096" />
+        </attvalues>
+      </edge>
+      <edge id="28" source="Norfolk" target="Richmond">
+        <attvalues>
+          <attvalue for="2" value="129.87110563807556" />
+          <attvalue for="3" value="150.248784" />
+          <attvalue for="4" value="6144.291" />
+        </attvalues>
+      </edge>
+      <edge id="29" source="Norfolk" target="Baltimore">
+        <attvalues>
+          <attvalue for="2" value="274.2849040483211" />
+          <attvalue for="3" value="374.438517" />
+          <attvalue for="4" value="14752.081" />
+        </attvalues>
+      </edge>
+      <edge id="30" source="Norfolk" target="Raleigh">
+        <attvalues>
+          <attvalue for="2" value="240.85075661781974" />
+          <attvalue for="3" value="294.28138299999995" />
+          <attvalue for="4" value="10872.54" />
+        </attvalues>
+      </edge>
+      <edge id="31" source="Norfolk" target="Boston">
+        <attvalues>
+          <attvalue for="2" value="755.1206406051649" />
+          <attvalue for="3" value="913.819172" />
+          <attvalue for="4" value="36355.459" />
+        </attvalues>
+      </edge>
+      <edge id="32" source="Norfolk" target="New York City">
+        <attvalues>
+          <attvalue for="2" value="477.3488665693645" />
+          <attvalue for="3" value="575.611358" />
+          <attvalue for="4" value="23100.467" />
+        </attvalues>
+      </edge>
+      <edge id="33" source="Norfolk" target="Philadelphia">
+        <attvalues>
+          <attvalue for="2" value="363.5219254086996" />
+          <attvalue for="3" value="436.157676" />
+          <attvalue for="4" value="18677.364" />
+        </attvalues>
+      </edge>
+      <edge id="34" source="Norfolk" target="Washington">
+        <attvalues>
+          <attvalue for="2" value="236.9777835761018" />
+          <attvalue for="3" value="313.370179" />
+          <attvalue for="4" value="11887.364" />
+        </attvalues>
+      </edge>
+      <edge id="35" source="Boston" target="Burlington">
+        <attvalues>
+          <attvalue for="2" value="294.4793545989769" />
+          <attvalue for="3" value="351.29891200000003" />
+          <attvalue for="4" value="13332.667" />
+        </attvalues>
+      </edge>
+      <edge id="36" source="Boston" target="Augusta">
+        <attvalues>
+          <attvalue for="2" value="243.57094430552823" />
+          <attvalue for="3" value="263.066521" />
+          <attvalue for="4" value="10038.151" />
+        </attvalues>
+      </edge>
+      <edge id="37" source="New York City" target="Syracuse">
+        <attvalues>
+          <attvalue for="2" value="312.21385199481495" />
+          <attvalue for="3" value="401.082475" />
+          <attvalue for="4" value="15461.531" />
+        </attvalues>
+      </edge>
+      <edge id="38" source="New York City" target="Philadelphia">
+        <attvalues>
+          <attvalue for="2" value="130.8255032509568" />
+          <attvalue for="3" value="154.64630400000001" />
+          <attvalue for="4" value="6558.355" />
+        </attvalues>
+      </edge>
+      <edge id="39" source="Burlington" target="Rochester">
+        <attvalues>
+          <attvalue for="2" value="382.2159086489053" />
+          <attvalue for="3" value="500.741219" />
+          <attvalue for="4" value="21904.181" />
+        </attvalues>
+      </edge>
+      <edge id="40" source="Burlington" target="Sault Ste. Marie">
+        <attvalues>
+          <attvalue for="2" value="895.6160231836669" />
+          <attvalue for="3" value="1074.245608" />
+          <attvalue for="4" value="47147.552" />
+        </attvalues>
+      </edge>
+      <edge id="41" source="Burlington" target="Augusta">
+        <attvalues>
+          <attvalue for="2" value="273.325810824791" />
+          <attvalue for="3" value="340.668118" />
+          <attvalue for="4" value="16130.207" />
+        </attvalues>
+      </edge>
+      <edge id="42" source="Burlington" target="Syracuse">
+        <attvalues>
+          <attvalue for="2" value="284.1991714464513" />
+          <attvalue for="3" value="367.801881" />
+          <attvalue for="4" value="16967.167" />
+        </attvalues>
+      </edge>
+      <edge id="43" source="Syracuse" target="Rochester">
+        <attvalues>
+          <attvalue for="2" value="120.2517401526685" />
+          <attvalue for="3" value="141.772277" />
+          <attvalue for="4" value="5593.062" />
+        </attvalues>
+      </edge>
+      <edge id="44" source="Syracuse" target="Baltimore">
+        <attvalues>
+          <attvalue for="2" value="418.63082916445893" />
+          <attvalue for="3" value="531.80253" />
+          <attvalue for="4" value="20661.081" />
+        </attvalues>
+      </edge>
+      <edge id="45" source="Syracuse" target="Philadelphia">
+        <attvalues>
+          <attvalue for="2" value="348.56605233253094" />
+          <attvalue for="3" value="403.04457199999996" />
+          <attvalue for="4" value="15343.801" />
+        </attvalues>
+      </edge>
+      <edge id="46" source="Rochester" target="Buffalo">
+        <attvalues>
+          <attvalue for="2" value="107.39567929091899" />
+          <attvalue for="3" value="120.69380899999999" />
+          <attvalue for="4" value="4960.151" />
+        </attvalues>
+      </edge>
+      <edge id="47" source="Rochester" target="Sault Ste. Marie">
+        <attvalues>
+          <attvalue for="2" value="645.8547528090369" />
+          <attvalue for="3" value="1003.4559830000001" />
+          <attvalue for="4" value="35558.81" />
+        </attvalues>
+      </edge>
+      <edge id="48" source="Rochester" target="Baltimore">
+        <attvalues>
+          <attvalue for="2" value="438.4105035578529" />
+          <attvalue for="3" value="530.710458" />
+          <attvalue for="4" value="22216.848" />
+        </attvalues>
+      </edge>
+      <edge id="49" source="Buffalo" target="Baltimore">
+        <attvalues>
+          <attvalue for="2" value="440.7900160746718" />
+          <attvalue for="3" value="579.188078" />
+          <attvalue for="4" value="24082.761" />
+        </attvalues>
+      </edge>
+      <edge id="50" source="Buffalo" target="Sault Ste. Marie">
+        <attvalues>
+          <attvalue for="2" value="589.6178286559892" />
+          <attvalue for="3" value="890.194346" />
+          <attvalue for="4" value="31213.891" />
+        </attvalues>
+      </edge>
+      <edge id="51" source="Buffalo" target="Cleveland">
+        <attvalues>
+          <attvalue for="2" value="279.95625866023715" />
+          <attvalue for="3" value="310.80336900000003" />
+          <attvalue for="4" value="11984.393" />
+        </attvalues>
+      </edge>
+      <edge id="52" source="Buffalo" target="Detroit">
+        <attvalues>
+          <attvalue for="2" value="349.0969650907411" />
+          <attvalue for="3" value="433.865274" />
+          <attvalue for="4" value="16368.258" />
+        </attvalues>
+      </edge>
+      <edge id="53" source="Buffalo" target="Pittsburgh">
+        <attvalues>
+          <attvalue for="2" value="287.86933262525923" />
+          <attvalue for="3" value="351.064772" />
+          <attvalue for="4" value="13154.475" />
+        </attvalues>
+      </edge>
+      <edge id="54" source="Sault Ste. Marie" target="International Falls">
+        <attvalues>
+          <attvalue for="2" value="719.0358774689973" />
+          <attvalue for="3" value="930.8799329999999" />
+          <attvalue for="4" value="39932.793" />
+        </attvalues>
+      </edge>
+      <edge id="55" source="Sault Ste. Marie" target="Augusta">
+        <attvalues>
+          <attvalue for="2" value="1161.0012236784473" />
+          <attvalue for="3" value="1389.140135" />
+          <attvalue for="4" value="58166.595" />
+        </attvalues>
+      </edge>
+      <edge id="56" source="Sault Ste. Marie" target="Detroit">
+        <attvalues>
+          <attvalue for="2" value="473.6751992453805" />
+          <attvalue for="3" value="558.25503" />
+          <attvalue for="4" value="18733.06" />
+        </attvalues>
+      </edge>
+      <edge id="57" source="Sault Ste. Marie" target="Milwaukee">
+        <attvalues>
+          <attvalue for="2" value="475.3620876638265" />
+          <attvalue for="3" value="632.3783510000001" />
+          <attvalue for="4" value="24958.235" />
+        </attvalues>
+      </edge>
+      <edge id="58" source="Baltimore" target="Pittsburgh">
+        <attvalues>
+          <attvalue for="2" value="314.6187167038841" />
+          <attvalue for="3" value="393.442183" />
+          <attvalue for="4" value="14831.171" />
+        </attvalues>
+      </edge>
+      <edge id="59" source="Baltimore" target="Philadelphia">
+        <attvalues>
+          <attvalue for="2" value="146.51805628071995" />
+          <attvalue for="3" value="166.772639" />
+          <attvalue for="4" value="7578.657" />
+        </attvalues>
+      </edge>
+      <edge id="60" source="Baltimore" target="Washington">
+        <attvalues>
+          <attvalue for="2" value="55.78437887252136" />
+          <attvalue for="3" value="60.786918" />
+          <attvalue for="4" value="2999.664" />
+        </attvalues>
+      </edge>
+      <edge id="61" source="International Falls" target="Minot">
+        <attvalues>
+          <attvalue for="2" value="583.0987971449531" />
+          <attvalue for="3" value="695.6526580000001" />
+          <attvalue for="4" value="28517.377" />
+        </attvalues>
+      </edge>
+      <edge id="62" source="International Falls" target="Augusta">
+        <attvalues>
+          <attvalue for="2" value="1863.69275310915" />
+          <attvalue for="3" value="2316.2028960000002" />
+          <attvalue for="4" value="97871.036" />
+        </attvalues>
+      </edge>
+      <edge id="63" source="International Falls" target="Fargo">
+        <attvalues>
+          <attvalue for="2" value="317.08584692001097" />
+          <attvalue for="3" value="396.75501199999997" />
+          <attvalue for="4" value="16708.204" />
+        </attvalues>
+      </edge>
+      <edge id="64" source="International Falls" target="Milwaukee">
+        <attvalues>
+          <attvalue for="2" value="748.7267296822927" />
+          <attvalue for="3" value="901.120563" />
+          <attvalue for="4" value="33643.078" />
+        </attvalues>
+      </edge>
+      <edge id="65" source="International Falls" target="Saint Paul">
+        <attvalues>
+          <attvalue for="2" value="407.4115588265876" />
+          <attvalue for="3" value="470.697663" />
+          <attvalue for="4" value="18055.366" />
+        </attvalues>
+      </edge>
+      <edge id="66" source="International Falls" target="Minneapolis">
+        <attvalues>
+          <attvalue for="2" value="402.61499202405673" />
+          <attvalue for="3" value="474.714939" />
+          <attvalue for="4" value="18183.628" />
+        </attvalues>
+      </edge>
+      <edge id="67" source="Minot" target="Billings">
+        <attvalues>
+          <attvalue for="2" value="612.4765018221419" />
+          <attvalue for="3" value="724.5847739999999" />
+          <attvalue for="4" value="26893.097" />
+        </attvalues>
+      </edge>
+      <edge id="68" source="Minot" target="Great Falls">
+        <attvalues>
+          <attvalue for="2" value="750.1619800959336" />
+          <attvalue for="3" value="902.176005" />
+          <attvalue for="4" value="35844.684" />
+        </attvalues>
+      </edge>
+      <edge id="69" source="Minot" target="Fargo">
+        <attvalues>
+          <attvalue for="2" value="370.15814109539997" />
+          <attvalue for="3" value="425.141007" />
+          <attvalue for="4" value="17363.346" />
+        </attvalues>
+      </edge>
+      <edge id="70" source="Minot" target="Bismarck">
+        <attvalues>
+          <attvalue for="2" value="162.96965704529293" />
+          <attvalue for="3" value="176.749487" />
+          <attvalue for="4" value="6858.976" />
+        </attvalues>
+      </edge>
+      <edge id="71" source="Minot" target="Casper">
+        <attvalues>
+          <attvalue for="2" value="712.8076654866829" />
+          <attvalue for="3" value="972.24688" />
+          <attvalue for="4" value="34701.835" />
+        </attvalues>
+      </edge>
+      <edge id="72" source="Fargo" target="Pierre">
+        <attvalues>
+          <attvalue for="2" value="393.0143408527493" />
+          <attvalue for="3" value="534.590205" />
+          <attvalue for="4" value="21215.45" />
+        </attvalues>
+      </edge>
+      <edge id="73" source="Fargo" target="Sioux Falls">
+        <attvalues>
+          <attvalue for="2" value="370.0018458980938" />
+          <attvalue for="3" value="391.62622" />
+          <attvalue for="4" value="12629.172" />
+        </attvalues>
+      </edge>
+      <edge id="74" source="Fargo" target="Bismarck">
+        <attvalues>
+          <attvalue for="2" value="303.8301172156463" />
+          <attvalue for="3" value="311.22591600000004" />
+          <attvalue for="4" value="10506.758" />
+        </attvalues>
+      </edge>
+      <edge id="75" source="Fargo" target="Minneapolis">
+        <attvalues>
+          <attvalue for="2" value="345.18227881434325" />
+          <attvalue for="3" value="376.912145" />
+          <attvalue for="4" value="13380.955" />
+        </attvalues>
+      </edge>
+      <edge id="76" source="Milwaukee" target="Saint Paul">
+        <attvalues>
+          <attvalue for="2" value="463.22622553515686" />
+          <attvalue for="3" value="528.118211" />
+          <attvalue for="4" value="18718.899" />
+        </attvalues>
+      </edge>
+      <edge id="77" source="Milwaukee" target="Des Moines">
+        <attvalues>
+          <attvalue for="2" value="496.2396706698322" />
+          <attvalue for="3" value="603.058874" />
+          <attvalue for="4" value="21274.391" />
+        </attvalues>
+      </edge>
+      <edge id="78" source="Milwaukee" target="Detroit">
+        <attvalues>
+          <attvalue for="2" value="403.5733709755864" />
+          <attvalue for="3" value="597.179373" />
+          <attvalue for="4" value="21293.678" />
+        </attvalues>
+      </edge>
+      <edge id="79" source="Milwaukee" target="Chicago">
+        <attvalues>
+          <attvalue for="2" value="136.6672054961916" />
+          <attvalue for="3" value="158.11598800000002" />
+          <attvalue for="4" value="6641.944" />
+        </attvalues>
+      </edge>
+      <edge id="80" source="Saint Paul" target="Minneapolis">
+        <attvalues>
+          <attvalue for="2" value="13.931489094458321" />
+          <attvalue for="3" value="16.571969" />
+          <attvalue for="4" value="1262.169" />
+        </attvalues>
+      </edge>
+      <edge id="81" source="Saint Paul" target="Des Moines">
+        <attvalues>
+          <attvalue for="2" value="376.55871693920767" />
+          <attvalue for="3" value="396.69933000000003" />
+          <attvalue for="4" value="14191.682" />
+        </attvalues>
+      </edge>
+      <edge id="82" source="Minneapolis" target="Sioux Falls">
+        <attvalues>
+          <attvalue for="2" value="319.29230862514936" />
+          <attvalue for="3" value="383.371537" />
+          <attvalue for="4" value="14325.473" />
+        </attvalues>
+      </edge>
+      <edge id="83" source="Minneapolis" target="Des Moines">
+        <attvalues>
+          <attvalue for="2" value="379.43837172028196" />
+          <attvalue for="3" value="396.559593" />
+          <attvalue for="4" value="14140.938" />
+        </attvalues>
+      </edge>
+      <edge id="84" source="Des Moines" target="Kansas City">
+        <attvalues>
+          <attvalue for="2" value="287.17845325347383" />
+          <attvalue for="3" value="313.939464" />
+          <attvalue for="4" value="11305.635" />
+        </attvalues>
+      </edge>
+      <edge id="85" source="Des Moines" target="Sioux Falls">
+        <attvalues>
+          <attvalue for="2" value="335.8972862560092" />
+          <attvalue for="3" value="455.358353" />
+          <attvalue for="4" value="15748.475" />
+        </attvalues>
+      </edge>
+      <edge id="86" source="Des Moines" target="Chicago">
+        <attvalues>
+          <attvalue for="2" value="487.83874075918663" />
+          <attvalue for="3" value="530.002636" />
+          <attvalue for="4" value="19283.676" />
+        </attvalues>
+      </edge>
+      <edge id="87" source="Des Moines" target="St. Louis">
+        <attvalues>
+          <attvalue for="2" value="435.3833027998037" />
+          <attvalue for="3" value="543.4828739999999" />
+          <attvalue for="4" value="20839.85" />
+        </attvalues>
+      </edge>
+      <edge id="88" source="Des Moines" target="Omaha">
+        <attvalues>
+          <attvalue for="2" value="202.86308225138242" />
+          <attvalue for="3" value="222.429002" />
+          <attvalue for="4" value="8089.512" />
+        </attvalues>
+      </edge>
+      <edge id="89" source="Billings" target="Casper">
+        <attvalues>
+          <attvalue for="2" value="370.0155309791111" />
+          <attvalue for="3" value="448.962759" />
+          <attvalue for="4" value="15093.991" />
+        </attvalues>
+      </edge>
+      <edge id="90" source="Billings" target="Salt Lake City">
+        <attvalues>
+          <attvalue for="2" value="621.0614877698207" />
+          <attvalue for="3" value="887.692919" />
+          <attvalue for="4" value="30647.547" />
+        </attvalues>
+      </edge>
+      <edge id="91" source="Billings" target="Great Falls">
+        <attvalues>
+          <attvalue for="2" value="283.92100459280425" />
+          <attvalue for="3" value="350.341424" />
+          <attvalue for="4" value="14575.478" />
+        </attvalues>
+      </edge>
+      <edge id="92" source="Billings" target="Helena">
+        <attvalues>
+          <attvalue for="2" value="283.50445191292715" />
+          <attvalue for="3" value="383.62193199999996" />
+          <attvalue for="4" value="13665.322" />
+        </attvalues>
+      </edge>
+      <edge id="93" source="Casper" target="Bismarck">
+        <attvalues>
+          <attvalue for="2" value="617.904430880076" />
+          <attvalue for="3" value="835.60773" />
+          <attvalue for="4" value="29299.989" />
+        </attvalues>
+      </edge>
+      <edge id="94" source="Casper" target="Pierre">
+        <attvalues>
+          <attvalue for="2" value="508.0150871463854" />
+          <attvalue for="3" value="708.2455659999999" />
+          <attvalue for="4" value="23643.103" />
+        </attvalues>
+      </edge>
+      <edge id="95" source="Casper" target="Salt Lake City">
+        <attvalues>
+          <attvalue for="2" value="520.261644232871" />
+          <attvalue for="3" value="668.056203" />
+          <attvalue for="4" value="23870.712" />
+        </attvalues>
+      </edge>
+      <edge id="96" source="Casper" target="Denver">
+        <attvalues>
+          <attvalue for="2" value="364.7616233508495" />
+          <attvalue for="3" value="446.042982" />
+          <attvalue for="4" value="14708.817" />
+        </attvalues>
+      </edge>
+      <edge id="97" source="Casper" target="Cheyenne">
+        <attvalues>
+          <attvalue for="2" value="228.19034956407873" />
+          <attvalue for="3" value="287.58209999999997" />
+          <attvalue for="4" value="9304.709" />
+        </attvalues>
+      </edge>
+      <edge id="98" source="Salt Lake City" target="Flagstaff">
+        <attvalues>
+          <attvalue for="2" value="620.8317374272913" />
+          <attvalue for="3" value="839.747109" />
+          <attvalue for="4" value="29974.911" />
+        </attvalues>
+      </edge>
+      <edge id="99" source="Salt Lake City" target="Elko">
+        <attvalues>
+          <attvalue for="2" value="322.3966307649945" />
+          <attvalue for="3" value="366.929564" />
+          <attvalue for="4" value="11655.452" />
+        </attvalues>
+      </edge>
+      <edge id="100" source="Salt Lake City" target="Albuquerque">
+        <attvalues>
+          <attvalue for="2" value="782.6110682014838" />
+          <attvalue for="3" value="964.430043" />
+          <attvalue for="4" value="36576.641" />
+        </attvalues>
+      </edge>
+      <edge id="101" source="Salt Lake City" target="Helena">
+        <attvalues>
+          <attvalue for="2" value="646.7400758447758" />
+          <attvalue for="3" value="776.1887780000001" />
+          <attvalue for="4" value="25010.172" />
+        </attvalues>
+      </edge>
+      <edge id="102" source="Salt Lake City" target="Boise">
+        <attvalues>
+          <attvalue for="2" value="473.55317222829154" />
+          <attvalue for="3" value="545.2043630000001" />
+          <attvalue for="4" value="17383.466" />
+        </attvalues>
+      </edge>
+      <edge id="103" source="Salt Lake City" target="Santa Fe">
+        <attvalues>
+          <attvalue for="2" value="770.6483469579017" />
+          <attvalue for="3" value="975.252067" />
+          <attvalue for="4" value="38118.029" />
+        </attvalues>
+      </edge>
+      <edge id="104" source="Salt Lake City" target="Denver">
+        <attvalues>
+          <attvalue for="2" value="600.390648161238" />
+          <attvalue for="3" value="863.087942" />
+          <attvalue for="4" value="28059.513" />
+        </attvalues>
+      </edge>
+      <edge id="105" source="Great Falls" target="Spokane">
+        <attvalues>
+          <attvalue for="2" value="459.26770602645564" />
+          <attvalue for="3" value="587.1244340000001" />
+          <attvalue for="4" value="22283.451" />
+        </attvalues>
+      </edge>
+      <edge id="106" source="Great Falls" target="Missoula">
+        <attvalues>
+          <attvalue for="2" value="215.1500393242148" />
+          <attvalue for="3" value="269.288379" />
+          <attvalue for="4" value="11670.531" />
+        </attvalues>
+      </edge>
+      <edge id="107" source="Great Falls" target="Helena">
+        <attvalues>
+          <attvalue for="2" value="115.2705700721971" />
+          <attvalue for="3" value="144.472465" />
+          <attvalue for="4" value="4932.974" />
+        </attvalues>
+      </edge>
+      <edge id="108" source="Helena" target="Missoula">
+        <attvalues>
+          <attvalue for="2" value="152.40611773264888" />
+          <attvalue for="3" value="181.86937700000001" />
+          <attvalue for="4" value="6081.171" />
+        </attvalues>
+      </edge>
+      <edge id="109" source="Helena" target="Boise">
+        <attvalues>
+          <attvalue for="2" value="467.17381469806185" />
+          <attvalue for="3" value="886.437592" />
+          <attvalue for="4" value="28199.749" />
+        </attvalues>
+      </edge>
+      <edge id="110" source="Spokane" target="Missoula">
+        <attvalues>
+          <attvalue for="2" value="273.32166275075843" />
+          <attvalue for="3" value="319.12923" />
+          <attvalue for="4" value="10869.567" />
+        </attvalues>
+      </edge>
+      <edge id="111" source="Spokane" target="Seattle">
+        <attvalues>
+          <attvalue for="2" value="368.9968105032808" />
+          <attvalue for="3" value="452.45741499999997" />
+          <attvalue for="4" value="16053.121" />
+        </attvalues>
+      </edge>
+      <edge id="112" source="Spokane" target="Vancouver">
+        <attvalues>
+          <attvalue for="2" value="458.33169309677356" />
+          <attvalue for="3" value="558.9201899999999" />
+          <attvalue for="4" value="20556.85" />
+        </attvalues>
+      </edge>
+      <edge id="113" source="Spokane" target="Boise">
+        <attvalues>
+          <attvalue for="2" value="461.0094445651105" />
+          <attvalue for="3" value="682.671622" />
+          <attvalue for="4" value="23776.531" />
+        </attvalues>
+      </edge>
+      <edge id="114" source="Missoula" target="Boise">
+        <attvalues>
+          <attvalue for="2" value="402.82639317221185" />
+          <attvalue for="3" value="592.077621" />
+          <attvalue for="4" value="27284.8" />
+        </attvalues>
+      </edge>
+      <edge id="115" source="Boise" target="Vancouver">
+        <attvalues>
+          <attvalue for="2" value="554.876961658715" />
+          <attvalue for="3" value="689.5888249999999" />
+          <attvalue for="4" value="24279.086" />
+        </attvalues>
+      </edge>
+      <edge id="116" source="Boise" target="Reno">
+        <attvalues>
+          <attvalue for="2" value="543.0128572474019" />
+          <attvalue for="3" value="678.3642709999999" />
+          <attvalue for="4" value="24730.572" />
+        </attvalues>
+      </edge>
+      <edge id="117" source="Boise" target="Elko">
+        <attvalues>
+          <attvalue for="2" value="311.05622274111283" />
+          <attvalue for="3" value="387.145865" />
+          <attvalue for="4" value="16697.219" />
+        </attvalues>
+      </edge>
+      <edge id="118" source="Boise" target="Salem">
+        <attvalues>
+          <attvalue for="2" value="560.5029867073848" />
+          <attvalue for="3" value="768.4340559999999" />
+          <attvalue for="4" value="27001.816" />
+        </attvalues>
+      </edge>
+      <edge id="119" source="Boise" target="Portland">
+        <attvalues>
+          <attvalue for="2" value="553.6167643411607" />
+          <attvalue for="3" value="691.091107" />
+          <attvalue for="4" value="24029.215" />
+        </attvalues>
+      </edge>
+      <edge id="120" source="Bismarck" target="Pierre">
+        <attvalues>
+          <attvalue for="2" value="273.39445001468954" />
+          <attvalue for="3" value="337.407157" />
+          <attvalue for="4" value="14505.093" />
+        </attvalues>
+      </edge>
+      <edge id="121" source="Pierre" target="Colorado Springs">
+        <attvalues>
+          <attvalue for="2" value="714.6288252630878" />
+          <attvalue for="3" value="929.4075429999999" />
+          <attvalue for="4" value="33926.914" />
+        </attvalues>
+      </edge>
+      <edge id="122" source="Pierre" target="Sioux Falls">
+        <attvalues>
+          <attvalue for="2" value="303.71626711384135" />
+          <attvalue for="3" value="359.78992999999997" />
+          <attvalue for="4" value="11678.992" />
+        </attvalues>
+      </edge>
+      <edge id="123" source="Pierre" target="Cheyenne">
+        <attvalues>
+          <attvalue for="2" value="511.71765497296934" />
+          <attvalue for="3" value="683.121939" />
+          <attvalue for="4" value="26267.508" />
+        </attvalues>
+      </edge>
+      <edge id="124" source="Pierre" target="Omaha">
+        <attvalues>
+          <attvalue for="2" value="496.2444471066833" />
+          <attvalue for="3" value="655.9435820000001" />
+          <attvalue for="4" value="21511.848" />
+        </attvalues>
+      </edge>
+      <edge id="125" source="Sioux Falls" target="Omaha">
+        <attvalues>
+          <attvalue for="2" value="263.5734650507396" />
+          <attvalue for="3" value="303.491059" />
+          <attvalue for="4" value="10638.166" />
+        </attvalues>
+      </edge>
+      <edge id="126" source="Eureka" target="San Francisco">
+        <attvalues>
+          <attvalue for="2" value="368.65142023734256" />
+          <attvalue for="3" value="439.26324" />
+          <attvalue for="4" value="17451.178" />
+        </attvalues>
+      </edge>
+      <edge id="127" source="Eureka" target="Salem">
+        <attvalues>
+          <attvalue for="2" value="467.8100628446307" />
+          <attvalue for="3" value="587.4751180000001" />
+          <attvalue for="4" value="23081.309" />
+        </attvalues>
+      </edge>
+      <edge id="128" source="Eureka" target="Reno">
+        <attvalues>
+          <attvalue for="2" value="393.93661850460427" />
+          <attvalue for="3" value="554.4694350000001" />
+          <attvalue for="4" value="23218.734" />
+        </attvalues>
+      </edge>
+      <edge id="129" source="Eureka" target="Sacramento">
+        <attvalues>
+          <attvalue for="2" value="337.06381356741423" />
+          <attvalue for="3" value="469.509742" />
+          <attvalue for="4" value="18674.303" />
+        </attvalues>
+      </edge>
+      <edge id="130" source="Santa Barbara" target="San Francisco">
+        <attvalues>
+          <attvalue for="2" value="442.8610061851355" />
+          <attvalue for="3" value="520.122983" />
+          <attvalue for="4" value="20161.736" />
+        </attvalues>
+      </edge>
+      <edge id="131" source="Santa Barbara" target="San Jose">
+        <attvalues>
+          <attvalue for="2" value="372.1698448051179" />
+          <attvalue for="3" value="438.074242" />
+          <attvalue for="4" value="17245.797" />
+        </attvalues>
+      </edge>
+      <edge id="132" source="Laredo" target="Tucson">
+        <attvalues>
+          <attvalue for="2" value="1215.024183890432" />
+          <attvalue for="3" value="1478.5065479999998" />
+          <attvalue for="4" value="51177.292" />
+        </attvalues>
+      </edge>
+      <edge id="133" source="Laredo" target="Corpus Christi">
+        <attvalues>
+          <attvalue for="2" value="209.07555799105197" />
+          <attvalue for="3" value="231.254204" />
+          <attvalue for="4" value="8592.726" />
+        </attvalues>
+      </edge>
+      <edge id="134" source="Laredo" target="El Paso">
+        <attvalues>
+          <attvalue for="2" value="826.8894526883772" />
+          <attvalue for="3" value="976.063423" />
+          <attvalue for="4" value="35031.581" />
+        </attvalues>
+      </edge>
+      <edge id="135" source="Laredo" target="Miami">
+        <attvalues>
+          <attvalue for="2" value="1923.7699172269904" />
+          <attvalue for="3" value="2409.373716" />
+          <attvalue for="4" value="84524.966" />
+        </attvalues>
+      </edge>
+      <edge id="136" source="Laredo" target="San Antonio">
+        <attvalues>
+          <attvalue for="2" value="241.11449118408865" />
+          <attvalue for="3" value="259.85058" />
+          <attvalue for="4" value="8920.403" />
+        </attvalues>
+      </edge>
+      <edge id="137" source="San Francisco" target="San Jose">
+        <attvalues>
+          <attvalue for="2" value="71.99679057141057" />
+          <attvalue for="3" value="85.31160000000001" />
+          <attvalue for="4" value="3773.74" />
+        </attvalues>
+      </edge>
+      <edge id="138" source="San Francisco" target="Sacramento">
+        <attvalues>
+          <attvalue for="2" value="122.04105685725298" />
+          <attvalue for="3" value="143.410213" />
+          <attvalue for="4" value="5795.658" />
+        </attvalues>
+      </edge>
+      <edge id="139" source="Olympia" target="Salem">
+        <attvalues>
+          <attvalue for="2" value="234.815712551563" />
+          <attvalue for="3" value="261.455953" />
+          <attvalue for="4" value="9832.588" />
+        </attvalues>
+      </edge>
+      <edge id="140" source="Olympia" target="Seattle">
+        <attvalues>
+          <attvalue for="2" value="72.74247475295716" />
+          <attvalue for="3" value="95.30491" />
+          <attvalue for="4" value="4034.467" />
+        </attvalues>
+      </edge>
+      <edge id="141" source="Olympia" target="Vancouver">
+        <attvalues>
+          <attvalue for="2" value="157.79609075246046" />
+          <attvalue for="3" value="171.417186" />
+          <attvalue for="4" value="6262.696" />
+        </attvalues>
+      </edge>
+      <edge id="142" source="Olympia" target="Portland">
+        <attvalues>
+          <attvalue for="2" value="169.4065232794484" />
+          <attvalue for="3" value="182.32286100000002" />
+          <attvalue for="4" value="6681.242" />
+        </attvalues>
+      </edge>
+      <edge id="143" source="Salem" target="Reno">
+        <attvalues>
+          <attvalue for="2" value="655.5080701780067" />
+          <attvalue for="3" value="783.529722" />
+          <attvalue for="4" value="32919.79" />
+        </attvalues>
+      </edge>
+      <edge id="144" source="Salem" target="Portland">
+        <attvalues>
+          <attvalue for="2" value="71.26239894172464" />
+          <attvalue for="3" value="81.567017" />
+          <attvalue for="4" value="3424.506" />
+        </attvalues>
+      </edge>
+      <edge id="145" source="Seattle" target="Vancouver">
+        <attvalues>
+          <attvalue for="2" value="217.0986252161337" />
+          <attvalue for="3" value="265.25735" />
+          <attvalue for="4" value="9966.196" />
+        </attvalues>
+      </edge>
+      <edge id="146" source="Vancouver" target="Portland">
+        <attvalues>
+          <attvalue for="2" value="12.480468582769362" />
+          <attvalue for="3" value="15.538332" />
+          <attvalue for="4" value="903.435" />
+        </attvalues>
+      </edge>
+      <edge id="147" source="Flagstaff" target="Phoenix">
+        <attvalues>
+          <attvalue for="2" value="188.17544111995574" />
+          <attvalue for="3" value="221.648713" />
+          <attvalue for="4" value="7742.692" />
+        </attvalues>
+      </edge>
+      <edge id="148" source="Flagstaff" target="Albuquerque">
+        <attvalues>
+          <attvalue for="2" value="455.4872691946315" />
+          <attvalue for="3" value="517.36094" />
+          <attvalue for="4" value="16732.161" />
+        </attvalues>
+      </edge>
+      <edge id="149" source="Flagstaff" target="Tucson">
+        <attvalues>
+          <attvalue for="2" value="339.91972393480864" />
+          <attvalue for="3" value="421.912413" />
+          <attvalue for="4" value="14693.321" />
+        </attvalues>
+      </edge>
+      <edge id="150" source="Phoenix" target="Tucson">
+        <attvalues>
+          <attvalue for="2" value="184.872777514419" />
+          <attvalue for="3" value="200.672443" />
+          <attvalue for="4" value="7411.484" />
+        </attvalues>
+      </edge>
+      <edge id="151" source="Albuquerque" target="Tucson">
+        <attvalues>
+          <attvalue for="2" value="508.4531731154437" />
+          <attvalue for="3" value="698.859971" />
+          <attvalue for="4" value="24910.281" />
+        </attvalues>
+      </edge>
+      <edge id="152" source="Albuquerque" target="Santa Fe">
+        <attvalues>
+          <attvalue for="2" value="90.88689707399806" />
+          <attvalue for="3" value="99.12328699999999" />
+          <attvalue for="4" value="3869.088" />
+        </attvalues>
+      </edge>
+      <edge id="153" source="Albuquerque" target="El Paso">
+        <attvalues>
+          <attvalue for="2" value="369.70111690090783" />
+          <attvalue for="3" value="427.289674" />
+          <attvalue for="4" value="14320.283" />
+        </attvalues>
+      </edge>
+      <edge id="154" source="Tucson" target="El Paso">
+        <attvalues>
+          <attvalue for="2" value="415.71755442013637" />
+          <attvalue for="3" value="503.83856099999997" />
+          <attvalue for="4" value="16917.562" />
+        </attvalues>
+      </edge>
+      <edge id="155" source="El Paso" target="Amarillo">
+        <attvalues>
+          <attvalue for="2" value="579.0323212579173" />
+          <attvalue for="3" value="677.035084" />
+          <attvalue for="4" value="25885.123" />
+        </attvalues>
+      </edge>
+      <edge id="156" source="El Paso" target="Santa Fe">
+        <attvalues>
+          <attvalue for="2" value="437.4538312373011" />
+          <attvalue for="3" value="524.0055090000001" />
+          <attvalue for="4" value="17852.255" />
+        </attvalues>
+      </edge>
+      <edge id="157" source="El Paso" target="San Antonio">
+        <attvalues>
+          <attvalue for="2" value="806.7304106482777" />
+          <attvalue for="3" value="884.873561" />
+          <attvalue for="4" value="28242.977" />
+        </attvalues>
+      </edge>
+      <edge id="158" source="San Jose" target="Sacramento">
+        <attvalues>
+          <attvalue for="2" value="145.64026641211564" />
+          <attvalue for="3" value="198.32353" />
+          <attvalue for="4" value="7766.36" />
+        </attvalues>
+      </edge>
+      <edge id="159" source="Reno" target="Sacramento">
+        <attvalues>
+          <attvalue for="2" value="177.69597118365434" />
+          <attvalue for="3" value="209.576443" />
+          <attvalue for="4" value="7928.576" />
+        </attvalues>
+      </edge>
+      <edge id="160" source="Reno" target="Elko">
+        <attvalues>
+          <attvalue for="2" value="373.8839496584626" />
+          <attvalue for="3" value="465.45486200000005" />
+          <attvalue for="4" value="14912.301" />
+        </attvalues>
+      </edge>
+      <edge id="161" source="Colorado Springs" target="Omaha">
+        <attvalues>
+          <attvalue for="2" value="792.4010302222742" />
+          <attvalue for="3" value="903.02574" />
+          <attvalue for="4" value="32102.404" />
+        </attvalues>
+      </edge>
+      <edge id="162" source="Colorado Springs" target="Cheyenne">
+        <attvalues>
+          <attvalue for="2" value="253.20715900807292" />
+          <attvalue for="3" value="272.51256900000004" />
+          <attvalue for="4" value="9668.651" />
+        </attvalues>
+      </edge>
+      <edge id="163" source="Colorado Springs" target="Denver">
+        <attvalues>
+          <attvalue for="2" value="99.06441404504952" />
+          <attvalue for="3" value="110.073646" />
+          <attvalue for="4" value="4469.775" />
+        </attvalues>
+      </edge>
+      <edge id="164" source="Colorado Springs" target="Amarillo">
+        <attvalues>
+          <attvalue for="2" value="481.8997941286968" />
+          <attvalue for="3" value="584.265603" />
+          <attvalue for="4" value="20550.031" />
+        </attvalues>
+      </edge>
+      <edge id="165" source="Colorado Springs" target="Santa Fe">
+        <attvalues>
+          <attvalue for="2" value="367.4001338988184" />
+          <attvalue for="3" value="522.313739" />
+          <attvalue for="4" value="17875.289" />
+        </attvalues>
+      </edge>
+      <edge id="166" source="Omaha" target="Topeka">
+        <attvalues>
+          <attvalue for="2" value="245.2249995266982" />
+          <attvalue for="3" value="262.536034" />
+          <attvalue for="4" value="9994.647" />
+        </attvalues>
+      </edge>
+      <edge id="167" source="Omaha" target="Kansas City">
+        <attvalues>
+          <attvalue for="2" value="265.27280356341885" />
+          <attvalue for="3" value="298.275216" />
+          <attvalue for="4" value="10784.083" />
+        </attvalues>
+      </edge>
+      <edge id="168" source="Omaha" target="Amarillo">
+        <attvalues>
+          <attvalue for="2" value="839.1886871398398" />
+          <attvalue for="3" value="1034.857957" />
+          <attvalue for="4" value="37266.4" />
+        </attvalues>
+      </edge>
+      <edge id="169" source="Cheyenne" target="Denver">
+        <attvalues>
+          <attvalue for="2" value="156.18271305438878" />
+          <attvalue for="3" value="161.853904" />
+          <attvalue for="4" value="5825.616" />
+        </attvalues>
+      </edge>
+      <edge id="170" source="Denver" target="Santa Fe">
+        <attvalues>
+          <attvalue for="2" value="458.4989459072313" />
+          <attvalue for="3" value="628.536786" />
+          <attvalue for="4" value="21407.67" />
+        </attvalues>
+      </edge>
+      <edge id="171" source="Amarillo" target="Topeka">
+        <attvalues>
+          <attvalue for="2" value="691.496891532393" />
+          <attvalue for="3" value="821.959663" />
+          <attvalue for="4" value="30424.235" />
+        </attvalues>
+      </edge>
+      <edge id="172" source="Amarillo" target="Fort Worth">
+        <attvalues>
+          <attvalue for="2" value="497.9440563307103" />
+          <attvalue for="3" value="548.177755" />
+          <attvalue for="4" value="19742.802" />
+        </attvalues>
+      </edge>
+      <edge id="173" source="Amarillo" target="Oklahoma City">
+        <attvalues>
+          <attvalue for="2" value="391.7244593655654" />
+          <attvalue for="3" value="415.03644199999997" />
+          <attvalue for="4" value="14479.628" />
+        </attvalues>
+      </edge>
+      <edge id="174" source="Amarillo" target="Santa Fe">
+        <attvalues>
+          <attvalue for="2" value="375.4279458081857" />
+          <attvalue for="3" value="449.841751" />
+          <attvalue for="4" value="15397.788" />
+        </attvalues>
+      </edge>
+      <edge id="175" source="Amarillo" target="San Antonio">
+        <attvalues>
+          <attvalue for="2" value="710.3339141132069" />
+          <attvalue for="3" value="816.10024" />
+          <attvalue for="4" value="29264.959" />
+        </attvalues>
+      </edge>
+      <edge id="176" source="Topeka" target="Oklahoma City">
+        <attvalues>
+          <attvalue for="2" value="430.22069985215927" />
+          <attvalue for="3" value="478.674261" />
+          <attvalue for="4" value="15864.884" />
+        </attvalues>
+      </edge>
+      <edge id="177" source="Topeka" target="Tulsa">
+        <attvalues>
+          <attvalue for="2" value="326.6060843699122" />
+          <attvalue for="3" value="359.468253" />
+          <attvalue for="4" value="14252.553" />
+        </attvalues>
+      </edge>
+      <edge id="178" source="Topeka" target="Kansas City">
+        <attvalues>
+          <attvalue for="2" value="92.07090460073793" />
+          <attvalue for="3" value="99.191413" />
+          <attvalue for="4" value="3520.715" />
+        </attvalues>
+      </edge>
+      <edge id="179" source="Oklahoma City" target="Tulsa">
+        <attvalues>
+          <attvalue for="2" value="160.53458790204104" />
+          <attvalue for="3" value="175.153686" />
+          <attvalue for="4" value="6162.048" />
+        </attvalues>
+      </edge>
+      <edge id="180" source="Oklahoma City" target="Fort Worth">
+        <attvalues>
+          <attvalue for="2" value="304.24075191122387" />
+          <attvalue for="3" value="324.04563299999995" />
+          <attvalue for="4" value="11392.129" />
+        </attvalues>
+      </edge>
+      <edge id="181" source="Oklahoma City" target="Dallas">
+        <attvalues>
+          <attvalue for="2" value="301.212141978262" />
+          <attvalue for="3" value="325.494256" />
+          <attvalue for="4" value="11505.959" />
+        </attvalues>
+      </edge>
+      <edge id="182" source="Tulsa" target="Kansas City">
+        <attvalues>
+          <attvalue for="2" value="352.21850411173114" />
+          <attvalue for="3" value="389.940453" />
+          <attvalue for="4" value="14925.854" />
+        </attvalues>
+      </edge>
+      <edge id="183" source="Tulsa" target="Shreveport">
+        <attvalues>
+          <attvalue for="2" value="448.72219141072287" />
+          <attvalue for="3" value="566.044449" />
+          <attvalue for="4" value="20394.801" />
+        </attvalues>
+      </edge>
+      <edge id="184" source="Tulsa" target="Memphis">
+        <attvalues>
+          <attvalue for="2" value="547.1098994390024" />
+          <attvalue for="3" value="645.4224059999999" />
+          <attvalue for="4" value="22241.367" />
+        </attvalues>
+      </edge>
+      <edge id="185" source="Tulsa" target="Dallas">
+        <attvalues>
+          <attvalue for="2" value="376.1266920825813" />
+          <attvalue for="3" value="417.20549800000003" />
+          <attvalue for="4" value="15250.981" />
+        </attvalues>
+      </edge>
+      <edge id="186" source="Kansas City" target="St. Louis">
+        <attvalues>
+          <attvalue for="2" value="381.39050211183127" />
+          <attvalue for="3" value="398.561596" />
+          <attvalue for="4" value="14367.623" />
+        </attvalues>
+      </edge>
+      <edge id="187" source="Kansas City" target="Memphis">
+        <attvalues>
+          <attvalue for="2" value="602.4964052177985" />
+          <attvalue for="3" value="736.072164" />
+          <attvalue for="4" value="27731.51" />
+        </attvalues>
+      </edge>
+      <edge id="188" source="St. Louis" target="Indianapolis">
+        <attvalues>
+          <attvalue for="2" value="371.9580749421294" />
+          <attvalue for="3" value="392.18384000000003" />
+          <attvalue for="4" value="14047.585" />
+        </attvalues>
+      </edge>
+      <edge id="189" source="St. Louis" target="Nashville">
+        <attvalues>
+          <attvalue for="2" value="410.4692142514334" />
+          <attvalue for="3" value="498.639435" />
+          <attvalue for="4" value="17474.26" />
+        </attvalues>
+      </edge>
+      <edge id="190" source="St. Louis" target="Memphis">
+        <attvalues>
+          <attvalue for="2" value="391.43609684839544" />
+          <attvalue for="3" value="465.475749" />
+          <attvalue for="4" value="16419.581" />
+        </attvalues>
+      </edge>
+      <edge id="191" source="St. Louis" target="Chicago">
+        <attvalues>
+          <attvalue for="2" value="413.33796515624005" />
+          <attvalue for="3" value="466.31370000000004" />
+          <attvalue for="4" value="16914.067" />
+        </attvalues>
+      </edge>
+      <edge id="192" source="Memphis" target="Shreveport">
+        <attvalues>
+          <attvalue for="2" value="454.0157122520156" />
+          <attvalue for="3" value="568.95243" />
+          <attvalue for="4" value="19987.921" />
+        </attvalues>
+      </edge>
+      <edge id="193" source="Memphis" target="Montgomery">
+        <attvalues>
+          <attvalue for="2" value="461.1193681687595" />
+          <attvalue for="3" value="517.805389" />
+          <attvalue for="4" value="18684.992" />
+        </attvalues>
+      </edge>
+      <edge id="194" source="Memphis" target="Jackson">
+        <attvalues>
+          <attvalue for="2" value="314.372874338749" />
+          <attvalue for="3" value="334.94940399999996" />
+          <attvalue for="4" value="11849.98" />
+        </attvalues>
+      </edge>
+      <edge id="195" source="Memphis" target="Nashville">
+        <attvalues>
+          <attvalue for="2" value="313.48862988472246" />
+          <attvalue for="3" value="333.983343" />
+          <attvalue for="4" value="11999.139" />
+        </attvalues>
+      </edge>
+      <edge id="196" source="Shreveport" target="Houston">
+        <attvalues>
+          <attvalue for="2" value="333.22897154471553" />
+          <attvalue for="3" value="371.071506" />
+          <attvalue for="4" value="14391.377" />
+        </attvalues>
+      </edge>
+      <edge id="197" source="Shreveport" target="Baton Rouge">
+        <attvalues>
+          <attvalue for="2" value="337.25275018974725" />
+          <attvalue for="3" value="392.97403499999996" />
+          <attvalue for="4" value="14090.537" />
+        </attvalues>
+      </edge>
+      <edge id="198" source="Shreveport" target="Dallas">
+        <attvalues>
+          <attvalue for="2" value="289.7816007423796" />
+          <attvalue for="3" value="306.939186" />
+          <attvalue for="4" value="10455.118" />
+        </attvalues>
+      </edge>
+      <edge id="199" source="Shreveport" target="Jackson">
+        <attvalues>
+          <attvalue for="2" value="337.30943682987595" />
+          <attvalue for="3" value="353.246863" />
+          <attvalue for="4" value="12276.425" />
+        </attvalues>
+      </edge>
+      <edge id="200" source="Dallas" target="Fort Worth">
+        <attvalues>
+          <attvalue for="2" value="47.44763234300749" />
+          <attvalue for="3" value="54.801956" />
+          <attvalue for="4" value="2284.761" />
+        </attvalues>
+      </edge>
+      <edge id="201" source="Dallas" target="Austin">
+        <attvalues>
+          <attvalue for="2" value="296.4946538965495" />
+          <attvalue for="3" value="321.414294" />
+          <attvalue for="4" value="11156.418" />
+        </attvalues>
+      </edge>
+      <edge id="202" source="Dallas" target="Houston">
+        <attvalues>
+          <attvalue for="2" value="362.7333127356009" />
+          <attvalue for="3" value="389.508375" />
+          <attvalue for="4" value="13479.427" />
+        </attvalues>
+      </edge>
+      <edge id="203" source="Houston" target="Baton Rouge">
+        <attvalues>
+          <attvalue for="2" value="410.1652479851116" />
+          <attvalue for="3" value="436.62488299999995" />
+          <attvalue for="4" value="15864.519" />
+        </attvalues>
+      </edge>
+      <edge id="204" source="Houston" target="Corpus Christi">
+        <attvalues>
+          <attvalue for="2" value="306.1732335273501" />
+          <attvalue for="3" value="352.63761" />
+          <attvalue for="4" value="13470.054" />
+        </attvalues>
+      </edge>
+      <edge id="205" source="Houston" target="Austin">
+        <attvalues>
+          <attvalue for="2" value="236.55306068982412" />
+          <attvalue for="3" value="269.585676" />
+          <attvalue for="4" value="9747.863" />
+        </attvalues>
+      </edge>
+      <edge id="206" source="Houston" target="New Orleans">
+        <attvalues>
+          <attvalue for="2" value="511.16942590326425" />
+          <attvalue for="3" value="561.483633" />
+          <attvalue for="4" value="20098.63" />
+        </attvalues>
+      </edge>
+      <edge id="207" source="Baton Rouge" target="New Orleans">
+        <attvalues>
+          <attvalue for="2" value="117.30702145857543" />
+          <attvalue for="3" value="130.797438" />
+          <attvalue for="4" value="5219.777" />
+        </attvalues>
+      </edge>
+      <edge id="208" source="Baton Rouge" target="Jackson">
+        <attvalues>
+          <attvalue for="2" value="223.87690724737294" />
+          <attvalue for="3" value="277.955531" />
+          <attvalue for="4" value="10050.772" />
+        </attvalues>
+      </edge>
+      <edge id="209" source="Jackson" target="Montgomery">
+        <attvalues>
+          <attvalue for="2" value="367.0264716193215" />
+          <attvalue for="3" value="401.276045" />
+          <attvalue for="4" value="14758.517" />
+        </attvalues>
+      </edge>
+      <edge id="210" source="Jackson" target="New Orleans">
+        <attvalues>
+          <attvalue for="2" value="256.31812801866164" />
+          <attvalue for="3" value="301.939627" />
+          <attvalue for="4" value="10587.876" />
+        </attvalues>
+      </edge>
+      <edge id="211" source="New Orleans" target="Corpus Christi">
+        <attvalues>
+          <attvalue for="2" value="759.0567077518375" />
+          <attvalue for="3" value="903.9078549999999" />
+          <attvalue for="4" value="32925.703" />
+        </attvalues>
+      </edge>
+      <edge id="212" source="New Orleans" target="Montgomery">
+        <attvalues>
+          <attvalue for="2" value="444.09567647920875" />
+          <attvalue for="3" value="493.094836" />
+          <attvalue for="4" value="17249.84" />
+        </attvalues>
+      </edge>
+      <edge id="213" source="New Orleans" target="Tallahassee">
+        <attvalues>
+          <attvalue for="2" value="555.8278577098145" />
+          <attvalue for="3" value="612.1858980000001" />
+          <attvalue for="4" value="21355.444" />
+        </attvalues>
+      </edge>
+      <edge id="214" source="New Orleans" target="Tampa">
+        <attvalues>
+          <attvalue for="2" value="771.6709765331589" />
+          <attvalue for="3" value="1011.879279" />
+          <attvalue for="4" value="36376.231" />
+        </attvalues>
+      </edge>
+      <edge id="215" source="New Orleans" target="Miami">
+        <attvalues>
+          <attvalue for="2" value="1071.5370219096937" />
+          <attvalue for="3" value="1381.160113" />
+          <attvalue for="4" value="47683.929" />
+        </attvalues>
+      </edge>
+      <edge id="216" source="Fort Worth" target="San Antonio">
+        <attvalues>
+          <attvalue for="2" value="378.2018509110868" />
+          <attvalue for="3" value="428.167793" />
+          <attvalue for="4" value="15039.617" />
+        </attvalues>
+      </edge>
+      <edge id="217" source="Fort Worth" target="Austin">
+        <attvalues>
+          <attvalue for="2" value="277.43682923400667" />
+          <attvalue for="3" value="304.928693" />
+          <attvalue for="4" value="10466.846" />
+        </attvalues>
+      </edge>
+      <edge id="218" source="San Antonio" target="Corpus Christi">
+        <attvalues>
+          <attvalue for="2" value="222.24989908730385" />
+          <attvalue for="3" value="246.149677" />
+          <attvalue for="4" value="8393.633" />
+        </attvalues>
+      </edge>
+      <edge id="219" source="San Antonio" target="Austin">
+        <attvalues>
+          <attvalue for="2" value="113.79065209780079" />
+          <attvalue for="3" value="125.159487" />
+          <attvalue for="4" value="4833.253" />
+        </attvalues>
+      </edge>
+      <edge id="220" source="Austin" target="Corpus Christi">
+        <attvalues>
+          <attvalue for="2" value="282.8588576764816" />
+          <attvalue for="3" value="355.67408500000005" />
+          <attvalue for="4" value="12086.969" />
+        </attvalues>
+      </edge>
+      <edge id="221" source="Corpus Christi" target="Miami">
+        <attvalues>
+          <attvalue for="2" value="1717.5678880850974" />
+          <attvalue for="3" value="2250.707391" />
+          <attvalue for="4" value="79040.274" />
+        </attvalues>
+      </edge>
+      <edge id="222" source="Miami" target="Orlando">
+        <attvalues>
+          <attvalue for="2" value="323.59169213795616" />
+          <attvalue for="3" value="374.904756" />
+          <attvalue for="4" value="13513.903" />
+        </attvalues>
+      </edge>
+      <edge id="223" source="Miami" target="Wilmington">
+        <attvalues>
+          <attvalue for="2" value="963.3176044792735" />
+          <attvalue for="3" value="1250.3762239999999" />
+          <attvalue for="4" value="43569.316" />
+        </attvalues>
+      </edge>
+      <edge id="224" source="Miami" target="Tampa">
+        <attvalues>
+          <attvalue for="2" value="326.7533017992183" />
+          <attvalue for="3" value="413.27765600000004" />
+          <attvalue for="4" value="16337.332" />
+        </attvalues>
+      </edge>
+      <edge id="225" source="Montgomery" target="Tallahassee">
+        <attvalues>
+          <attvalue for="2" value="284.90668884073284" />
+          <attvalue for="3" value="331.873627" />
+          <attvalue for="4" value="13593.68" />
+        </attvalues>
+      </edge>
+      <edge id="226" source="Montgomery" target="Nashville">
+        <attvalues>
+          <attvalue for="2" value="426.1977683021283" />
+          <attvalue for="3" value="456.048981" />
+          <attvalue for="4" value="16071.705" />
+        </attvalues>
+      </edge>
+      <edge id="227" source="Montgomery" target="Atlanta">
+        <attvalues>
+          <attvalue for="2" value="239.3915837292391" />
+          <attvalue for="3" value="267.810522" />
+          <attvalue for="4" value="9721.83" />
+        </attvalues>
+      </edge>
+      <edge id="228" source="Tallahassee" target="Tampa">
+        <attvalues>
+          <attvalue for="2" value="329.42693571975" />
+          <attvalue for="3" value="393.23142700000005" />
+          <attvalue for="4" value="15570.275" />
+        </attvalues>
+      </edge>
+      <edge id="229" source="Tallahassee" target="Jacksonville">
+        <attvalues>
+          <attvalue for="2" value="250.49741059284815" />
+          <attvalue for="3" value="261.50648" />
+          <attvalue for="4" value="9502.391" />
+        </attvalues>
+      </edge>
+      <edge id="230" source="Tallahassee" target="Savannah">
+        <attvalues>
+          <attvalue for="2" value="348.3416170175324" />
+          <attvalue for="3" value="387.130359" />
+          <attvalue for="4" value="16545.098" />
+        </attvalues>
+      </edge>
+      <edge id="231" source="Tallahassee" target="Atlanta">
+        <attvalues>
+          <attvalue for="2" value="376.2335513682747" />
+          <attvalue for="3" value="433.738234" />
+          <attvalue for="4" value="17283.267" />
+        </attvalues>
+      </edge>
+      <edge id="232" source="Nashville" target="Indianapolis">
+        <attvalues>
+          <attvalue for="2" value="401.6519517429744" />
+          <attvalue for="3" value="461.795276" />
+          <attvalue for="4" value="15900.434" />
+        </attvalues>
+      </edge>
+      <edge id="233" source="Nashville" target="Knoxville">
+        <attvalues>
+          <attvalue for="2" value="258.18937475450656" />
+          <attvalue for="3" value="290.22648399999997" />
+          <attvalue for="4" value="10308.908" />
+        </attvalues>
+      </edge>
+      <edge id="234" source="Nashville" target="Cincinnati">
+        <attvalues>
+          <attvalue for="2" value="390.4611904559464" />
+          <attvalue for="3" value="445.647225" />
+          <attvalue for="4" value="15967.491" />
+        </attvalues>
+      </edge>
+      <edge id="235" source="Nashville" target="Atlanta">
+        <attvalues>
+          <attvalue for="2" value="338.63846721745136" />
+          <attvalue for="3" value="389.085093" />
+          <attvalue for="4" value="14220.94" />
+        </attvalues>
+      </edge>
+      <edge id="236" source="Atlanta" target="Savannah">
+        <attvalues>
+          <attvalue for="2" value="367.31334232343414" />
+          <attvalue for="3" value="414.115477" />
+          <attvalue for="4" value="14979.424" />
+        </attvalues>
+      </edge>
+      <edge id="237" source="Atlanta" target="Columbia">
+        <attvalues>
+          <attvalue for="2" value="323.87757261918046" />
+          <attvalue for="3" value="373.68192999999997" />
+          <attvalue for="4" value="13940.925" />
+        </attvalues>
+      </edge>
+      <edge id="238" source="Atlanta" target="Knoxville">
+        <attvalues>
+          <attvalue for="2" value="241.76700132515123" />
+          <attvalue for="3" value="316.305721" />
+          <attvalue for="4" value="12052.028" />
+        </attvalues>
+      </edge>
+      <edge id="239" source="Tampa" target="Orlando">
+        <attvalues>
+          <attvalue for="2" value="122.81883393476974" />
+          <attvalue for="3" value="134.145471" />
+          <attvalue for="4" value="5067.385" />
+        </attvalues>
+      </edge>
+      <edge id="240" source="Tampa" target="Jacksonville">
+        <attvalues>
+          <attvalue for="2" value="275.8260882363337" />
+          <attvalue for="3" value="318.78740000000005" />
+          <attvalue for="4" value="11717.441" />
+        </attvalues>
+      </edge>
+      <edge id="241" source="Jacksonville" target="Orlando">
+        <attvalues>
+          <attvalue for="2" value="204.31883374583336" />
+          <attvalue for="3" value="228.670525" />
+          <attvalue for="4" value="8459.783" />
+        </attvalues>
+      </edge>
+      <edge id="242" source="Jacksonville" target="Savannah">
+        <attvalues>
+          <attvalue for="2" value="195.28296451179835" />
+          <attvalue for="3" value="221.793203" />
+          <attvalue for="4" value="7960.401" />
+        </attvalues>
+      </edge>
+      <edge id="243" source="Savannah" target="Orlando">
+        <attvalues>
+          <attvalue for="2" value="391.07668810100324" />
+          <attvalue for="3" value="447.68769799999995" />
+          <attvalue for="4" value="16253.264" />
+        </attvalues>
+      </edge>
+      <edge id="244" source="Savannah" target="Columbia">
+        <attvalues>
+          <attvalue for="2" value="225.34022499952957" />
+          <attvalue for="3" value="279.35187199999996" />
+          <attvalue for="4" value="10822.335" />
+        </attvalues>
+      </edge>
+      <edge id="245" source="Savannah" target="Wilmington">
+        <attvalues>
+          <attvalue for="2" value="383.3070979165903" />
+          <attvalue for="3" value="495.69334200000003" />
+          <attvalue for="4" value="17822.058" />
+        </attvalues>
+      </edge>
+      <edge id="246" source="Orlando" target="Wilmington">
+        <attvalues>
+          <attvalue for="2" value="714.0873853674805" />
+          <attvalue for="3" value="924.3660309999999" />
+          <attvalue for="4" value="32241.462" />
+        </attvalues>
+      </edge>
+      <edge id="247" source="Wilmington" target="Columbia">
+        <attvalues>
+          <attvalue for="2" value="272.7480987558479" />
+          <attvalue for="3" value="322.92303000000004" />
+          <attvalue for="4" value="12126.832" />
+        </attvalues>
+      </edge>
+      <edge id="248" source="Wilmington" target="Raleigh">
+        <attvalues>
+          <attvalue for="2" value="188.2693965420436" />
+          <attvalue for="3" value="216.72221299999998" />
+          <attvalue for="4" value="8122.917" />
+        </attvalues>
+      </edge>
+      <edge id="249" source="Columbia" target="Knoxville">
+        <attvalues>
+          <attvalue for="2" value="348.84922754746236" />
+          <attvalue for="3" value="440.192023" />
+          <attvalue for="4" value="16936.708" />
+        </attvalues>
+      </edge>
+      <edge id="250" source="Columbia" target="Charleston">
+        <attvalues>
+          <attvalue for="2" value="483.7088600683961" />
+          <attvalue for="3" value="570.2735110000001" />
+          <attvalue for="4" value="20875.857" />
+        </attvalues>
+      </edge>
+      <edge id="251" source="Columbia" target="Raleigh">
+        <attvalues>
+          <attvalue for="2" value="285.2797681286405" />
+          <attvalue for="3" value="322.60776899999996" />
+          <attvalue for="4" value="14126.881" />
+        </attvalues>
+      </edge>
+      <edge id="252" source="Knoxville" target="Charleston">
+        <attvalues>
+          <attvalue for="2" value="333.297806398096" />
+          <attvalue for="3" value="498.137385" />
+          <attvalue for="4" value="17452.696" />
+        </attvalues>
+      </edge>
+      <edge id="253" source="Knoxville" target="Cincinnati">
+        <attvalues>
+          <attvalue for="2" value="358.2960695021046" />
+          <attvalue for="3" value="416.412011" />
+          <attvalue for="4" value="14928.431" />
+        </attvalues>
+      </edge>
+      <edge id="254" source="Charleston" target="Richmond">
+        <attvalues>
+          <attvalue for="2" value="377.121500960904" />
+          <attvalue for="3" value="502.048078" />
+          <attvalue for="4" value="17491.286" />
+        </attvalues>
+      </edge>
+      <edge id="255" source="Charleston" target="Raleigh">
+        <attvalues>
+          <attvalue for="2" value="386.5498028579879" />
+          <attvalue for="3" value="504.55339899999996" />
+          <attvalue for="4" value="18946.428" />
+        </attvalues>
+      </edge>
+      <edge id="256" source="Charleston" target="Pittsburgh">
+        <attvalues>
+          <attvalue for="2" value="270.62839658819155" />
+          <attvalue for="3" value="366.968555" />
+          <attvalue for="4" value="13190.374" />
+        </attvalues>
+      </edge>
+      <edge id="257" source="Charleston" target="Cleveland">
+        <attvalues>
+          <attvalue for="2" value="347.21586666727484" />
+          <attvalue for="3" value="391.215282" />
+          <attvalue for="4" value="14476.057" />
+        </attvalues>
+      </edge>
+      <edge id="258" source="Charleston" target="Cincinnati">
+        <attvalues>
+          <attvalue for="2" value="261.22780053418916" />
+          <attvalue for="3" value="324.52723499999996" />
+          <attvalue for="4" value="12900.357" />
+        </attvalues>
+      </edge>
+      <edge id="259" source="Raleigh" target="Richmond">
+        <attvalues>
+          <attvalue for="2" value="220.11679117926772" />
+          <attvalue for="3" value="247.383375" />
+          <attvalue for="4" value="9970.278" />
+        </attvalues>
+      </edge>
+      <edge id="260" source="Indianapolis" target="Cincinnati">
+        <attvalues>
+          <attvalue for="2" value="160.95565720992914" />
+          <attvalue for="3" value="181.876437" />
+          <attvalue for="4" value="6599.4" />
+        </attvalues>
+      </edge>
+      <edge id="261" source="Indianapolis" target="Detroit">
+        <attvalues>
+          <attvalue for="2" value="386.5401693443814" />
+          <attvalue for="3" value="459.91468199999997" />
+          <attvalue for="4" value="16321.297" />
+        </attvalues>
+      </edge>
+      <edge id="262" source="Indianapolis" target="Chicago">
+        <attvalues>
+          <attvalue for="2" value="266.7932106035473" />
+          <attvalue for="3" value="306.369832" />
+          <attvalue for="4" value="11224.254" />
+        </attvalues>
+      </edge>
+      <edge id="263" source="Cincinnati" target="Cleveland">
+        <attvalues>
+          <attvalue for="2" value="347.38077328118965" />
+          <attvalue for="3" value="388.58788400000003" />
+          <attvalue for="4" value="14028.981" />
+        </attvalues>
+      </edge>
+      <edge id="264" source="Cincinnati" target="Detroit">
+        <attvalues>
+          <attvalue for="2" value="370.8625453119241" />
+          <attvalue for="3" value="413.901049" />
+          <attvalue for="4" value="15274.593" />
+        </attvalues>
+      </edge>
+      <edge id="265" source="Detroit" target="Cleveland">
+        <attvalues>
+          <attvalue for="2" value="149.2743136021735" />
+          <attvalue for="3" value="265.790677" />
+          <attvalue for="4" value="9493.735" />
+        </attvalues>
+      </edge>
+      <edge id="266" source="Detroit" target="Chicago">
+        <attvalues>
+          <attvalue for="2" value="389.34119655328055" />
+          <attvalue for="3" value="459.19919799999997" />
+          <attvalue for="4" value="16406.699" />
+        </attvalues>
+      </edge>
+      <edge id="267" source="Richmond" target="Pittsburgh">
+        <attvalues>
+          <attvalue for="2" value="388.7009288782627" />
+          <attvalue for="3" value="491.84664799999996" />
+          <attvalue for="4" value="20920.811" />
+        </attvalues>
+      </edge>
+      <edge id="268" source="Richmond" target="Washington">
+        <attvalues>
+          <attvalue for="2" value="154.91664317394583" />
+          <attvalue for="3" value="174.223231" />
+          <attvalue for="4" value="6498.726" />
+        </attvalues>
+      </edge>
+      <edge id="269" source="Pittsburgh" target="Cleveland">
+        <attvalues>
+          <attvalue for="2" value="183.39521086537673" />
+          <attvalue for="3" value="213.602142" />
+          <attvalue for="4" value="8082.649" />
+        </attvalues>
+      </edge>
+      <edge id="270" source="Pittsburgh" target="Washington">
+        <attvalues>
+          <attvalue for="2" value="307.3544241009293" />
+          <attvalue for="3" value="392.14392499999997" />
+          <attvalue for="4" value="15146.445" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
