@@ -1,0 +1,108 @@
+<domain type="kvm" id="1332">
+  <name>VTC-release2.0</name>
+  <uuid>5789b2bb-df35-4154-a1d3-e38cefc856a3</uuid>
+  <memory unit="KiB">16389120</memory>
+  <currentMemory unit="KiB">16388608</currentMemory>
+  <vcpu placement="static">8</vcpu>
+  <resource>
+    <partition>/machine</partition>
+  </resource>
+  <os>
+    <type arch="x86_64" machine="pc-i440fx-rhel7.0.0">hvm</type>
+    <boot dev="hd"/>
+  </os>
+  <features>
+    <acpi/>
+    <apic/>
+    <pae/>
+  </features>
+  <cpu mode="custom" match="exact">
+    <model fallback="allow">Westmere</model>
+    <feature policy="require" name="vmx"/>
+  </cpu>
+  <clock offset="utc"/>
+  <on_poweroff>destroy</on_poweroff>
+  <on_reboot>restart</on_reboot>
+  <on_crash>restart</on_crash>
+  <devices>
+    <emulator>/usr/libexec/qemu-kvm</emulator>
+    <disk type="file" device="disk">
+      <driver name="qemu" type="qcow2" cache="none"/>
+      <source file="/home/cisco/VTS2.0/vtc.qcow2"/>
+      <target dev="vda" bus="virtio"/>
+      <alias name="virtio-disk0"/>
+      <address type="pci" domain="0x0000" bus="0x00" slot="0x06" function="0x0"/>
+    </disk>
+    <controller type="usb" index="0">
+      <alias name="usb0"/>
+      <address type="pci" domain="0x0000" bus="0x00" slot="0x01" function="0x2"/>
+    </controller>
+    <controller type="pci" index="0" model="pci-root">
+      <alias name="pci.0"/>
+    </controller>
+    <controller type="virtio-serial" index="0">
+      <alias name="virtio-serial0"/>
+      <address type="pci" domain="0x0000" bus="0x00" slot="0x05" function="0x0"/>
+    </controller>
+    <interface type="bridge">
+      <mac address="52:54:00:5b:12:3a"/>
+      <source bridge="br-ex"/>
+      <virtualport type="openvswitch">
+        <parameters interfaceid="263c1aa6-8f7d-46f0-b0a3-bdbdad40fe41"/>
+      </virtualport>
+      <target dev="vnet0"/>
+      <model type="virtio"/>
+      <alias name="net0"/>
+      <address type="pci" domain="0x0000" bus="0x00" slot="0x03" function="0x0"/>
+    </interface>
+    <interface type="bridge">
+      <mac address="52:54:00:8d:75:75"/>
+      <source bridge="br-control"/>
+      <virtualport type="openvswitch">
+        <parameters interfaceid="d0b0020d-7898-419e-93c8-15dd7a08eebd"/>
+      </virtualport>
+      <target dev="vnet1"/>
+      <model type="virtio"/>
+      <alias name="net1"/>
+      <address type="pci" domain="0x0000" bus="0x00" slot="0x0b" function="0x0"/>
+    </interface>
+    <serial type="tcp">
+      <source mode="bind" host="127.0.0.1" service="4888"/>
+      <protocol type="telnet"/>
+      <target port="0"/>
+      <alias name="serial0"/>
+    </serial>
+    <console type="tcp">
+      <source mode="bind" host="127.0.0.1" service="4888"/>
+      <protocol type="telnet"/>
+      <target type="serial" port="0"/>
+      <alias name="serial0"/>
+    </console>
+    <channel type="spicevmc">
+      <target type="virtio" name="com.redhat.spice.0"/>
+      <alias name="channel0"/>
+      <address type="virtio-serial" controller="0" bus="0" port="1"/>
+    </channel>
+    <input type="mouse" bus="ps2"/>
+    <graphics type="spice" port="5900" autoport="yes" listen="127.0.0.1">
+      <listen type="address" address="127.0.0.1"/>
+    </graphics>
+    <sound model="ich6">
+      <alias name="sound0"/>
+      <address type="pci" domain="0x0000" bus="0x00" slot="0x04" function="0x0"/>
+    </sound>
+    <video>
+      <model type="qxl" ram="65536" vram="65536" heads="1"/>
+      <alias name="video0"/>
+      <address type="pci" domain="0x0000" bus="0x00" slot="0x02" function="0x0"/>
+    </video>
+    <memballoon model="virtio">
+      <alias name="balloon0"/>
+      <address type="pci" domain="0x0000" bus="0x00" slot="0x07" function="0x0"/>
+    </memballoon>
+  </devices>
+  <seclabel type="dynamic" model="selinux" relabel="yes">
+    <label>system_u:system_r:svirt_t:s0:c26,c784</label>
+    <imagelabel>system_u:object_r:svirt_image_t:s0:c26,c784</imagelabel>
+  </seclabel>
+</domain>
