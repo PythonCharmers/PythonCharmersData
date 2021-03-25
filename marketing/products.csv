@@ -1,0 +1,5 @@
+product,code,target,floor,ceiling,multiplier
+Superannuation,6.3.5.0.0,300,50000,500000,1.75
+Life Insurance,5.2.1.0.0,75,50000,500000,1.75
+Home & Contents,3.2.2.0.0,475,50000,500000,1.75
+Advice,1.1.0.0.0,150,50000,500000,1.75
