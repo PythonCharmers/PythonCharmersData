@@ -1,0 +1,16 @@
+
+number       status      
+0491 570 157 active      
+0491 570 158 active      
+0491 570 159 disconnected
+0491 570 110 active      
+0491 570 313 active      
+0491 570 737 inactive    
+0491 571 266 disconnected
+0491 571 491 disconnected
+0491 571 804 active      
+0491 572 549 active      
+0491 572 665 active      
+0491 572 983 inactive    
+0491 573 770 disconnected
+0491 573 087 disconnected
