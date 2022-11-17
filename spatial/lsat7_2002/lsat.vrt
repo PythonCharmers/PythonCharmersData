@@ -1,0 +1,103 @@
+<VRTDataset rasterXSize="527" rasterYSize="475">
+  <SRS dataAxisToSRSAxisMapping="1,2">PROJCS["Lambert Conformal Conic",GEOGCS["NAD83",DATUM["North_American_Datum_1983",SPHEROID["GRS 1980",6378137,298.257222101004,AUTHORITY["EPSG","7019"]],AUTHORITY["EPSG","6269"]],PRIMEM["Greenwich",0],UNIT["degree",0.0174532925199433,AUTHORITY["EPSG","9122"]],AUTHORITY["EPSG","4269"]],PROJECTION["Lambert_Conformal_Conic_2SP"],PARAMETER["latitude_of_origin",33.75],PARAMETER["central_meridian",-79],PARAMETER["standard_parallel_1",36.1666666666667],PARAMETER["standard_parallel_2",34.3333333333333],PARAMETER["false_easting",609601.22],PARAMETER["false_northing",0],UNIT["metre",1,AUTHORITY["EPSG","9001"]],AXIS["Easting",EAST],AXIS["Northing",NORTH]]</SRS>
+  <GeoTransform>  6.2999250000000000e+05,  2.8500000000000000e+01,  0.0000000000000000e+00,  2.2851300000000000e+05,  0.0000000000000000e+00, -2.8500000000000000e+01</GeoTransform>
+  <VRTRasterBand dataType="Int32" band="1">
+    <NoDataValue>-9999</NoDataValue>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">lsat7_2002_10.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="527" RasterYSize="475" DataType="Int32" BlockXSize="527" BlockYSize="3" />
+      <SrcRect xOff="0" yOff="0" xSize="527" ySize="475" />
+      <DstRect xOff="0" yOff="0" xSize="527" ySize="475" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int32" band="2">
+    <NoDataValue>-9999</NoDataValue>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">lsat7_2002_20.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="527" RasterYSize="475" DataType="Int32" BlockXSize="527" BlockYSize="3" />
+      <SrcRect xOff="0" yOff="0" xSize="527" ySize="475" />
+      <DstRect xOff="0" yOff="0" xSize="527" ySize="475" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int32" band="3">
+    <NoDataValue>-9999</NoDataValue>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">lsat7_2002_30.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="527" RasterYSize="475" DataType="Int32" BlockXSize="527" BlockYSize="3" />
+      <SrcRect xOff="0" yOff="0" xSize="527" ySize="475" />
+      <DstRect xOff="0" yOff="0" xSize="527" ySize="475" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int32" band="4">
+    <NoDataValue>-9999</NoDataValue>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">lsat7_2002_40.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="527" RasterYSize="475" DataType="Int32" BlockXSize="527" BlockYSize="3" />
+      <SrcRect xOff="0" yOff="0" xSize="527" ySize="475" />
+      <DstRect xOff="0" yOff="0" xSize="527" ySize="475" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int32" band="5">
+    <NoDataValue>-9999</NoDataValue>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">lsat7_2002_50.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="527" RasterYSize="475" DataType="Int32" BlockXSize="527" BlockYSize="3" />
+      <SrcRect xOff="0" yOff="0" xSize="527" ySize="475" />
+      <DstRect xOff="0" yOff="0" xSize="527" ySize="475" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int32" band="6">
+    <NoDataValue>-9999</NoDataValue>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">lsat7_2002_61.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="527" RasterYSize="475" DataType="Int32" BlockXSize="527" BlockYSize="3" />
+      <SrcRect xOff="0" yOff="0" xSize="527" ySize="475" />
+      <DstRect xOff="0" yOff="0" xSize="527" ySize="475" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int32" band="7">
+    <NoDataValue>-9999</NoDataValue>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">lsat7_2002_62.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="527" RasterYSize="475" DataType="Int32" BlockXSize="527" BlockYSize="3" />
+      <SrcRect xOff="0" yOff="0" xSize="527" ySize="475" />
+      <DstRect xOff="0" yOff="0" xSize="527" ySize="475" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int32" band="8">
+    <NoDataValue>-9999</NoDataValue>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">lsat7_2002_70.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="527" RasterYSize="475" DataType="Int32" BlockXSize="527" BlockYSize="3" />
+      <SrcRect xOff="0" yOff="0" xSize="527" ySize="475" />
+      <DstRect xOff="0" yOff="0" xSize="527" ySize="475" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Int32" band="9">
+    <NoDataValue>-9999</NoDataValue>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">lsat7_2002_80.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="527" RasterYSize="475" DataType="Int32" BlockXSize="527" BlockYSize="3" />
+      <SrcRect xOff="0" yOff="0" xSize="527" ySize="475" />
+      <DstRect xOff="0" yOff="0" xSize="527" ySize="475" />
+      <NODATA>-9999</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+</VRTDataset>
