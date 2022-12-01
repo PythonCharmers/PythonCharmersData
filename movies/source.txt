@@ -1,0 +1,1 @@
+These data files are from the PyCon tutorial of Brandon Rhodes: https://github.com/brandon-rhodes/pycon-pandas-tutorial/
