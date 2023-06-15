@@ -1,3 +1,10 @@
-.DS_Store
-.ipynb_checkpoints/
 /connection_information.txt
+# Ignore temp files:
+.DS_Store
+*~
+**/.ipynb_checkpoints/
+**/__pycache__/
+**/*.egg-info/
+altair*.json
+.vscode/
+Icon?
