@@ -30,7 +30,7 @@ UN code number,2 letter ISO abbreviation,3-letter ISO abbreviation,name,capital
 108,BI,BDI,Burundi,Bujumbura
 112,BY,BLR,Belarus,Minsk
 116,KH,KHM,Cambodia,Phnom Penh
-120,CM,CMR,Cameroon,Yaound?
+120,CM,CMR,Cameroon,Yaoundé
 124,CA,CAN,Canada,Ottawa
 132,CV,CPV,Cape Verde,Praia
 136,KY,CYM,Cayman Islands,George Town
@@ -40,12 +40,12 @@ UN code number,2 letter ISO abbreviation,3-letter ISO abbreviation,name,capital
 152,CL,CHL,Chile,Santiago
 156,CN,CHN,China,Beijing
 158,TW,TWN,Taiwan Province of China,Taipei
-170,CO,COL,Colombia,Bogot?
+170,CO,COL,Colombia,Bogotá
 174,KM,COM,Comoros,Moroni
 178,CG,COG,Congo,Brazzaville
 180,CD,COD,The Democratic Republic of the Congo,Kinshasa
 184,CK,COK,Cook Islands,Avarua
-188,CR,CRI,Costa Rica,San Jos?
+188,CR,CRI,Costa Rica,San José
 191,HR,HRV,Croatia,Zagreb
 192,CU,CUB,Cuba,Havana
 196,CY,CYP,Cyprus,Nicosia
@@ -60,7 +60,7 @@ UN code number,2 letter ISO abbreviation,3-letter ISO abbreviation,name,capital
 230,ET,ETH,Ethiopia,Addis Ababa
 232,ER,ERI,Eritrea,Asmara
 233,EE,EST,Estonia,Tallinn
-234,FO,FRO,Faroe Islands,T?rshavn
+234,FO,FRO,Faroe Islands,Tórshavn
 238,FK,FLK,Falkland Islands (Malvinas),Stanley
 242,FJ,FJI,Fiji,Suva
 246,FI,FIN,Finland,Helsinki
@@ -79,7 +79,7 @@ UN code number,2 letter ISO abbreviation,3-letter ISO abbreviation,name,capital
 304,GL,GRL,Greenland,Nuuk
 308,GD,GRD,Grenada,St. George's
 312,GP,GLP,Guadeloupe,Basse-Terre
-316,GU,GUM,Guam,Aga?a
+316,GU,GUM,Guam,Hagåtña
 320,GT,GTM,Guatemala,Guatemala City
 324,GN,GIN,Guinea,Conakry
 328,GY,GUY,Guyana,Georgetown
@@ -117,7 +117,7 @@ UN code number,2 letter ISO abbreviation,3-letter ISO abbreviation,name,capital
 450,MG,MDG,Madagascar,Antananarivo
 454,MW,MWI,Malawi,Lilongwe
 458,MY,MYS,Malaysia,Kuala Lumpur
-462,MV,MDV,Maldives,Mal?
+462,MV,MDV,Maldives,Malé
 466,ML,MLI,Mali,Bamako
 470,MT,MLT,Malta,Valletta
 474,MQ,MTQ,Martinique,Fort-de-France
@@ -137,7 +137,7 @@ UN code number,2 letter ISO abbreviation,3-letter ISO abbreviation,name,capital
 528,NL,NLD,Netherlands,Amsterdam; The Hague
 530,AN,ANT,Netherlands Antilles,Willemstad
 533,AW,ABW,Aruba,Oranjestad
-540,NC,NCL,New Caledonia,Noum?a
+540,NC,NCL,New Caledonia,Nouméa
 548,VU,VUT,Vanuatu,Port-Vila
 554,NZ,NZL,New Zealand,Wellington
 558,NI,NIC,Nicaragua,Managua
@@ -153,7 +153,7 @@ UN code number,2 letter ISO abbreviation,3-letter ISO abbreviation,name,capital
 586,PK,PAK,Pakistan,Islamabad
 591,PA,PAN,Panama,Panama City
 598,PG,PNG,Papua New Guinea,Port Moresby
-600,PY,PRY,Paraguay,Asunci?n
+600,PY,PRY,Paraguay,Asunción
 604,PE,PER,Peru,Lima
 608,PH,PHL,Philippines,Manila
 612,PN,PCN,Pitcairn,Adamston
@@ -162,7 +162,7 @@ UN code number,2 letter ISO abbreviation,3-letter ISO abbreviation,name,capital
 624,GW,GNB,Guinea-Bissau,Bissau
 630,PR,PRI,Puerto Rico,San Juan
 634,QA,QAT,Qatar,Doha
-638,RE,REU,R?union,Saint-Denis
+638,RE,REU,Réunion,Saint-Denis
 642,RO,ROM,Romania,Bucharest
 643,RU,RUS,Russian Federation,Moscow
 646,RW,RWA,Rwanda,Kigali
@@ -173,7 +173,7 @@ UN code number,2 letter ISO abbreviation,3-letter ISO abbreviation,name,capital
 666,PM,SPM,Saint Pierre and Miquelon,St.-Pierre
 670,VC,VCT,Saint Vincent and the Grenadines,Kingstown
 674,SM,SMR,San Marino,San Marino
-678,ST,STP,S?o Tom? and Principe,S?o Tom?
+678,ST,STP,São Tomé and Principe,São Tomé
 682,SA,SAU,Saudi Arabia,Riyadh
 686,SN,SEN,Senegal,Dakar
 690,SC,SYC,Seychelles,Victoria
@@ -195,8 +195,8 @@ UN code number,2 letter ISO abbreviation,3-letter ISO abbreviation,name,capital
 760,SY,SYR,Syrian Arab Republic,Damascus
 762,TJ,TJK,Tajikistan,Dushanbe
 764,TH,THA,Thailand,Bangkok
-768,TG,TGO,Togo,Lom?
-776,TO,TON,Tonga,Nuku?lofa
+768,TG,TGO,Togo,Lomé
+776,TO,TON,Tonga,Nukuʻalofa
 780,TT,TTO,Trinidad and Tobago,Port-of-Spain
 784,AE,ARE,United Arab Emirates,Abu Dhabi
 788,TN,TUN,Tunisia,Tunis
