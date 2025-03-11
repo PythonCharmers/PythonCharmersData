@@ -1,0 +1,222 @@
+Kabul,AF
+Tirana,AL
+Algiers,DZ
+Andorra la Vella,AD
+Luanda,AO
+St. John's,AG
+Baku,AZ
+Buenos Aires,AR
+Canberra,AU
+Vienna,AT
+Nassau,BS
+Manama,BH
+Dhaka,BD
+Yerevan,AM
+Bridgetown,BB
+Brussels,BE
+Hamilton,BM
+Thimphu,BT
+La Paz,BO
+Sarajevo,BA
+Gaborone,BW
+Brasilia,BR
+Belmopan,BZ
+Honiara,SB
+Road Town,VG
+Bandar Seri Begawan,BN
+Sofia,BG
+Rangoon,MM
+Bujumbura,BI
+Minsk,BY
+Phnom Penh,KH
+Yaoundé,CM
+Ottawa,CA
+Praia,CV
+George Town,KY
+Bangui,CF
+Colombo,LK
+N'Djamena,TD
+Santiago,CL
+Beijing,CN
+Taipei,TW
+Bogotá,CO
+Moroni,KM
+Brazzaville,CG
+Kinshasa,CD
+Avarua,CK
+San José,CR
+Zagreb,HR
+Havana,CU
+Nicosia,CY
+Prague,CZ
+Porto-Novo,BJ
+Copenhagen,DK
+Roseau,DM
+Santo Domingo,DO
+Quito,EC
+San Salvador,SV
+Malabo,GQ
+Addis Ababa,ET
+Asmara,ER
+Tallinn,EE
+Tórshavn,FO
+Stanley,FK
+Suva,FJ
+Helsinki,FI
+Paris,FR
+Cayenne,GF
+Papeete,PF
+Djibouti,DJ
+Libreville,GA
+Tbilisi,GE
+Banjul,GM
+Berlin,DE
+Accra,GH
+Gibraltar,GI
+Tarawa,KI
+Athens,GR
+Nuuk,GL
+St. George's,GD
+Basse-Terre,GP
+Hagåtña,GU
+Guatemala City,GT
+Conakry,GN
+Georgetown,GY
+Port-au-Prince,HT
+Vatican City,VA
+Tegucigalpa,HN
+Budapest,HU
+Reykjavik,IS
+New Delhi,IN
+Jakarta,ID
+Tehran,IR
+Baghdad,IQ
+Dublin,IE
+Jerusalem,IL
+Rome,IT
+Yamoussoukro,CI
+Kingston,JM
+Tokyo,JP
+Astana,KZ
+Amman,JO
+Nairobi,KE
+Pyongyang,KP
+Seoul,KR
+Kuwait,KW
+Bishkek,KG
+Viangchan,LA
+Beirut,LB
+Maseru,LS
+Riga,LV
+Monrovia,LR
+Tripoli,LY
+Vaduz,LI
+Vilnius,LT
+Luxembourg,LU
+Antananarivo,MG
+Lilongwe,MW
+Kuala Lumpur,MY
+Malé,MV
+Bamako,ML
+Valletta,MT
+Fort-de-France,MQ
+Nouakchott,MR
+Port Louis,MU
+Mexico City,MX
+Monaco-ville,MC
+Ulan Bator,MN
+Chisinau,MD
+Plymouth,MS
+Rabat,MA
+Maputo,MZ
+Muscat,OM
+Windhoek,NA
+Yaren,NR
+Kathmandu,NP
+Amsterdam; The Hague,NL
+Willemstad,AN
+Oranjestad,AW
+Nouméa,NC
+Port-Vila,VU
+Wellington,NZ
+Managua,NI
+Niamey,NE
+Abuja,NG
+Alofi,NU
+Kingston,NF
+Oslo,NO
+Saipan,MP
+Palikir,FM
+Majuro,MH
+Koror,PW
+Islamabad,PK
+Panama City,PA
+Port Moresby,PG
+Asunción,PY
+Lima,PE
+Manila,PH
+Adamston,PN
+Warsaw,PL
+Lisbon,PT
+Bissau,GW
+San Juan,PR
+Doha,QA
+Saint-Denis,RE
+Bucharest,RO
+Moscow,RU
+Kigali,RW
+Jamestown,SH
+Basseterre,KN
+The Valley,AI
+Castries,LC
+St.-Pierre,PM
+Kingstown,VC
+San Marino,SM
+São Tomé,ST
+Riyadh,SA
+Dakar,SN
+Victoria,SC
+Freetown,SL
+Singapore City,SG
+Bratislava,SK
+Hanoi,VN
+Ljubljana,SI
+Mogadishu,SO
+Pretoria (administrative) Cape Town (legislative),ZA
+Harare,ZW
+Madrid,ES
+Khartoum,SD
+Paramaribo,SR
+Longyearbyen,SJ
+Mbabane,SZ
+Stockholm,SE
+Bern,CH
+Damascus,SY
+Dushanbe,TJ
+Bangkok,TH
+Lomé,TG
+Nukuʻalofa,TO
+Port-of-Spain,TT
+Abu Dhabi,AE
+Tunis,TN
+Ankara,TR
+Ashgabat,TM
+Cockburn Town,TC
+Funafuti,TV
+Kampala,UG
+Kiev,UA
+Skopje,MK
+Cairo,EG
+London,GB
+Washington,US
+Ouagadougou,BF
+Montevideo,UY
+Tashkent,UZ
+Caracas,VE
+Dodoma,TZ
+Charlotte Amalie,VI
+Mata-Utu,WF
+Apia,WS
+Sanaa,YE
+Belgrade,YU
+Lusaka,ZM
