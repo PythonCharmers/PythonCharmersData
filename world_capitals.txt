@@ -133,7 +133,7 @@ Muscat,OM
 Windhoek,NA
 Yaren,NR
 Kathmandu,NP
-Amsterdam; The Hague,NL
+Amsterdam,NL
 Willemstad,AN
 Oranjestad,AW
 Nouméa,NC
@@ -182,7 +182,7 @@ Bratislava,SK
 Hanoi,VN
 Ljubljana,SI
 Mogadishu,SO
-Pretoria (administrative) Cape Town (legislative),ZA
+Pretoria,ZA
 Harare,ZW
 Madrid,ES
 Khartoum,SD
