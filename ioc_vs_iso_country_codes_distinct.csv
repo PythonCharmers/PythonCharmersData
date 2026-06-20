@@ -3,7 +3,7 @@ Algeria,ALG,DZA
 American Samoa,ASA,ASM
 Angola,ANG,AGO
 Aruba,ARU,ABW
-Bahamas,BAH,BHS
+The Bahamas,BAH,BHS
 Bahrain,BRN,BHR
 Bangladesh,BAN,BGD
 Barbados,BAR,BRB
@@ -19,15 +19,15 @@ Cambodia,CAM,KHM
 Cayman Islands,CAY,CYM
 Chad,CHA,TCD
 Chile,CHI,CHL
-Chinese Taipei,TPE,TWN
-Congo (Brazzaville),CGO,COG
+Taiwan,TPE,TWN
+Congo-Brazzaville,CGO,COG
 Costa Rica,CRC,CRI
 Croatia,CRO,HRV
 Denmark,DEN,DNK
 El Salvador,ESA,SLV
 Equatorial Guinea,GEQ,GNQ
 Fiji,FIJ,FJI
-Gambia,GAM,GMB
+The Gambia,GAM,GMB
 Germany,GER,DEU
 Greece,GRE,GRC
 Grenada,GRN,GRD
@@ -53,12 +53,11 @@ Mongolia,MGL,MNG
 Myanmar,MYA,MMR
 Nepal,NEP,NPL
 Netherlands,NED,NLD
-Netherlands Antilles,AHO,ANT
 Nicaragua,NCA,NIC
 Niger,NIG,NER
 Nigeria,NGR,NGA
 Oman,OMA,OMN
-Palestine,PLE,PSE
+Palestinian Authority,PLE,PSE
 Paraguay,PAR,PRY
 Philippines,PHI,PHL
 Portugal,POR,PRT
@@ -78,7 +77,7 @@ Taiwan,TPE,TWN
 Tanzania,TAN,TZA
 Togo,TOG,TGO
 Tonga,TGA,TON
-US Virgin Islands,ISV,VIR
+United States Virgin Islands,ISV,VIR
 United Arab Emirates,UAE,ARE
 Uruguay,URU,URY
 Vanuatu,VAN,VUT
